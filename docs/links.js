@@ -1,5 +1,5 @@
 window.CALCO = {
-"updated": "2026-11-12T12:31:25Z",
+"updated": "2026-11-12T12:37:56Z",
 "tops": [
 {
 "d": "2026-11-12T11:28:16Z",
@@ -27,15 +27,37 @@ window.CALCO = {
 ],
 "links": [
 {
-"d": "2026-11-12T12:09:19Z",
+"d": "2026-11-12T12:31:54Z",
 "s": "ABC Cultura",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "Peter Heller y 'La constelación del Perro', luminosa desolación",
-"u": "https://www.abc.es/cultura/cultural/peter-heller-constelacion-perro-luminosa-desolacion-20261112130918-nt.html"
+"h": "George Saunders: ¡Que vienen los rusos!",
+"u": "https://www.abc.es/cultura/cultural/george-saunders-vienen-rusos-20261112133153-nt.html"
+},
+{
+"d": "2026-11-12T12:31:36Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cyberangriffe auf Kühltruhen: Kühlanlagen-Angriffe: Auch Belgien sieht Spuren in den Iran",
+"u": "https://www.zeit.de/news/2026-11/12/kuehlanlagen-angriffe-auch-belgien-sieht-spuren-in-den-iran"
+},
+{
+"d": "2026-11-12T12:12:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "'La bola negra', de Los Javis, arrasa con cinco nominaciones en los Forqué",
+"u": "https://www.elconfidencial.com/cultura/2026-11-12/premios-forque-javis_4463614/"
 },
 {
 "d": "2026-11-12T12:06:59Z",
@@ -92,6 +114,17 @@ window.CALCO = {
 "u": "https://www.dazeddigital.com/life-culture/article/71268/1/how-the-little-treat-became-a-talisman-in-our-search-for-meaning-kfc-kwench?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-the-little-treat-became-a-talisman-in-our-search-for-meaning"
 },
 {
+"d": "2026-11-12T11:59:02Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Il nuovo film con Johnny Depp è in realtà un test",
+"u": "https://www.ilpost.it/2026/11/12/johnny-depp-scrooge-test/"
+},
+{
 "d": "2026-11-12T11:55:14Z",
 "s": "NZZ",
 "l": "de",
@@ -123,17 +156,6 @@ window.CALCO = {
 ],
 "h": "Donde hay amor, hay política",
 "u": "https://www.lamarea.com/2026/11/12/amor-politica/"
-},
-{
-"d": "2026-11-12T11:40:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Blanca Portillo, actriz, 63 años: \"Cuando interpretas a un hombre tu cuerpo está mucho más libre. Puedes hacer muchas más cosas, como en la vida real\"",
-"u": "https://www.elconfidencial.com/cultura/2026-11-12/blanca-portillo-actriz-interpretar-hombres-1qrt_4463437/"
 },
 {
 "d": "2026-11-12T11:32:22Z",
@@ -242,6 +264,17 @@ window.CALCO = {
 ],
 "h": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
 "u": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/"
+},
+{
+"d": "2026-11-12T10:57:28Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cloud 9 delightfully embraces absurdity",
+"u": "https://www.newstatesman.com/culture/theatre/2026/11/cloud-9-fully-embraces-absurdity"
 },
 {
 "d": "2026-11-12T10:44:00Z",
@@ -562,6 +595,160 @@ window.CALCO = {
 ],
 "h": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
 "u": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/"
+},
+{
+"d": "2026-11-11T17:04:04Z",
+"s": "Eurozine",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Before social media, there were postcards",
+"u": "https://www.eurozine.com/before-social-media-there-were-postcards/?utm_source=rss&utm_medium=rss&utm_campaign=before-social-media-there-were-postcards"
+},
+{
+"d": "2026-11-11T17:02:16Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Johann Peter Hebel’s little treasure chest",
+"u": "https://engelsbergideas.com/notebook/johann-peter-hebels-little-treasure-chest/"
+},
+{
+"d": "2026-11-11T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Incarcérer les auteurs de violences sexistes et sexuelles, et après ?",
+"u": "https://aoc.media/analyse/2026/11/11/incarcerer-les-auteurs-de-violences-sexistes-et-sexuelles-et-apres/"
+},
+{
+"d": "2026-11-11T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Pompidou et moi",
+"u": "https://aoc.media/opinion/2026/11/11/pompidou-et-moi/"
+},
+{
+"d": "2026-11-11T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Le feu sous la craie – sur La Maison de Bernarda Alba de Thibaud Croisy",
+"u": "https://aoc.media/critique/2026/11/11/le-feu-sous-la-craie-sur-la-maison-de-bernarda-alba-de-thibaud-croisy/"
+},
+{
+"d": "2026-11-11T17:00:00Z",
+"s": "MIT Technology Review",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "What to know about this year’s UN climate talks",
+"u": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+},
+{
+"d": "2026-11-11T16:14:35Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "The crimes of ‘The Rings of Power’ against Tolkien",
+"u": "https://engelsbergideas.com/notebook/the-crimes-of-the-rings-of-power-against-tolkien/"
+},
+{
+"d": "2026-11-11T16:06:03Z",
+"s": "The Baffler",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Blockheads",
+"u": "https://thebaffler.com/latest/blockheads-dolan?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed"
+},
+{
+"d": "2026-11-11T14:40:21Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "What Ballot Measures Told Us About America",
+"u": "https://jacobin.com/2026/11/ballot-measures-billionaire-tax-abortion-divestment"
+},
+{
+"d": "2026-11-11T13:00:29Z",
+"s": "The Paris Review",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Threads of Imagery: Barbara Trapido’s Debut Novel Forty Years On",
+"u": "https://www.theparisreview.org/blog/2026/11/11/barbara-trapido-brother-more-famous-jack-rosa-lyster/"
+},
+{
+"d": "2026-11-11T10:52:59Z",
+"s": "Eurozine",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Nacionalistický sen o realite vytvára umelá inteligencia",
+"u": "https://www.eurozine.com/nacionalisticky-sen-o-realite-vytvara-umela-inteligencia/?utm_source=rss&utm_medium=rss&utm_campaign=nacionalisticky-sen-o-realite-vytvara-umela-inteligencia"
+},
+{
+"d": "2026-11-11T10:00:30Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "Tinto Brass (1933-2026)",
+"u": "https://seul.ar/tinto-brass-1933-2026/"
+},
+{
+"d": "2026-11-11T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "“Chepibe”, “asegunes”, “medalaganario”. Palabras estelares",
+"u": "https://elpais.com/babelia/2026-11-11/chepibe-asegunes-medalaganario-palabras-estelares.html"
+},
+{
+"d": "2026-11-11T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Los mejores cómics del mes: una mirada sincera al cáncer de mama, sutil humor británico y un ‘Frankenstein’ más humano",
+"u": "https://elpais.com/babelia/2026-11-11/los-mejores-comics-del-mes-una-mirada-sincera-al-cancer-de-mama-sutil-humor-britanico-y-un-frankenstein-mas-humano.html"
 }
 ]
 };

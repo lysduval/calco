@@ -104,14 +104,6 @@
   "recientes": 25
  },
  {
-  "n": "El Mundo · La Lectura",
-  "u": "https://e00-elmundo.uecdn.es/elmundo/rss/la-lectura.xml",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 404: Not Found",
-  "entradas": 0,
-  "recientes": 0
- },
- {
   "n": "El Mundo",
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
@@ -126,14 +118,6 @@
   "error": null,
   "entradas": 30,
   "recientes": 15
- },
- {
-  "n": "elDiario.es",
-  "u": "https://www.eldiario.es/rss/section/cultura/",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 404: Not Found",
-  "entradas": 0,
-  "recientes": 0
  },
  {
   "n": "La Marea",
@@ -165,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "Seúl",
@@ -331,7 +315,7 @@
   "n": "Perlentaucher",
   "u": "https://rss.perlentaucher.de/",
   "ok": false,
-  "error": "sin entradas",
+  "error": "HTTPError: HTTP Error 404: Not Found",
   "entradas": 0,
   "recientes": 0
  },
@@ -353,11 +337,11 @@
  },
  {
   "n": "Die Zeit",
-  "u": "https://newsfeed.zeit.de/kultur/index",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 404: Not Found",
-  "entradas": 0,
-  "recientes": 0
+  "u": "https://newsfeed.zeit.de/index",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 15
  },
  {
   "n": "taz",
@@ -373,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Doppiozero",
@@ -433,18 +417,18 @@
  },
  {
   "n": "New Statesman",
-  "u": "https://www.newstatesman.com/culture/feed",
-  "ok": false,
-  "error": "sin entradas",
-  "entradas": 0,
-  "recientes": 0
+  "u": "https://www.newstatesman.com/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 20
  },
  {
   "n": "Sidecar (New Left Review)",
-  "u": "https://newleftreview.org/feeds/sidecar.rss",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 404: Not Found",
-  "entradas": 0,
+  "u": "https://newleftreview.org/sidecar/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 30,
   "recientes": 0
  },
  {
@@ -515,7 +499,7 @@
   "n": "Spike",
   "u": "https://spikeartmagazine.com/rss.xml",
   "ok": false,
-  "error": "HTTPError: HTTP Error 404: Not Found",
+  "error": "sin entradas",
   "entradas": 0,
   "recientes": 0
  },
@@ -617,11 +601,11 @@
  },
  {
   "n": "The New Yorker",
-  "u": "https://www.newyorker.com/feed/books",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 400: Bad Request",
-  "entradas": 0,
-  "recientes": 0
+  "u": "https://www.newyorker.com/feed/everything",
+  "ok": true,
+  "error": null,
+  "entradas": 50,
+  "recientes": 15
  },
  {
   "n": "The New Yorker",
@@ -629,7 +613,7 @@
   "ok": true,
   "error": null,
   "entradas": 41,
-  "recientes": 6
+  "recientes": 0
  },
  {
   "n": "Jacobin",
