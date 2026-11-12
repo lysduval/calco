@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 16
+  "recientes": 14
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 11
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "The Objective",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "ABC Cultura",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 53,
-  "recientes": 12
+  "entradas": 54,
+  "recientes": 22
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 29
+  "recientes": 30
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 10
+  "recientes": 8
  },
  {
   "n": "Seúl",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Gatopardo",
@@ -229,7 +229,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 0
+  "recientes": 6
  },
  {
   "n": "Esteban Schmidt",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 19
+  "recientes": 14
  },
  {
   "n": "Le Figaro",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 13
  },
  {
   "n": "Perlentaucher",
@@ -324,8 +324,8 @@
   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
   "ok": true,
   "error": null,
-  "entradas": 46,
-  "recientes": 28
+  "entradas": 45,
+  "recientes": 26
  },
  {
   "n": "NZZ",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 18
+  "recientes": 14
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 5
  },
  {
   "n": "Doppiozero",
@@ -404,8 +404,8 @@
   "u": "https://www.theguardian.com/books/rss",
   "ok": true,
   "error": null,
-  "entradas": 29,
-  "recientes": 6
+  "entradas": 28,
+  "recientes": 7
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "New Statesman",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Eurozine",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "UnHerd",
@@ -557,7 +557,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "The Baffler",
@@ -597,7 +597,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The New Yorker",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 15
+  "recientes": 17
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "Hyperallergic",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Counter Craft",
@@ -716,7 +716,7 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 14,
+  "entradas": 10,
   "recientes": 10
  },
  {
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 18
+  "recientes": 19
  }
 ]
