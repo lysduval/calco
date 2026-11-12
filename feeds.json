@@ -1,113 +1,1245 @@
 {
-  "window_hours": 48,
-  "max_links": 80,
-  "max_per_source": 3,
-  "block": ["elizabethduval"],
-  "feeds": [
-    {"n": "Babelia", "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/babelia", "l": "es", "r": ["es"], "t": ["letras"], "m": "all", "max": 5},
-    {"n": "El País", "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter", "max": 4},
-    {"n": "El País", "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada", "l": "es", "r": ["es"], "t": ["ideas"], "m": "filter"},
-    {"n": "El País", "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/ideas", "l": "es", "r": ["es"], "t": ["ideas"], "m": "filter"},
-    {"n": "Kaminker", "u": "https://kaminker.es/feed/", "l": "es", "r": ["es"], "t": ["arte"], "m": "all"},
-    {"n": "A*Desk", "u": "https://a-desk.org/feed/", "l": "es", "r": ["es"], "t": ["arte"], "m": "all"},
-    {"n": "Caimán Cuadernos de Cine", "u": "https://www.caimanediciones.es/feed/", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-    {"n": "Zenda", "u": "https://www.zendalibros.com/feed/", "l": "es", "r": ["es"], "t": ["letras"], "m": "filter"},
-    {"n": "Revista de Libros", "u": "https://www.revistadelibros.com/feed/", "l": "es", "r": ["es"], "t": ["letras"], "m": "all"},
-    {"n": "Letras Libres", "u": "https://letraslibres.com/feed/", "l": "es", "r": ["es", "latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Jot Down", "u": "https://www.jotdown.es/feed/", "l": "es", "r": ["es"], "t": ["ideas"], "m": "filter"},
-    {"n": "The Objective", "u": "https://theobjective.com/cultura/feed/", "l": "es", "r": ["es"], "t": ["letras"], "m": "filter"},
-    {"n": "ABC Cultura", "u": "https://www.abc.es/rss/2.0/cultura/", "l": "es", "r": ["es"], "t": ["letras"], "m": "filter"},
-    {"n": "El Mundo · La Lectura", "u": "https://e00-elmundo.uecdn.es/elmundo/rss/la-lectura.xml", "l": "es", "r": ["es"], "t": ["letras"], "m": "filter"},
-    {"n": "El Mundo", "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-    {"n": "El Cultural", "u": "https://www.elespanol.com/rss/el-cultural/", "l": "es", "r": ["es"], "t": ["letras"], "m": "filter"},
-    {"n": "elDiario.es", "u": "https://www.eldiario.es/rss/section/cultura/", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-    {"n": "La Marea", "u": "https://www.lamarea.com/feed/", "l": "es", "r": ["es"], "t": ["ideas"], "m": "filter"},
-    {"n": "Público", "u": "https://www.publico.es/rss/culturas", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-    {"n": "La Vanguardia", "u": "https://www.lavanguardia.com/rss/cultura.xml", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-    {"n": "El Confidencial", "u": "https://rss.elconfidencial.com/cultura/", "l": "es", "r": ["es"], "t": ["arte"], "m": "filter"},
-
-    {"n": "Seúl", "u": "https://seul.ar/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Panamá Revista", "u": "https://panamarevista.com/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Revista Anfibia", "u": "https://www.revistaanfibia.com/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Revista Crisis", "u": "https://revistacrisis.com.ar/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Nexos", "u": "https://www.nexos.com.mx/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "filter"},
-    {"n": "Nexos", "u": "https://cultura.nexos.com.mx/feed/", "l": "es", "r": ["latam"], "t": ["arte"], "m": "all"},
-    {"n": "Artishock", "u": "https://artishockrevista.com/feed/", "l": "es", "r": ["latam"], "t": ["arte"], "m": "all"},
-    {"n": "Gatopardo", "u": "https://gatopardo.com/feed/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "filter"},
-    {"n": "Nueva Sociedad", "u": "https://nuso.org/rss/", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-    {"n": "Otra Parte", "u": "https://www.revistaotraparte.com/feed/", "l": "es", "r": ["latam"], "t": ["letras"], "m": "all"},
-    {"n": "Esteban Schmidt", "u": "https://estebanschmidt.substack.com/feed", "l": "es", "r": ["latam"], "t": ["ideas"], "m": "all"},
-
-    {"n": "Le Grand Continent", "u": "https://legrandcontinent.eu/fr/feed/", "l": "fr", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "AOC", "u": "https://aoc.media/feed/", "l": "fr", "r": ["europa"], "t": ["ideas"], "m": "all"},
-    {"n": "En attendant Nadeau", "u": "https://www.en-attendant-nadeau.fr/feed/", "l": "fr", "r": ["europa"], "t": ["letras"], "m": "all"},
-    {"n": "Diacritik", "u": "https://diacritik.com/feed/", "l": "fr", "r": ["europa"], "t": ["letras"], "m": "all"},
-    {"n": "lundimatin", "u": "https://lundi.am/spip.php?page=backend", "l": "fr", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "Le Monde des livres", "u": "https://www.lemonde.fr/livres/rss_full.xml", "l": "fr", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "Le Monde", "u": "https://www.lemonde.fr/idees/rss_full.xml", "l": "fr", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "Le Monde", "u": "https://www.lemonde.fr/culture/rss_full.xml", "l": "fr", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Le Figaro", "u": "https://www.lefigaro.fr/rss/figaro_livres.xml", "l": "fr", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "Perlentaucher", "u": "https://rss.perlentaucher.de/", "l": "de", "r": ["europa"], "t": ["letras"], "m": "all"},
-    {"n": "FAZ", "u": "https://www.faz.net/rss/aktuell/feuilleton/", "l": "de", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "NZZ", "u": "https://www.nzz.ch/feuilleton.rss", "l": "de", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "Die Zeit", "u": "https://newsfeed.zeit.de/kultur/index", "l": "de", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "taz", "u": "https://taz.de/!p4639;rss/", "l": "de", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Il Post", "u": "https://www.ilpost.it/cultura/feed/", "l": "it", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Doppiozero", "u": "https://www.doppiozero.com/rss.xml", "l": "it", "r": ["europa"], "t": ["arte"], "m": "all"},
-    {"n": "Il Foglio", "u": "https://www.ilfoglio.it/cultura/rss.xml", "l": "it", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "il manifesto", "u": "https://ilmanifesto.it/feed", "l": "it", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "London Review of Books", "u": "https://www.lrb.co.uk/feeds/rss", "l": "en", "r": ["europa"], "t": ["letras"], "m": "all"},
-    {"n": "TLS", "u": "https://www.the-tls.co.uk/feed/", "l": "en", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "The Guardian", "u": "https://www.theguardian.com/books/rss", "l": "en", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "The Guardian", "u": "https://www.theguardian.com/artanddesign/rss", "l": "en", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "New Statesman", "u": "https://www.newstatesman.com/culture/feed", "l": "en", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Sidecar (New Left Review)", "u": "https://newleftreview.org/feeds/sidecar.rss", "l": "en", "r": ["europa"], "t": ["ideas"], "m": "all"},
-    {"n": "Eurozine", "u": "https://www.eurozine.com/feed/", "l": "en", "r": ["europa"], "t": ["ideas"], "m": "all"},
-    {"n": "Equator", "u": "https://www.equator.org/rss.xml", "l": "en", "r": [], "t": ["ideas"], "m": "all"},
-    {"n": "Engelsberg Ideas", "u": "https://engelsbergideas.com/feed/", "l": "en", "r": ["europa"], "t": ["ideas"], "m": "all"},
-    {"n": "UnHerd", "u": "https://unherd.com/feed/", "l": "en", "r": ["europa"], "t": ["ideas"], "m": "filter"},
-    {"n": "The Critic", "u": "https://thecritic.co.uk/feed/", "l": "en", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "ArtReview", "u": "https://artreview.com/feed/", "l": "en", "r": [], "t": ["arte"], "m": "filter"},
-    {"n": "Frieze", "u": "https://www.frieze.com/rss.xml", "l": "en", "r": [], "t": ["arte"], "m": "filter"},
-    {"n": "Mousse", "u": "https://www.moussemagazine.it/feed/", "l": "en", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Spike", "u": "https://spikeartmagazine.com/rss.xml", "l": "en", "r": ["europa"], "t": ["arte"], "m": "filter"},
-    {"n": "Vestoj", "u": "https://vestoj.com/feed/", "l": "en", "r": [], "t": ["moda"], "m": "all"},
-    {"n": "AnOther", "u": "https://www.anothermag.com/feed", "l": "en", "r": [], "t": ["moda"], "m": "filter"},
-    {"n": "Dazed", "u": "https://www.dazeddigital.com/rss", "l": "en", "r": [], "t": ["moda"], "m": "filter"},
-    {"n": "032c", "u": "https://032c.com/feed", "l": "en", "r": ["europa"], "t": ["moda"], "m": "filter"},
-
-    {"n": "The New York Review of Books", "u": "https://www.nybooks.com/feed/", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "all"},
-    {"n": "n+1", "u": "https://www.nplusonemag.com/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "all"},
-    {"n": "The Paris Review", "u": "https://www.theparisreview.org/blog/feed/", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "all"},
-    {"n": "The Baffler", "u": "https://thebaffler.com/feed", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "all"},
-    {"n": "The Drift", "u": "https://www.thedriftmag.com/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "all"},
-    {"n": "The Point", "u": "https://thepointmag.com/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "all"},
-    {"n": "Los Angeles Review of Books", "u": "https://lareviewofbooks.org/feed/", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "all"},
-    {"n": "Harper's", "u": "https://harpers.org/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "filter"},
-    {"n": "The New Yorker", "u": "https://www.newyorker.com/feed/books", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "filter"},
-    {"n": "The New Yorker", "u": "https://www.newyorker.com/feed/culture", "l": "en", "r": ["eeuu"], "t": ["arte"], "m": "filter"},
-    {"n": "Jacobin", "u": "https://jacobin.com/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "filter"},
-    {"n": "Hyperallergic", "u": "https://hyperallergic.com/feed/", "l": "en", "r": ["eeuu"], "t": ["arte"], "m": "filter"},
-    {"n": "Artforum", "u": "https://www.artforum.com/feed/", "l": "en", "r": ["eeuu"], "t": ["arte"], "m": "filter"},
-    {"n": "Literary Hub", "u": "https://lithub.com/feed/", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "filter"},
-    {"n": "Dirt", "u": "https://dirt.fyi/rss/", "l": "en", "r": ["eeuu"], "t": ["arte"], "m": "all"},
-    {"n": "Noema", "u": "https://www.noemamag.com/feed/", "l": "en", "r": ["eeuu"], "t": ["ideas"], "m": "filter"},
-    {"n": "Granta", "u": "https://granta.com/feed/", "l": "en", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "Aeon", "u": "https://aeon.co/feed.rss", "l": "en", "r": [], "t": ["ideas"], "m": "filter"},
-    {"n": "The Honest Broker", "u": "https://www.honest-broker.com/feed", "l": "en", "r": ["eeuu"], "t": ["arte"], "m": "filter"},
-    {"n": "The Common Reader", "u": "https://www.commonreader.co.uk/feed", "l": "en", "r": ["europa"], "t": ["letras"], "m": "filter"},
-    {"n": "Counter Craft", "u": "https://countercraft.substack.com/feed", "l": "en", "r": ["eeuu"], "t": ["letras"], "m": "filter"},
-    {"n": "Embedded", "u": "https://embedded.substack.com/feed", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "Clone", "u": "https://clone.fyi/rss.xml", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-
-    {"n": "Ars Technica", "u": "https://feeds.arstechnica.com/arstechnica/index", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "404 Media", "u": "https://www.404media.co/rss/", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "Rest of World", "u": "https://restofworld.org/feed/latest/", "l": "en", "r": [], "t": ["tech"], "m": "filter"},
-    {"n": "MIT Technology Review", "u": "https://www.technologyreview.com/feed/", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "Simon Willison", "u": "https://simonwillison.net/atom/entries/", "l": "en", "r": [], "t": ["tech"], "m": "filter"},
-    {"n": "Platformer", "u": "https://www.platformer.news/rss/", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "all"},
-    {"n": "Stratechery", "u": "https://stratechery.com/feed/", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "The Verge", "u": "https://www.theverge.com/rss/index.xml", "l": "en", "r": ["eeuu"], "t": ["tech"], "m": "filter"},
-    {"n": "Sifted", "u": "https://sifted.eu/feed", "l": "en", "r": ["europa"], "t": ["tech"], "m": "filter"}
-  ]
+ "window_hours": 48,
+ "max_links": 80,
+ "max_per_source": 3,
+ "block": [
+  "elizabethduval"
+ ],
+ "feeds": [
+  {
+   "n": "Babelia",
+   "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/babelia",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all",
+   "max": 5
+  },
+  {
+   "n": "El País",
+   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "max": 4
+  },
+  {
+   "n": "El País",
+   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "El País",
+   "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/ideas",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Kaminker",
+   "u": "https://kaminker.es/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "A*Desk",
+   "u": "https://a-desk.org/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Caimán Cuadernos de Cine",
+   "u": "https://www.caimanediciones.es/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Zenda",
+   "u": "https://www.zendalibros.com/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Revista de Libros",
+   "u": "https://www.revistadelibros.com/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Letras Libres",
+   "u": "https://letraslibres.com/feed/",
+   "l": "es",
+   "r": [
+    "es",
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Jot Down",
+   "u": "https://www.jotdown.es/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Objective",
+   "u": "https://theobjective.com/cultura/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "ABC Cultura",
+   "u": "https://www.abc.es/rss/2.0/cultura/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "El Mundo",
+   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "El Cultural",
+   "u": "https://www.elespanol.com/rss/el-cultural/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "La Marea",
+   "u": "https://www.lamarea.com/feed/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Público",
+   "u": "https://www.publico.es/rss/culturas",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://www.publico.es/rss/culturas.xml",
+    "https://www.publico.es/rss"
+   ]
+  },
+  {
+   "n": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/rss/cultura.xml",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "El Confidencial",
+   "u": "https://rss.elconfidencial.com/cultura/",
+   "l": "es",
+   "r": [
+    "es"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Seúl",
+   "u": "https://seul.ar/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Panamá Revista",
+   "u": "https://panamarevista.com/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Revista Anfibia",
+   "u": "https://www.revistaanfibia.com/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Revista Crisis",
+   "u": "https://revistacrisis.com.ar/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Nexos",
+   "u": "https://www.nexos.com.mx/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Nexos",
+   "u": "https://cultura.nexos.com.mx/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Artishock",
+   "u": "https://artishockrevista.com/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Gatopardo",
+   "u": "https://gatopardo.com/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://gatopardo.com/feed",
+    "https://gatopardo.com/rss",
+    "https://gatopardo.com/feed.xml"
+   ]
+  },
+  {
+   "n": "Nueva Sociedad",
+   "u": "https://nuso.org/rss/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all",
+   "alt": [
+    "https://nuso.org/feed/",
+    "https://nuso.org/rss/"
+   ]
+  },
+  {
+   "n": "Otra Parte",
+   "u": "https://www.revistaotraparte.com/feed/",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Esteban Schmidt",
+   "u": "https://estebanschmidt.substack.com/feed",
+   "l": "es",
+   "r": [
+    "latam"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Le Grand Continent",
+   "u": "https://legrandcontinent.eu/fr/feed/",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "AOC",
+   "u": "https://aoc.media/feed/",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "En attendant Nadeau",
+   "u": "https://www.en-attendant-nadeau.fr/feed/",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Diacritik",
+   "u": "https://diacritik.com/feed/",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "lundimatin",
+   "u": "https://lundi.am/spip.php?page=backend",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Le Monde des livres",
+   "u": "https://www.lemonde.fr/livres/rss_full.xml",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Le Monde",
+   "u": "https://www.lemonde.fr/idees/rss_full.xml",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Le Monde",
+   "u": "https://www.lemonde.fr/culture/rss_full.xml",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Le Figaro",
+   "u": "https://www.lefigaro.fr/rss/figaro_livres.xml",
+   "l": "fr",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Perlentaucher",
+   "u": "https://rss.perlentaucher.de/",
+   "l": "de",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all",
+   "alt": [
+    "https://www.perlentaucher.de/rss/feuilleton.xml",
+    "https://www.perlentaucher.de/feed"
+   ]
+  },
+  {
+   "n": "FAZ",
+   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
+   "l": "de",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "NZZ",
+   "u": "https://www.nzz.ch/feuilleton.rss",
+   "l": "de",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Die Zeit",
+   "u": "https://newsfeed.zeit.de/kultur/index",
+   "l": "de",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://newsfeed.zeit.de/index",
+    "https://newsfeed.zeit.de/kultur/index"
+   ]
+  },
+  {
+   "n": "taz",
+   "u": "https://taz.de/!p4639;rss/",
+   "l": "de",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Il Post",
+   "u": "https://www.ilpost.it/cultura/feed/",
+   "l": "it",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Doppiozero",
+   "u": "https://www.doppiozero.com/rss.xml",
+   "l": "it",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Il Foglio",
+   "u": "https://www.ilfoglio.it/cultura/rss.xml",
+   "l": "it",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://www.ilfoglio.it/rss.xml",
+    "https://www.ilfoglio.it/rss/cultura.xml",
+    "https://www.ilfoglio.it/rss.php"
+   ]
+  },
+  {
+   "n": "il manifesto",
+   "u": "https://ilmanifesto.it/feed",
+   "l": "it",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "London Review of Books",
+   "u": "https://www.lrb.co.uk/feeds/rss",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "TLS",
+   "u": "https://www.the-tls.co.uk/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Guardian",
+   "u": "https://www.theguardian.com/books/rss",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Guardian",
+   "u": "https://www.theguardian.com/artanddesign/rss",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "New Statesman",
+   "u": "https://www.newstatesman.com/culture/feed",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://www.newstatesman.com/feed",
+    "https://www.newstatesman.com/culture/books/feed"
+   ]
+  },
+  {
+   "n": "Sidecar (New Left Review)",
+   "u": "https://newleftreview.org/sidecar/feed",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Eurozine",
+   "u": "https://www.eurozine.com/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Equator",
+   "u": "https://www.equator.org/rss.xml",
+   "l": "en",
+   "r": [],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Engelsberg Ideas",
+   "u": "https://engelsbergideas.com/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "UnHerd",
+   "u": "https://unherd.com/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Critic",
+   "u": "https://thecritic.co.uk/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "ArtReview",
+   "u": "https://artreview.com/feed/",
+   "l": "en",
+   "r": [],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://artreview.com/feed",
+    "https://artreview.com/rss/",
+    "https://artreview.com/feed/rss"
+   ]
+  },
+  {
+   "n": "Frieze",
+   "u": "https://www.frieze.com/rss.xml",
+   "l": "en",
+   "r": [],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Mousse",
+   "u": "https://www.moussemagazine.it/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Spike",
+   "u": "https://spikeartmagazine.com/rss.xml",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://spikeartmagazine.com/feed/",
+    "https://www.spikeartmagazine.com/rss.xml",
+    "https://spikeartmagazine.com/?q=rss.xml"
+   ]
+  },
+  {
+   "n": "Vestoj",
+   "u": "https://vestoj.com/feed/",
+   "l": "en",
+   "r": [],
+   "t": [
+    "moda"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "AnOther",
+   "u": "https://www.anothermag.com/feed",
+   "l": "en",
+   "r": [],
+   "t": [
+    "moda"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Dazed",
+   "u": "https://www.dazeddigital.com/rss",
+   "l": "en",
+   "r": [],
+   "t": [
+    "moda"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "032c",
+   "u": "https://032c.com/feed",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "moda"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://032c.com/feed",
+    "https://032c.com/rss",
+    "https://032c.com/feed.xml",
+    "https://032c.com/magazine/feed"
+   ]
+  },
+  {
+   "n": "The New York Review of Books",
+   "u": "https://www.nybooks.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "n+1",
+   "u": "https://www.nplusonemag.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "The Paris Review",
+   "u": "https://www.theparisreview.org/blog/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "The Baffler",
+   "u": "https://thebaffler.com/feed",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "The Drift",
+   "u": "https://www.thedriftmag.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "The Point",
+   "u": "https://thepointmag.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Los Angeles Review of Books",
+   "u": "https://lareviewofbooks.org/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "all",
+   "alt": [
+    "https://lareviewofbooks.org/feed",
+    "https://lareviewofbooks.org/feed/rss",
+    "https://lareviewofbooks.org/rss.xml"
+   ]
+  },
+  {
+   "n": "Harper's",
+   "u": "https://harpers.org/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The New Yorker",
+   "u": "https://www.newyorker.com/feed/books",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://www.newyorker.com/feed/everything"
+   ]
+  },
+  {
+   "n": "The New Yorker",
+   "u": "https://www.newyorker.com/feed/culture",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter",
+   "alt": [
+    "https://www.newyorker.com/feed/everything"
+   ]
+  },
+  {
+   "n": "Jacobin",
+   "u": "https://jacobin.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Hyperallergic",
+   "u": "https://hyperallergic.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Artforum",
+   "u": "https://www.artforum.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Literary Hub",
+   "u": "https://lithub.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Dirt",
+   "u": "https://dirt.fyi/rss/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "all",
+   "alt": [
+    "https://www.dirt.fyi/feed",
+    "https://www.dirt.fyi/rss",
+    "https://dirt.fyi/feed"
+   ]
+  },
+  {
+   "n": "Noema",
+   "u": "https://www.noemamag.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Granta",
+   "u": "https://granta.com/feed/",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Aeon",
+   "u": "https://aeon.co/feed.rss",
+   "l": "en",
+   "r": [],
+   "t": [
+    "ideas"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Honest Broker",
+   "u": "https://www.honest-broker.com/feed",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "arte"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Common Reader",
+   "u": "https://www.commonreader.co.uk/feed",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Counter Craft",
+   "u": "https://countercraft.substack.com/feed",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "letras"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Embedded",
+   "u": "https://embedded.substack.com/feed",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Clone",
+   "u": "https://clone.fyi/rss.xml",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Ars Technica",
+   "u": "https://feeds.arstechnica.com/arstechnica/index",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "404 Media",
+   "u": "https://www.404media.co/rss/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Rest of World",
+   "u": "https://restofworld.org/feed/latest/",
+   "l": "en",
+   "r": [],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "MIT Technology Review",
+   "u": "https://www.technologyreview.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Simon Willison",
+   "u": "https://simonwillison.net/atom/entries/",
+   "l": "en",
+   "r": [],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Platformer",
+   "u": "https://www.platformer.news/rss/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "all"
+  },
+  {
+   "n": "Stratechery",
+   "u": "https://stratechery.com/feed/",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "The Verge",
+   "u": "https://www.theverge.com/rss/index.xml",
+   "l": "en",
+   "r": [
+    "eeuu"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  },
+  {
+   "n": "Sifted",
+   "u": "https://sifted.eu/feed",
+   "l": "en",
+   "r": [
+    "europa"
+   ],
+   "t": [
+    "tech"
+   ],
+   "m": "filter"
+  }
+ ]
 }

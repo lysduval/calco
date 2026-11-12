@@ -43,17 +43,23 @@ def log(*a):
 
 
 def fetch(feed):
-    """Devuelve (feed, entradas, error)."""
-    try:
-        req = urllib.request.Request(feed["u"], headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
-        with urllib.request.urlopen(req, timeout=20) as r:
-            data = r.read(3_000_000)
-        parsed = feedparser.parse(data)
-        if not parsed.entries:
-            return feed, [], "sin entradas"
-        return feed, parsed.entries, None
-    except Exception as e:  # un feed caído no detiene la ejecución
-        return feed, [], f"{type(e).__name__}: {e}"[:160]
+    """Devuelve (feed, entradas, error). Prueba la dirección principal y, si falla, las alternativas."""
+    last = "sin entradas"
+    for url in [feed["u"]] + feed.get("alt", []):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                data = r.read(3_000_000)
+            parsed = feedparser.parse(data)
+            if parsed.entries:
+                if url != feed["u"]:
+                    log(f"ALTERNATIVA  {feed['n']}: funciona {url}")
+                    feed = dict(feed, used=url)
+                return feed, parsed.entries, None
+            last = "sin entradas"
+        except Exception as e:  # un feed caído no detiene la ejecución
+            last = f"{type(e).__name__}: {e}"[:160]
+    return feed, [], last
 
 
 def clean(text, limit):
@@ -64,7 +70,18 @@ def clean(text, limit):
 
 def entry_time(e):
     t = e.get("published_parsed") or e.get("updated_parsed")
-    return calendar.timegm(t) if t else None
+    if t:
+        return calendar.timegm(t)
+    raw = (e.get("published") or e.get("updated") or "").strip()
+    for fmt in ("%Y-%m-%d %H:%M:%S %Z", "%Y-%m-%d %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S", "%d/%m/%Y %H:%M"):
+        try:
+            d = datetime.strptime(raw, fmt)
+            if d.tzinfo is None:
+                d = d.replace(tzinfo=timezone.utc)
+            return int(d.timestamp())
+        except ValueError:
+            continue
+    return None
 
 
 def ask(system, user, max_tokens):
@@ -181,7 +198,7 @@ def main():
             by_url[url] = item
             candidates.append(item)
             fresh += 1
-        status.append({"n": feed["n"], "u": feed["u"], "ok": err is None, "error": err, "entradas": len(entries), "recientes": fresh})
+        status.append({"n": feed["n"], "u": feed.get("used", feed["u"]), "ok": err is None, "error": err, "entradas": len(entries), "recientes": fresh})
         if err:
             log(f"FEED CAÍDO  {feed['n']}: {err}  ({feed['u']})")
 
