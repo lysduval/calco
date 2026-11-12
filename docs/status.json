@@ -1,0 +1,810 @@
+[
+ {
+  "n": "Babelia",
+  "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/babelia",
+  "ok": true,
+  "error": null,
+  "entradas": 25,
+  "recientes": 4
+ },
+ {
+  "n": "El País",
+  "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
+  "ok": true,
+  "error": null,
+  "entradas": 38,
+  "recientes": 16
+ },
+ {
+  "n": "El País",
+  "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada",
+  "ok": true,
+  "error": null,
+  "entradas": 26,
+  "recientes": 21
+ },
+ {
+  "n": "El País",
+  "u": "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/ideas",
+  "ok": true,
+  "error": null,
+  "entradas": 25,
+  "recientes": 0
+ },
+ {
+  "n": "Kaminker",
+  "u": "https://kaminker.es/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 16,
+  "recientes": 0
+ },
+ {
+  "n": "A*Desk",
+  "u": "https://a-desk.org/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 12,
+  "recientes": 0
+ },
+ {
+  "n": "Caimán Cuadernos de Cine",
+  "u": "https://www.caimanediciones.es/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 2,
+  "recientes": 0
+ },
+ {
+  "n": "Zenda",
+  "u": "https://www.zendalibros.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 10
+ },
+ {
+  "n": "Revista de Libros",
+  "u": "https://www.revistadelibros.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 12,
+  "recientes": 0
+ },
+ {
+  "n": "Letras Libres",
+  "u": "https://letraslibres.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 8
+ },
+ {
+  "n": "Jot Down",
+  "u": "https://www.jotdown.es/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 4
+ },
+ {
+  "n": "The Objective",
+  "u": "https://theobjective.com/cultura/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 10
+ },
+ {
+  "n": "ABC Cultura",
+  "u": "https://www.abc.es/rss/2.0/cultura/",
+  "ok": true,
+  "error": null,
+  "entradas": 25,
+  "recientes": 25
+ },
+ {
+  "n": "El Mundo · La Lectura",
+  "u": "https://e00-elmundo.uecdn.es/elmundo/rss/la-lectura.xml",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "El Mundo",
+  "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 53,
+  "recientes": 12
+ },
+ {
+  "n": "El Cultural",
+  "u": "https://www.elespanol.com/rss/el-cultural/",
+  "ok": true,
+  "error": null,
+  "entradas": 30,
+  "recientes": 15
+ },
+ {
+  "n": "elDiario.es",
+  "u": "https://www.eldiario.es/rss/section/cultura/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "La Marea",
+  "u": "https://www.lamarea.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 5
+ },
+ {
+  "n": "Público",
+  "u": "https://www.publico.es/rss/culturas",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "La Vanguardia",
+  "u": "https://www.lavanguardia.com/rss/cultura.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 100,
+  "recientes": 29
+ },
+ {
+  "n": "El Confidencial",
+  "u": "https://rss.elconfidencial.com/cultura/",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 9
+ },
+ {
+  "n": "Seúl",
+  "u": "https://seul.ar/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 2
+ },
+ {
+  "n": "Panamá Revista",
+  "u": "https://panamarevista.com/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Revista Anfibia",
+  "u": "https://www.revistaanfibia.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 16,
+  "recientes": 1
+ },
+ {
+  "n": "Revista Crisis",
+  "u": "https://revistacrisis.com.ar/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 1890,
+  "recientes": 0
+ },
+ {
+  "n": "Nexos",
+  "u": "https://www.nexos.com.mx/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 3
+ },
+ {
+  "n": "Nexos",
+  "u": "https://cultura.nexos.com.mx/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 3,
+  "recientes": 1
+ },
+ {
+  "n": "Artishock",
+  "u": "https://artishockrevista.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 0
+ },
+ {
+  "n": "Gatopardo",
+  "u": "https://gatopardo.com/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Nueva Sociedad",
+  "u": "https://nuso.org/rss/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 500: Internal Server Error",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Otra Parte",
+  "u": "https://www.revistaotraparte.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 12,
+  "recientes": 0
+ },
+ {
+  "n": "Esteban Schmidt",
+  "u": "https://estebanschmidt.substack.com/feed",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Le Grand Continent",
+  "u": "https://legrandcontinent.eu/fr/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 7
+ },
+ {
+  "n": "AOC",
+  "u": "https://aoc.media/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 6
+ },
+ {
+  "n": "En attendant Nadeau",
+  "u": "https://www.en-attendant-nadeau.fr/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 1000,
+  "recientes": 10
+ },
+ {
+  "n": "Diacritik",
+  "u": "https://diacritik.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 2
+ },
+ {
+  "n": "lundimatin",
+  "u": "https://lundi.am/spip.php?page=backend",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 0
+ },
+ {
+  "n": "Le Monde des livres",
+  "u": "https://www.lemonde.fr/livres/rss_full.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 11
+ },
+ {
+  "n": "Le Monde",
+  "u": "https://www.lemonde.fr/idees/rss_full.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 18
+ },
+ {
+  "n": "Le Monde",
+  "u": "https://www.lemonde.fr/culture/rss_full.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 19
+ },
+ {
+  "n": "Le Figaro",
+  "u": "https://www.lefigaro.fr/rss/figaro_livres.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 11
+ },
+ {
+  "n": "Perlentaucher",
+  "u": "https://rss.perlentaucher.de/",
+  "ok": false,
+  "error": "sin entradas",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "FAZ",
+  "u": "https://www.faz.net/rss/aktuell/feuilleton/",
+  "ok": true,
+  "error": null,
+  "entradas": 46,
+  "recientes": 28
+ },
+ {
+  "n": "NZZ",
+  "u": "https://www.nzz.ch/feuilleton.rss",
+  "ok": true,
+  "error": null,
+  "entradas": 59,
+  "recientes": 14
+ },
+ {
+  "n": "Die Zeit",
+  "u": "https://newsfeed.zeit.de/kultur/index",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "taz",
+  "u": "https://taz.de/!p4639;rss/",
+  "ok": true,
+  "error": null,
+  "entradas": 50,
+  "recientes": 18
+ },
+ {
+  "n": "Il Post",
+  "u": "https://www.ilpost.it/cultura/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 6
+ },
+ {
+  "n": "Doppiozero",
+  "u": "https://www.doppiozero.com/rss.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 100,
+  "recientes": 6
+ },
+ {
+  "n": "Il Foglio",
+  "u": "https://www.ilfoglio.it/cultura/rss.xml",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 410: Gone",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "il manifesto",
+  "u": "https://ilmanifesto.it/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 50,
+  "recientes": 50
+ },
+ {
+  "n": "London Review of Books",
+  "u": "https://www.lrb.co.uk/feeds/rss",
+  "ok": true,
+  "error": null,
+  "entradas": 21,
+  "recientes": 0
+ },
+ {
+  "n": "TLS",
+  "u": "https://www.the-tls.co.uk/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "The Guardian",
+  "u": "https://www.theguardian.com/books/rss",
+  "ok": true,
+  "error": null,
+  "entradas": 29,
+  "recientes": 6
+ },
+ {
+  "n": "The Guardian",
+  "u": "https://www.theguardian.com/artanddesign/rss",
+  "ok": true,
+  "error": null,
+  "entradas": 23,
+  "recientes": 11
+ },
+ {
+  "n": "New Statesman",
+  "u": "https://www.newstatesman.com/culture/feed",
+  "ok": false,
+  "error": "sin entradas",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Sidecar (New Left Review)",
+  "u": "https://newleftreview.org/feeds/sidecar.rss",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Eurozine",
+  "u": "https://www.eurozine.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 100,
+  "recientes": 3
+ },
+ {
+  "n": "Equator",
+  "u": "https://www.equator.org/rss.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 0
+ },
+ {
+  "n": "Engelsberg Ideas",
+  "u": "https://engelsbergideas.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 100,
+  "recientes": 4
+ },
+ {
+  "n": "UnHerd",
+  "u": "https://unherd.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 30,
+  "recientes": 8
+ },
+ {
+  "n": "The Critic",
+  "u": "https://thecritic.co.uk/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 100,
+  "recientes": 14
+ },
+ {
+  "n": "ArtReview",
+  "u": "https://artreview.com/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Frieze",
+  "u": "https://www.frieze.com/rss.xml",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Mousse",
+  "u": "https://www.moussemagazine.it/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 4,
+  "recientes": 0
+ },
+ {
+  "n": "Spike",
+  "u": "https://spikeartmagazine.com/rss.xml",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Vestoj",
+  "u": "https://vestoj.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 0
+ },
+ {
+  "n": "AnOther",
+  "u": "https://www.anothermag.com/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 4
+ },
+ {
+  "n": "Dazed",
+  "u": "https://www.dazeddigital.com/rss",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 14
+ },
+ {
+  "n": "032c",
+  "u": "https://032c.com/feed",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "The New York Review of Books",
+  "u": "https://www.nybooks.com/feed/",
+  "ok": false,
+  "error": "sin entradas",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "n+1",
+  "u": "https://www.nplusonemag.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 200,
+  "recientes": 0
+ },
+ {
+  "n": "The Paris Review",
+  "u": "https://www.theparisreview.org/blog/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 2
+ },
+ {
+  "n": "The Baffler",
+  "u": "https://thebaffler.com/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 18,
+  "recientes": 1
+ },
+ {
+  "n": "The Drift",
+  "u": "https://www.thedriftmag.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 2,
+  "recientes": 0
+ },
+ {
+  "n": "The Point",
+  "u": "https://thepointmag.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 0
+ },
+ {
+  "n": "Los Angeles Review of Books",
+  "u": "https://lareviewofbooks.org/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Harper's",
+  "u": "https://harpers.org/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 1
+ },
+ {
+  "n": "The New Yorker",
+  "u": "https://www.newyorker.com/feed/books",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 400: Bad Request",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "The New Yorker",
+  "u": "https://www.newyorker.com/feed/culture",
+  "ok": true,
+  "error": null,
+  "entradas": 41,
+  "recientes": 6
+ },
+ {
+  "n": "Jacobin",
+  "u": "https://jacobin.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 9
+ },
+ {
+  "n": "Hyperallergic",
+  "u": "https://hyperallergic.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 15
+ },
+ {
+  "n": "Artforum",
+  "u": "https://www.artforum.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 12,
+  "recientes": 12
+ },
+ {
+  "n": "Literary Hub",
+  "u": "https://lithub.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 10
+ },
+ {
+  "n": "Dirt",
+  "u": "https://dirt.fyi/rss/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Noema",
+  "u": "https://www.noemamag.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 1
+ },
+ {
+  "n": "Granta",
+  "u": "https://granta.com/feed/",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Aeon",
+  "u": "https://aeon.co/feed.rss",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 3
+ },
+ {
+  "n": "The Honest Broker",
+  "u": "https://www.honest-broker.com/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 0
+ },
+ {
+  "n": "The Common Reader",
+  "u": "https://www.commonreader.co.uk/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 0
+ },
+ {
+  "n": "Counter Craft",
+  "u": "https://countercraft.substack.com/feed",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Embedded",
+  "u": "https://embedded.substack.com/feed",
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
+ },
+ {
+  "n": "Clone",
+  "u": "https://clone.fyi/rss.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 14,
+  "recientes": 10
+ },
+ {
+  "n": "Ars Technica",
+  "u": "https://feeds.arstechnica.com/arstechnica/index",
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 20
+ },
+ {
+  "n": "404 Media",
+  "u": "https://www.404media.co/rss/",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 5
+ },
+ {
+  "n": "Rest of World",
+  "u": "https://restofworld.org/feed/latest/",
+  "ok": true,
+  "error": null,
+  "entradas": 12,
+  "recientes": 1
+ },
+ {
+  "n": "MIT Technology Review",
+  "u": "https://www.technologyreview.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 4
+ },
+ {
+  "n": "Simon Willison",
+  "u": "https://simonwillison.net/atom/entries/",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 0
+ },
+ {
+  "n": "Platformer",
+  "u": "https://www.platformer.news/rss/",
+  "ok": true,
+  "error": null,
+  "entradas": 15,
+  "recientes": 1
+ },
+ {
+  "n": "Stratechery",
+  "u": "https://stratechery.com/feed/",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 2
+ },
+ {
+  "n": "The Verge",
+  "u": "https://www.theverge.com/rss/index.xml",
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 10
+ },
+ {
+  "n": "Sifted",
+  "u": "https://sifted.eu/feed",
+  "ok": true,
+  "error": null,
+  "entradas": 24,
+  "recientes": 18
+ }
+]
