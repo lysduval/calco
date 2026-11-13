@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 4
+  "recientes": 8
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 9
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "The Objective",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "ABC Cultura",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 53,
-  "recientes": 22
+  "recientes": 20
  },
  {
   "n": "El Cultural",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 35
+  "recientes": 32
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 11
  },
  {
   "n": "Seúl",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Revista Crisis",
@@ -197,15 +197,15 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Artishock",
   "u": "https://artishockrevista.com/feed/",
-  "ok": false,
-  "error": "TimeoutError: The read operation timed out",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 10,
+  "recientes": 1
  },
  {
   "n": "Gatopardo",
@@ -235,7 +235,7 @@
   "n": "Esteban Schmidt",
   "u": "https://estebanschmidt.substack.com/feed",
   "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": "HTTPError: HTTP Error 400: Bad Request",
   "entradas": 0,
   "recientes": 0
  },
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 8
  },
  {
   "n": "AOC",
@@ -253,7 +253,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 4
  },
  {
   "n": "En attendant Nadeau",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 19
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 17
+  "recientes": 18
  },
  {
   "n": "Le Figaro",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Die Zeit",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "taz",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 11
+  "recientes": 9
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 7
  },
  {
   "n": "Doppiozero",
@@ -404,7 +404,7 @@
   "u": "https://www.theguardian.com/books/rss",
   "ok": true,
   "error": null,
-  "entradas": 28,
+  "entradas": 27,
   "recientes": 4
  },
  {
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 20
+  "recientes": 6
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Eurozine",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Equator",
@@ -445,7 +445,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Engelsberg Ideas",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 7
+  "recientes": 4
  },
  {
   "n": "UnHerd",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 16
+  "recientes": 17
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 11
  },
  {
   "n": "032c",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 19
+  "recientes": 16
  },
  {
   "n": "The New Yorker",
@@ -698,26 +698,26 @@
  {
   "n": "Counter Craft",
   "u": "https://countercraft.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
+  "ok": true,
+  "error": null,
+  "entradas": 20,
   "recientes": 0
  },
  {
   "n": "Embedded",
   "u": "https://embedded.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 1
  },
  {
   "n": "Clone",
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 10,
-  "recientes": 7
+  "entradas": 17,
+  "recientes": 11
  },
  {
   "n": "Ars Technica",
@@ -741,7 +741,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "MIT Technology Review",
@@ -749,7 +749,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "Simon Willison",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 15
+  "recientes": 12
  }
 ]
