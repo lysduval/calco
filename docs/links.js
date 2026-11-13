@@ -1,6 +1,348 @@
 window.CALCO = {
-"updated": "2026-11-13T01:49:37Z",
+"updated": "2026-11-13T09:29:27Z",
 "tops": [
+{
+"d": "2026-11-13T08:22:10Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Nasser’s long road to Suez",
+"u": "https://engelsbergideas.com/essays/nassers-long-road-to-suez/"
+},
+{
+"d": "2026-11-13T06:00:59Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Chaissac écrivain (Mon sans gêne d’épistolier notoire)",
+"u": "https://diacritik.com/2026/11/13/chaissac-ecrivain/"
+}
+],
+"links": [
+{
+"d": "2026-11-13T09:16:22Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Bundeshaushalt: SPD-Landeschef Kämpfer fordert Stromsteuersenkung für alle",
+"u": "https://www.zeit.de/news/2026-11/13/spd-landeschef-kaempfer-fordert-stromsteuersenkung-fuer-alle"
+},
+{
+"d": "2026-11-13T09:11:41Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Hafenmuseum Hamburg: Nimm uns mit, Kapitän",
+"u": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/wie-hamburg-sein-hafenmuseum-doch-noch-verwirklichen-will-accg-201665068.html"
+},
+{
+"d": "2026-11-13T09:02:25Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Ganadora y finalistas del concurso juvenil #historiassinIA",
+"u": "https://www.zendalibros.com/ganadora-y-finalistas-del-concurso-juvenil-historiassinia/"
+},
+{
+"d": "2026-11-13T09:00:10Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Sommet de la francophonie : « C’est en Asie que l’histoire francophone s’est affirmée sur la scène internationale »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/13/sommet-de-la-francophonie-c-est-en-asie-que-l-histoire-francophone-s-est-affirmee-sur-la-scene-internationale_6809297_3232.html"
+},
+{
+"d": "2026-11-13T09:00:00Z",
+"s": "AnOther",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "Eikoh Hosoe’s Nude Photographs of Literary Rebel Yukio Mishima",
+"u": "https://www.anothermag.com/art-photography/17637/eikoh-hosoe-yukio-mishima-leslie-lohman-museum?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=eikoh-hosoe-s-nude-photographs-of-literary-rebel-yukio-mishima"
+},
+{
+"d": "2026-11-13T08:59:54Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "De Triana al mundo: el arte de Juan Ortega se pone al servicio de la marca 'Sevilla, ciudad taurina'",
+"u": "https://www.abc.es/cultura/toros/sevilla/triana-mundo-arte-juan-ortega-pone-servicio-20261113095850-nts.html"
+},
+{
+"d": "2026-11-13T08:50:26Z",
+"s": "Literary Hub",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Everybody’s First Drafts Are Bad",
+"u": "https://lithub.com/everybodys-first-drafts-are-bad/"
+},
+{
+"d": "2026-11-13T08:41:32Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Daniel Monzón: \"El sustrato machista y franquista del Patronato de la Mujer sigue entre nosotros\"",
+"u": "https://www.elmundo.es/cultura/cine/2026/11/12/6af60367e85eceee538b457d.html"
+},
+{
+"d": "2026-11-13T08:18:08Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Miyazaki’s Swiftian skies",
+"u": "https://engelsbergideas.com/notebook/miyazakis-swiftian-skies/"
+},
+{
+"d": "2026-11-13T08:01:56Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Una afición a los toros sabia y exigente o un público festivo y triunfalista, esa es la cuestión",
+"u": "https://elpais.com/cultura/el-toro-por-los-cuernos/2026-11-13/una-aficion-a-los-toros-sabia-y-exigente-o-un-publico-festivo-y-triunfalista-esa-es-la-cuestion.html"
+},
+{
+"d": "2026-11-13T08:00:13Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Week in wildlife: Scottish beavers, running giraffes and good news for dormice",
+"u": "https://www.theguardian.com/environment/gallery/2026/nov/13/week-in-wildlife-scottish-beavers-running-giraffes-and-good-news-for-dormice"
+},
+{
+"d": "2026-11-13T07:50:52Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La spada laser usata da Darth Vader nella prima trilogia di Star Wars è stata venduta all’asta per quasi 5 milioni di dollari",
+"u": "https://www.ilpost.it/2026/11/13/spada-laser-star-wars-darth-vader-asta/"
+},
+{
+"d": "2026-11-13T07:02:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Synthiepop-Album von Michi Heinkel: Frostig flirrt der Synthesizer",
+"u": "https://taz.de/Synthiepop-Album-von-Michi-Heinkel/!6226739/"
+},
+{
+"d": "2026-11-13T07:00:16Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Una carta a los Reyes Magos (ideas para un programa electoral cultural)",
+"u": "https://www.jotdown.es/2026/11/cultura-programa-electoral-reyes-magos/"
+},
+{
+"d": "2026-11-13T06:57:38Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "La gala de los Latin Grammy, en imágenes",
+"u": "https://theobjective.com/galerias/cultura/musica/2026-11-13/latin-grammy-imagenes/"
+},
+{
+"d": "2026-11-13T06:45:35Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Los Latin Grammy se rinden al fenómeno Rosalía: premio a álbum del año con 'Lux' y a mejor canción con 'La Perla'",
+"u": "https://www.elespanol.com/el-cultural/escenarios/musica/20261113/latin-grammy-rinden-fenomeno-rosalia-premio-album-ano-lux-mejor-cancion-perla/1003744456688_0.html"
+},
+{
+"d": "2026-11-13T06:03:26Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Las recuperadas y premiadas salinas de la Concepción en Menorca (★★★✩✩): paisaje y geometría",
+"u": "https://www.lavanguardia.com/cultura/20261113/11683122/recuperadas-premiadas-salinas-concepcion-menorca-paisaje-geometria.html"
+},
+{
+"d": "2026-11-13T06:00:28Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Fukushima de Michaël Ferrier : la littérature à l’épreuve du désastre",
+"u": "https://diacritik.com/2026/11/13/fukushima-de-michael-ferrier-la-litterature-a-lepreuve-du-desastre/"
+},
+{
+"d": "2026-11-13T06:00:07Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "La voix singulière de Jean-Paul Sartre se fait entendre entre les lignes du « Cours de philosophie de terminale » de 1942-1943",
+"u": "https://www.lemonde.fr/livres/article/2026/11/13/la-voix-singuliere-de-jean-paul-sartre-se-fait-entendre-entre-les-lignes-du-cours-de-philosophie-de-terminale-de-1942-1943_6809286_3260.html"
+},
+{
+"d": "2026-11-13T05:58:38Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Guerre en Ukraine : quel est le plan des Européens pour revenir dans le jeu des négociations ?",
+"u": "https://legrandcontinent.eu/fr/2026/11/13/guerre-en-ukraine-quel-est-le-plan-des-europeens-pour-revenir-dans-le-jeu-des-negociations/"
+},
+{
+"d": "2026-11-13T05:00:24Z",
+"s": "Sifted",
+"l": "en",
+"t": [
+"europa",
+"tech"
+],
+"h": "Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers",
+"u": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/"
+},
+{
+"d": "2026-11-13T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "“Un combate naval en una charca”: miseria y épica de las campañas electorales",
+"u": "https://elpais.com/babelia/2026-11-13/un-combate-naval-en-una-charca-miseria-y-epica-de-las-campanas-electorales.html"
+},
+{
+"d": "2026-11-13T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Paris Photo celebra un arte que lleva dos siglos en transformación (y sigue)",
+"u": "https://elpais.com/babelia/2026-11-13/paris-photo-celebra-un-arte-que-lleva-dos-siglos-en-transformacion-y-sigue.html"
+},
+{
+"d": "2026-11-13T04:30:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Tonhalle Zürich: Mit Wucht in die Apokalypse",
+"u": "https://www.nzz.ch/feuilleton/tonhalle-zuerich-mit-wucht-in-die-apokalypse-ld.10061013"
+},
+{
+"d": "2026-11-13T03:47:52Z",
+"s": "Stratechery",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+"u": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/"
+},
+{
+"d": "2026-11-13T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Addestrati all’orrore",
+"u": "https://www.doppiozero.com/addestrati-allorrore"
+},
+{
+"d": "2026-11-13T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Elogio dell'incrinatura",
+"u": "https://www.doppiozero.com/elogio-dellincrinatura"
+},
+{
+"d": "2026-11-13T02:00:48Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "The government is still making building housing more expensive",
+"u": "https://thecritic.co.uk/the-government-is-still-making-building-housing-more-expensive/"
+},
+{
+"d": "2026-11-13T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Sieni, preghiera in tempi di guerra",
+"u": "https://www.doppiozero.com/sieni-preghiera-in-tempi-di-guerra"
+},
 {
 "d": "2026-11-13T01:43:23Z",
 "s": "Platformer",
@@ -11,30 +353,6 @@ window.CALCO = {
 ],
 "h": "Jensen Huang and the end of the ‘lol nothing matters’ era of American politics",
 "u": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/"
-},
-{
-"d": "2026-11-12T23:48:35Z",
-"s": "Revista Anfibia",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Sobre las huellas de Francisco",
-"u": "https://www.revistaanfibia.com/sobre-las-huellas-de-francisco/"
-}
-],
-"links": [
-{
-"d": "2026-11-13T01:42:24Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu près de 5 millions de dollars",
-"u": "https://www.lemonde.fr/culture/article/2026/11/13/un-sabre-laser-utilise-par-dark-vador-dans-la-premiere-trilogie-de-star-wars-vendu-pres-de-5-millions-de-dollars_6809258_3246.html"
 },
 {
 "d": "2026-11-13T01:08:25Z",
@@ -48,39 +366,6 @@ window.CALCO = {
 "u": "https://www.newstatesman.com/world/2026/11/the-very-expensive-downfall-of-jensen-huang"
 },
 {
-"d": "2026-11-13T01:07:24Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Mehrere Fahrzeuge beteiligt: B31 am Bodensee nach Unfall mit Verletzten wieder frei",
-"u": "https://www.zeit.de/news/2026-11/12/b31-am-bodensee-nach-unfall-mit-verletzten-gesperrt"
-},
-{
-"d": "2026-11-13T01:04:06Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Mariano Barroso adapta 'El niño', de Fernando Aramburu: «Podría estar rodada en Urda o en Adamuz»",
-"u": "https://www.abc.es/cultura/mariano-barroso-adapta-nino-fernando-aramburu-estar-20261113020406-nt.html"
-},
-{
-"d": "2026-11-13T01:00:00Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "¿Ángel o demonio? Domingo Báñez, el filósofo que desafió a los jesuitas y confesó a Santa Teresa",
-"u": "https://www.elespanol.com/el-cultural/letras/20261113/angel-demonio-domingo-banez-filosofo-desafio-jesuitas-confeso-santa-teresa/1003744449541_0.html"
-},
-{
 "d": "2026-11-13T00:46:07Z",
 "s": "The Verge",
 "l": "en",
@@ -90,17 +375,6 @@ window.CALCO = {
 ],
 "h": "Donald Trump really wants Tim Cook to run Nvidia",
 "u": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
-},
-{
-"d": "2026-11-13T00:38:26Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "The new Fauda is today’s Holocaust",
-"u": "https://thecritic.co.uk/issues/november-2026/the-new-fauda-is-todays-holocaust/"
 },
 {
 "d": "2026-11-13T00:36:58Z",
@@ -136,15 +410,15 @@ window.CALCO = {
 "u": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/"
 },
 {
-"d": "2026-11-12T23:11:13Z",
-"s": "Zenda",
+"d": "2026-11-12T23:48:35Z",
+"s": "Revista Anfibia",
 "l": "es",
 "t": [
-"es",
-"letras"
+"latam",
+"ideas"
 ],
-"h": "13 de noviembre de 1936: Tres brigadistas ingleses",
-"u": "https://www.zendalibros.com/13-de-noviembre-de-1936-tres-brigadistas-ingleses/"
+"h": "Sobre las huellas de Francisco",
+"u": "https://www.revistaanfibia.com/sobre-las-huellas-de-francisco/"
 },
 {
 "d": "2026-11-12T23:04:57Z",
@@ -169,17 +443,6 @@ window.CALCO = {
 "u": "https://www.en-attendant-nadeau.fr/2026/11/13/architecture-et-psychanalyse-cosimo-schinaia/"
 },
 {
-"d": "2026-11-12T23:00:02Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "‘Hurry, hurry, get your tickets now!’ The last of the great Australian showmen – photo essay",
-"u": "https://www.theguardian.com/artanddesign/2026/nov/13/australian-travelling-shows-history-circus-carnival-showmen-photos"
-},
-{
 "d": "2026-11-12T22:59:51Z",
 "s": "Ars Technica",
 "l": "en",
@@ -187,30 +450,8 @@ window.CALCO = {
 "eeuu",
 "tech"
 ],
-"h": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+"h": "In reversal, American Cancer Society urges routine prostate cancer screening",
 "u": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
-},
-{
-"d": "2026-11-12T22:38:04Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "De premios y de medallas",
-"u": "https://www.lavanguardia.com/cultura/20261112/11683123/premios-medallas.html"
-},
-{
-"d": "2026-11-12T22:17:27Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Körper in der Literatur: Wo leben Zukünfte?",
-"u": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/aiki-mira-ueber-koerper-in-der-literatur-201263220.html"
 },
 {
 "d": "2026-11-12T20:16:24Z",
@@ -257,17 +498,6 @@ window.CALCO = {
 "u": "https://www.lamarea.com/2026/11/12/ley-mordaza-gobierno-ultraderecha/"
 },
 {
-"d": "2026-11-12T19:18:45Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Premios Latin Grammy 2026: a qué hora es, actuaciones y dónde ver hoy por TV la gala en directo",
-"u": "https://www.elmundo.es/cultura/musica/2026/11/12/6af57feafdddff4a7f8b459a.html"
-},
-{
 "d": "2026-11-12T19:02:00Z",
 "s": "Dazed",
 "l": "en",
@@ -276,17 +506,6 @@ window.CALCO = {
 ],
 "h": "Echo: The 5 best tracks from Ecco2k’s immersive new album",
 "u": "https://www.dazeddigital.com/music/article/71351/1/echo-the-5-best-tracks-from-ecco2k-s-immersive-new-album-drain-gang?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=echo-the-5-best-tracks-from-ecco2k-s-immersive-new-album"
-},
-{
-"d": "2026-11-12T18:48:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Neue Country-Musik: Die Erbinnen von Dolly Parton",
-"u": "https://taz.de/Neue-Country-Musik/!6226251/"
 },
 {
 "d": "2026-11-12T18:28:17Z",
@@ -301,17 +520,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/libros/un-clasico-secreto-del-horror/12/11/2026/"
 },
 {
-"d": "2026-11-12T18:00:13Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "« Retrouver le peuple », un livre qui esquisse des pistes pour réparer le régime de la Vᵉ République",
-"u": "https://www.lemonde.fr/idees/article/2026/11/12/retrouver-le-peuple-un-livre-qui-esquisse-des-pistes-pour-reparer-le-regime-de-la-v-republique_6809146_3232.html"
-},
-{
 "d": "2026-11-12T17:45:29Z",
 "s": "Letras Libres",
 "l": "es",
@@ -322,17 +530,6 @@ window.CALCO = {
 ],
 "h": "Volver al futuro: lecciones de Brasil para México",
 "u": "https://letraslibres.com/economia/volver-al-futuro-lecciones-de-brasil-para-mexico/12/11/2026/"
-},
-{
-"d": "2026-11-12T17:40:13Z",
-"s": "Literary Hub",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Even Elizabeth Holmes cried at the end of Pride & Prejudice.",
-"u": "https://lithub.com/even-elizabeth-holmes-cried-at-the-end-of-pride-prejudice/"
 },
 {
 "d": "2026-11-12T17:38:28Z",
@@ -346,17 +543,6 @@ window.CALCO = {
 "u": "https://www.noemamag.com/a-generation-revolts"
 },
 {
-"d": "2026-11-12T17:25:49Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "El Gobierno de PP y Vox en Castilla y León exige a los cineastas que solicitan ayudas una declaración de compromiso ‘antiideológico’",
-"u": "https://elpais.com/cultura/cine/2026-11-12/el-gobierno-de-pp-y-vox-en-castilla-y-leon-exige-a-los-directores-que-solicitan-ayudas-para-cortos-firmar-una-declaracion-de-compromiso-antiideologico.html"
-},
-{
 "d": "2026-11-12T17:20:44Z",
 "s": "Letras Libres",
 "l": "es",
@@ -367,17 +553,6 @@ window.CALCO = {
 ],
 "h": "La pareja invisible",
 "u": "https://letraslibres.com/cine-tv/la-pareja-invisible/12/11/2026/"
-},
-{
-"d": "2026-11-12T17:19:55Z",
-"s": "Sifted",
-"l": "en",
-"t": [
-"europa",
-"tech"
-],
-"h": "Jensen Huang’s Nvidia exit shakes European tech",
-"u": "https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/"
 },
 {
 "d": "2026-11-12T17:00:32Z",
@@ -413,17 +588,6 @@ window.CALCO = {
 "u": "https://aoc.media/critique/2026/11/12/une-allegorie-indecidable-sur-faust-de-romeo-castellucci/"
 },
 {
-"d": "2026-11-12T16:47:34Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Plus de 80 % des écoles publiques italiennes ont été visées par de fausses alertes à la bombe",
-"u": "https://legrandcontinent.eu/fr/2026/11/12/plus-de-80-des-ecoles-publiques-italiennes-ont-ete-visees-par-de-fausses-alertes-a-la-bombe/"
-},
-{
 "d": "2026-11-12T16:46:42Z",
 "s": "404 Media",
 "l": "en",
@@ -433,17 +597,6 @@ window.CALCO = {
 ],
 "h": "'Way more terrifying than I expected'",
 "u": "https://www.404media.co/way-more-terrifying-than-i-expected/"
-},
-{
-"d": "2026-11-12T16:40:32Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Meta ha rimosso i profili Instagram e Facebook dell’attore Russell Brand dopo la condanna per stupro",
-"u": "https://www.ilpost.it/2026/11/12/russell-brand-stupro-rimozione-meta/"
 },
 {
 "d": "2026-11-12T16:04:39Z",
@@ -501,17 +654,6 @@ window.CALCO = {
 "u": "https://www.lefigaro.fr/livres/ombre-et-lumiere-amour-et-mort-cette-annee-la-le-recit-poignant-d-ahmet-altan-sur-le-genocide-armenien-20261112"
 },
 {
-"d": "2026-11-12T14:02:13Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El primer mes de deltha.eu. Internet sin Google es posible",
-"u": "https://www.jotdown.es/2026/11/el-primer-mes-de-deltha-eu-internet-sin-google-es-posible/"
-},
-{
 "d": "2026-11-12T13:57:47Z",
 "s": "Engelsberg Ideas",
 "l": "en",
@@ -521,60 +663,6 @@ window.CALCO = {
 ],
 "h": "The wartime refuge of Norway’s royals",
 "u": "https://engelsbergideas.com/notebook/the-wartime-refuge-of-norways-royals/"
-},
-{
-"d": "2026-11-12T13:22:30Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘La bola negra’ lidera las nominaciones a los premios Forqué 2026 con cinco candidaturas",
-"u": "https://theobjective.com/cultura/cine/2026-11-12/la-bola-negra-premios-forque/"
-},
-{
-"d": "2026-11-12T13:12:00Z",
-"s": "AnOther",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "Jean-Charles de Castelbajac on the Sacred and the Secular",
-"u": "https://www.anothermag.com/fashion-beauty/17569/jean-charles-de-castelbajac-on-the-sacred-and-the-secular-thames-and-hudson-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jean-charles-de-castelbajac-on-the-sacred-and-the-secular"
-},
-{
-"d": "2026-11-12T12:12:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "'La bola negra', de Los Javis, arrasa con cinco nominaciones en los Forqué",
-"u": "https://www.elconfidencial.com/cultura/2026-11-12/premios-forque-javis_4463614/"
-},
-{
-"d": "2026-11-12T11:55:14Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Wer was und warum fotografiert, orientiert sich zunehmend an den Mechanismen digitaler Plattformen. Das zeigt sich auf der Fotomesse Paris Photo",
-"u": "https://www.nzz.ch/feuilleton/kunst_architektur/wer-was-und-warum-fotografiert-orientiert-sich-zunehmend-an-den-mechanismen-digitaler-plattformen-das-zeigt-sich-auf-der-fotomesse-paris-photo-ld.10060713"
-},
-{
-"d": "2026-11-12T11:28:16Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "A short history of the honey trap",
-"u": "https://engelsbergideas.com/notebook/a-short-history-of-the-honey-trap/"
 },
 {
 "d": "2026-11-12T11:01:00Z",
@@ -595,17 +683,6 @@ window.CALCO = {
 ],
 "h": "The promise and peril of AI in government",
 "u": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-},
-{
-"d": "2026-11-12T11:00:00Z",
-"s": "Stratechery",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
-"u": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/"
 },
 {
 "d": "2026-11-12T09:03:00Z",
@@ -652,17 +729,6 @@ window.CALCO = {
 "u": "https://diacritik.com/2026/11/12/anne-godard-cest-chez-nous-nous-aussi/"
 },
 {
-"d": "2026-11-12T06:00:02Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Terrain vague (85) – Léos Carax / Bande dessinée, etc",
-"u": "https://diacritik.com/2026/11/12/terrain-vague-85-leos-carax-bande-dessinee-etc/"
-},
-{
 "d": "2026-11-12T05:02:46Z",
 "s": "Seúl",
 "l": "es",
@@ -694,39 +760,6 @@ window.CALCO = {
 ],
 "h": "Anselm Kiefer o la vida pública del artista",
 "u": "https://elpais.com/babelia/2026-11-12/anselm-kiefer-o-la-vida-publica-del-artista.html"
-},
-{
-"d": "2026-11-12T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Donne che difesero il pianeta",
-"u": "https://www.doppiozero.com/donne-che-difesero-il-pianeta"
-},
-{
-"d": "2026-11-12T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Possible Love. Amore e disuguaglianza di classe",
-"u": "https://www.doppiozero.com/possible-love-amore-e-disuguaglianza-di-classe"
-},
-{
-"d": "2026-11-12T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Il Gatto Selvatico 3. Avventure in provincia",
-"u": "https://www.doppiozero.com/il-gatto-selvatico-3-avventure-in-provincia"
 },
 {
 "d": "2026-11-12T00:00:00Z",
@@ -773,17 +806,6 @@ window.CALCO = {
 "u": "https://www.eurozine.com/before-social-media-there-were-postcards/?utm_source=rss&utm_medium=rss&utm_campaign=before-social-media-there-were-postcards"
 },
 {
-"d": "2026-11-11T17:02:16Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Johann Peter Hebel’s little treasure chest",
-"u": "https://engelsbergideas.com/notebook/johann-peter-hebels-little-treasure-chest/"
-},
-{
 "d": "2026-11-11T16:06:03Z",
 "s": "The Baffler",
 "l": "en",
@@ -826,28 +848,6 @@ window.CALCO = {
 ],
 "h": "Tinto Brass (1933-2026)",
 "u": "https://seul.ar/tinto-brass-1933-2026/"
-},
-{
-"d": "2026-11-11T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "“Chepibe”, “asegunes”, “medalaganario”. Palabras estelares",
-"u": "https://elpais.com/babelia/2026-11-11/chepibe-asegunes-medalaganario-palabras-estelares.html"
-},
-{
-"d": "2026-11-11T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Los mejores cómics del mes: una mirada sincera al cáncer de mama, sutil humor británico y un ‘Frankenstein’ más humano",
-"u": "https://elpais.com/babelia/2026-11-11/los-mejores-comics-del-mes-una-mirada-sincera-al-cancer-de-mama-sutil-humor-britanico-y-un-frankenstein-mas-humano.html"
 }
 ]
 };

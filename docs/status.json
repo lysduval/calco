@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 14
+  "recientes": 19
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 0
+  "recientes": 2
  },
  {
   "n": "Kaminker",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 11
  },
  {
   "n": "ABC Cultura",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 54,
-  "recientes": 20
+  "entradas": 53,
+  "recientes": 22
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 17
+  "recientes": 18
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 30
+  "recientes": 35
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 8
+  "recientes": 0
  },
  {
   "n": "Seúl",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Nexos",
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "AOC",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "lundimatin",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 17
  },
  {
   "n": "Le Figaro",
@@ -324,8 +324,8 @@
   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
   "ok": true,
   "error": null,
-  "entradas": 45,
-  "recientes": 26
+  "entradas": 46,
+  "recientes": 27
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 14
+  "recientes": 11
  },
  {
   "n": "Die Zeit",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "taz",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 14
+  "recientes": 11
  },
  {
   "n": "Il Post",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 28,
-  "recientes": 7
+  "recientes": 4
  },
  {
   "n": "The Guardian",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 5
+  "recientes": 7
  },
  {
   "n": "UnHerd",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 15
+  "recientes": 16
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "Dazed",
@@ -546,9 +546,9 @@
  {
   "n": "n+1",
   "u": "https://www.nplusonemag.com/feed/",
-  "ok": true,
-  "error": null,
-  "entradas": 200,
+  "ok": false,
+  "error": "sin entradas",
+  "entradas": 0,
   "recientes": 0
  },
  {
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 19
+  "recientes": 15
  }
 ]
