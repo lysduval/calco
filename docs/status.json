@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 54,
-  "recientes": 22
+  "recientes": 20
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 14
+  "recientes": 17
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 5
  },
  {
   "n": "Público",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Revista Crisis",
@@ -202,10 +202,10 @@
  {
   "n": "Artishock",
   "u": "https://artishockrevista.com/feed/",
-  "ok": true,
-  "error": null,
-  "entradas": 10,
-  "recientes": 1
+  "ok": false,
+  "error": "TimeoutError: The read operation timed out",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "Gatopardo",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 10
+  "recientes": 2
  },
  {
   "n": "Diacritik",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 10
+  "recientes": 11
  },
  {
   "n": "New Statesman",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "ArtReview",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 17
+  "recientes": 19
  },
  {
   "n": "The New Yorker",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 10
+  "recientes": 7
  },
  {
   "n": "Ars Technica",
