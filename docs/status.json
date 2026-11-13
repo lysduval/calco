@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 21
+  "recientes": 20
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 12
  },
  {
   "n": "Jot Down",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 53,
-  "recientes": 20
+  "recientes": 19
  },
  {
   "n": "El Cultural",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 8
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 32
+  "recientes": 33
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "Seúl",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Revista Crisis",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Gatopardo",
@@ -235,7 +235,7 @@
   "n": "Esteban Schmidt",
   "u": "https://estebanschmidt.substack.com/feed",
   "ok": false,
-  "error": "HTTPError: HTTP Error 400: Bad Request",
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "entradas": 0,
   "recientes": 0
  },
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Diacritik",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 19
+  "recientes": 18
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 19
  },
  {
   "n": "Le Figaro",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 46,
-  "recientes": 27
+  "recientes": 30
  },
  {
   "n": "NZZ",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "taz",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "New Statesman",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 17
+  "recientes": 16
  },
  {
   "n": "ArtReview",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "032c",
@@ -546,9 +546,9 @@
  {
   "n": "n+1",
   "u": "https://www.nplusonemag.com/feed/",
-  "ok": false,
-  "error": "sin entradas",
-  "entradas": 0,
+  "ok": true,
+  "error": null,
+  "entradas": 200,
   "recientes": 0
  },
  {
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 16
+  "recientes": 20
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 12
  },
  {
   "n": "Hyperallergic",
@@ -661,7 +661,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Granta",
@@ -685,7 +685,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The Common Reader",
@@ -698,25 +698,25 @@
  {
   "n": "Counter Craft",
   "u": "https://countercraft.substack.com/feed",
-  "ok": true,
-  "error": null,
-  "entradas": 20,
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
   "recientes": 0
  },
  {
   "n": "Embedded",
   "u": "https://embedded.substack.com/feed",
-  "ok": true,
-  "error": null,
-  "entradas": 20,
-  "recientes": 1
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "Clone",
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 17,
+  "entradas": 16,
   "recientes": 11
  },
  {
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Rest of World",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "The Verge",
