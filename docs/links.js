@@ -1,6 +1,17 @@
 window.CALCO = {
-"updated": "2026-11-14T14:08:19Z",
+"updated": "2026-11-14T19:09:55Z",
 "tops": [
+{
+"d": "2026-11-14T17:00:09Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Manfredi, théoricien du droit",
+"u": "https://aoc.media/fiction/2026/11/14/manfredi-theoricien-du-droit/"
+},
 {
 "d": "2026-11-14T07:00:21Z",
 "s": "Seúl",
@@ -11,74 +22,151 @@ window.CALCO = {
 ],
 "h": "Youtuber Killed the TV Star",
 "u": "https://seul.ar/youtuber-killed-the-tv-star/"
-},
-{
-"d": "2026-11-14T05:33:47Z",
-"s": "Revista Crisis",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "la tangente | algo está pasando con el folklore argentino",
-"u": "https://revistacrisis.com.ar/notas/la-tangente-algo-esta-pasando-con-el-folklore-argentino/"
 }
 ],
 "links": [
 {
-"d": "2026-11-14T14:00:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-"u": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"
-},
-{
-"d": "2026-11-14T13:59:31Z",
+"d": "2026-11-14T19:06:20Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Weltklimakonferenz: Regenbogen trotz Razzien: Tausende demonstrieren in Türkei",
-"u": "https://www.zeit.de/news/2026-11/14/regenbogen-trotz-razzien-tausende-demonstrieren-in-tuerkei"
+"h": "SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz",
+"u": "https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz"
 },
 {
-"d": "2026-11-14T13:57:18Z",
+"d": "2026-11-14T18:49:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Wolf Biermann im Gespräch: „Der Osten hat immer die Arschkarte gezogen“",
+"u": "https://taz.de/Wolf-Biermann-im-Gespraech/!6226238/"
+},
+{
+"d": "2026-11-14T18:26:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El Zurbarán que inventó París: cuando el expolio español fabricó el mito del pintor místico",
+"u": "https://www.elconfidencial.com/cultura/2026-11-14/zurbaran-exposicion-louvre-mito-1hms_4462391/"
+},
+{
+"d": "2026-11-14T18:09:19Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Séraphine Louis in Metz: Dieses Malobst könnte auch von Cézanne stammen",
+"u": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/die-malerin-seraphine-louis-im-centre-pompidou-metz-201669249.html"
+},
+{
+"d": "2026-11-14T18:06:41Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Remei de Ca La Fresca, rabia lógica (★★★★✩)",
+"u": "https://www.lavanguardia.com/cultura/musica/20261114/11684361/remei-ca-fresca-rabia-logica.html"
+},
+{
+"d": "2026-11-14T17:44:28Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Work to replace old copper wire led to the FAA’s ground stop",
+"u": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+},
+{
+"d": "2026-11-14T17:41:00Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Con Los Javis, en la conquista de EEUU con La bola negra: \"La carrera por el Oscar es una entelequia\"",
+"u": "https://www.elmundo.es/cultura/cine/2026/11/14/6af89c2be85ece10768b45a8.html"
+},
+{
+"d": "2026-11-14T17:07:41Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Recuperan en un museo inglés una virgen del siglo XIII robada en Navarra por Erik el Belga en 1979",
+"u": "https://www.abc.es/cultura/recuperan-museo-ingles-virgen-siglo-xiii-robada-20261114172829-nt.html"
+},
+{
+"d": "2026-11-14T17:00:26Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Un souffle collectif pour la quarantième édition de D’Jazz Nevers Festival",
+"u": "https://www.lemonde.fr/culture/article/2026/11/14/un-souffle-collectif-pour-la-quarantieme-edition-de-d-jazz-nevers-festival_6810457_3246.html"
+},
+{
+"d": "2026-11-14T16:48:51Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "¿Podemos esbozar cuál será la moral del futuro?",
+"u": "https://www.jotdown.es/2026/11/podemos-esbozar-cual-sera-la-moral-del-futuro/"
+},
+{
+"d": "2026-11-14T16:19:14Z",
 "s": "Jacobin",
 "l": "en",
 "t": [
 "eeuu",
 "ideas"
 ],
-"h": "Europe Relies on Illegal Pushbacks to Deter Migrants",
-"u": "https://jacobin.com/2026/11/review-akehurst-europe-pushbacks-mediterranean-migration"
+"h": "Inside Colombia’s FARC, as Victory Gave Way to Survival",
+"u": "https://jacobin.com/2026/11/farc-colombia-guerrillas-defeat-memoir"
 },
 {
-"d": "2026-11-14T13:30:09Z",
-"s": "Le Monde",
+"d": "2026-11-14T15:07:34Z",
+"s": "Le Monde des livres",
 "l": "fr",
 "t": [
 "europa",
-"ideas"
+"letras"
 ],
-"h": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html"
+"h": "Comment est né le passionnant « Au jour le jour », dans lequel six historiennes étudient la vie quotidienne des classes populaires",
+"u": "https://www.lemonde.fr/livres/article/2026/11/14/comment-est-ne-le-passionnant-au-jour-le-jour-dans-lequel-six-historiennes-etudient-la-vie-quotidienne-des-classes-populaires_6810379_3260.html"
 },
 {
-"d": "2026-11-14T13:30:00Z",
+"d": "2026-11-14T15:00:00Z",
 "s": "Le Figaro",
 "l": "fr",
 "t": [
 "europa",
 "letras"
 ],
-"h": "Cinquantenaire de la mort d’André Malraux : notre sélection de livres à ne pas rater",
-"u": "https://www.lefigaro.fr/livres/cinquantenaire-de-la-mort-d-andre-malraux-notre-selection-de-livres-a-ne-pas-rater-20261114"
+"h": "Frédéric Beigbeder : « Avant Katherine Mansfield, je vivais dans l’erreur, l’inculture et l’analphabétisme »",
+"u": "https://www.lefigaro.fr/livres/frederic-beigbeder-avant-katherine-mansfield-je-vivais-dans-l-erreur-l-inculture-et-l-analphabetisme-20261114"
 },
 {
 "d": "2026-11-14T13:15:39Z",
@@ -90,17 +178,6 @@ window.CALCO = {
 ],
 "h": "Les demandes brutales de la Russie sur l’Ukraine",
 "u": "https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/"
-},
-{
-"d": "2026-11-14T13:10:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Javier Gutiérrez, actor de 'El confidente': \"Mucha gente joven es desconocedora en nuestro país de tantos años de sufrimiento por la violencia de ETA\"",
-"u": "https://www.elconfidencial.com/cultura/cine/2026-11-14/javier-gutierrez-el-confidente-jovenes-eta-1qrt_4462285/"
 },
 {
 "d": "2026-11-14T13:00:46Z",
@@ -136,28 +213,6 @@ window.CALCO = {
 "u": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
 },
 {
-"d": "2026-11-14T12:54:18Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
-"u": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html"
-},
-{
-"d": "2026-11-14T12:50:59Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Gedichte aus der Haft: Das freie Wort der Verzweifelten",
-"u": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/schenja-berkowitsch-schickt-gedichte-aus-dem-gefaengnis-accg-201672824.html"
-},
-{
 "d": "2026-11-14T12:34:06Z",
 "s": "New Statesman",
 "l": "en",
@@ -167,17 +222,6 @@ window.CALCO = {
 ],
 "h": "In today’s world, wonder is political",
 "u": "https://www.newstatesman.com/podcasts/new-society-podcast/2026/11/in-todays-world-wonder-is-political"
-},
-{
-"d": "2026-11-14T12:26:19Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Los presidentes de las plazas piden a Fran Rivera que rectifique: «No está a la altura de un matador de toros»",
-"u": "https://www.abc.es/cultura/toros/sevilla/presidentes-plazas-piden-fran-rivera-rectifique-altura-20261114132619-nts.html"
 },
 {
 "d": "2026-11-14T12:15:48Z",
@@ -191,17 +235,6 @@ window.CALCO = {
 "u": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
 },
 {
-"d": "2026-11-14T12:14:13Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "‘La bola negra’ irrumpe en los Premios del Cine Europeo con diez nominaciones",
-"u": "https://www.lavanguardia.com/cultura/20261114/11684257/bola-negra-irrumpe-premios-cine-europeo-diez-nominaciones.html"
-},
-{
 "d": "2026-11-14T12:04:33Z",
 "s": "El País",
 "l": "es",
@@ -209,19 +242,8 @@ window.CALCO = {
 "es",
 "arte"
 ],
-"h": "‘La bola negra’, de los Javis, se coloca como una de las favoritas a los premios del cine europeo con 10 nominaciones",
+"h": "‘La bola negra’, de los Javis, se coloca como una de las favoritas a los Premios del Cine Europeo con 10 nominaciones",
 "u": "https://elpais.com/cultura/cine/2026-11-14/la-bola-negra-de-los-javis-se-coloca-como-una-de-las-favoritas-a-los-premios-del-cine-europeo-con-10-nominaciones.html"
-},
-{
-"d": "2026-11-14T11:46:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Erinnerung an Joachim Lottmann: Er kaperte die Ausdrucksmittel",
-"u": "https://taz.de/Erinnerung-an-Joachim-Lottmann/!6228816/"
 },
 {
 "d": "2026-11-14T11:30:52Z",
@@ -290,15 +312,15 @@ window.CALCO = {
 "u": "https://www.lamarea.com/2026/11/14/opacidad-spain-dc/"
 },
 {
-"d": "2026-11-14T06:00:29Z",
-"s": "Jot Down",
+"d": "2026-11-14T05:33:47Z",
+"s": "Revista Crisis",
 "l": "es",
 "t": [
-"es",
+"latam",
 "ideas"
 ],
-"h": "Ni iguales ni distintos, sino todo lo contrario",
-"u": "https://www.jotdown.es/2026/11/ni-iguales-ni-distintos-todo-lo-contrario/"
+"h": "la tangente | algo está pasando con el folklore argentino",
+"u": "https://revistacrisis.com.ar/notas/la-tangente-algo-esta-pasando-con-el-folklore-argentino/"
 },
 {
 "d": "2026-11-14T05:29:01Z",
@@ -444,15 +466,26 @@ window.CALCO = {
 "u": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20261114/grande-muhammad-ali-bioserie-queda-pequena/1003744457074_12.html"
 },
 {
-"d": "2026-11-14T00:03:46Z",
+"d": "2026-11-14T00:04:27Z",
 "s": "UnHerd",
 "l": "en",
 "t": [
 "europa",
 "ideas"
 ],
-"h": "Who whacked Jensen Huang?",
-"u": "https://unherd.com/2026/11/who-whacked-jensen-huang/?edition=us"
+"h": "The moral confusion of MeToo",
+"u": "https://unherd.com/2026/11/the-moral-confusion-of-metoo/?edition=us"
+},
+{
+"d": "2026-11-14T00:00:00Z",
+"s": "Sidecar (New Left Review)",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Grey Anderson: “Punishment Campaign”",
+"u": "https://newleftreview.org/sidecar/posts/punishment-campaign"
 },
 {
 "d": "2026-11-13T23:08:56Z",
@@ -466,15 +499,26 @@ window.CALCO = {
 "u": "https://ilmanifesto.it/michele-firk-una-vita-militante"
 },
 {
-"d": "2026-11-13T22:48:17Z",
-"s": "El Mundo",
-"l": "es",
+"d": "2026-11-13T23:00:54Z",
+"s": "En attendant Nadeau",
+"l": "fr",
 "t": [
-"es",
-"arte"
+"europa",
+"letras"
 ],
-"h": "En defensa de Broncano",
-"u": "https://www.elmundo.es/cultura/2026/11/13/6af72d5f21efa024348b4584.html"
+"h": "Le conflit des égalités",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/14/aisthesis-et-le-conflit-des-egalites-jacques-ranciere/"
+},
+{
+"d": "2026-11-13T23:00:24Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Le drame lointain du pays intérieur",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/14/le-drame-lointain-du-pays-interieur/"
 },
 {
 "d": "2026-11-13T22:39:45Z",
@@ -578,6 +622,17 @@ window.CALCO = {
 "u": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy"
 },
 {
+"d": "2026-11-13T17:29:06Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La Florida è assurda anche fuori da GTA",
+"u": "https://www.ilpost.it/2026/11/13/florida-assurda-gta-vi/"
+},
+{
 "d": "2026-11-13T17:01:57Z",
 "s": "Revista Anfibia",
 "l": "es",
@@ -640,17 +695,6 @@ window.CALCO = {
 ],
 "h": "November Bookmarks: A Single Woman in a Dust-Proof Room",
 "u": "https://www.theparisreview.org/blog/2026/11/13/november-bookmarks-emma-eaton-new-releases/"
-},
-{
-"d": "2026-11-13T13:25:25Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Celebripost",
-"u": "https://www.ilpost.it/2026/11/13/celebripost-642/"
 },
 {
 "d": "2026-11-13T13:10:00Z",
@@ -794,81 +838,15 @@ window.CALCO = {
 "u": "https://www.revistaanfibia.com/sobre-las-huellas-de-francisco/"
 },
 {
-"d": "2026-11-12T18:13:11Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "DIEZ GALERÍAS DESTACADAS EN MIRA ART FAIR 2026",
-"u": "https://artishockrevista.com/2026/11/12/diez-galerias-destacadas-en-mira-art-fair-2026/"
-},
-{
-"d": "2026-11-12T17:00:32Z",
-"s": "AOC",
+"d": "2026-11-12T23:00:08Z",
+"s": "En attendant Nadeau",
 "l": "fr",
 "t": [
 "europa",
-"ideas"
-],
-"h": "« Issu de l’immigration »",
-"u": "https://aoc.media/opinion/2026/11/12/issu-de-limmigration-sintegrer-a-son-propre-pays/"
-},
-{
-"d": "2026-11-12T17:00:22Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Nouvelle-Calédonie et politique de Macron : l’impensé impérial",
-"u": "https://aoc.media/analyse/2026/11/12/nouvelle-caledonie-et-politique-de-macron-le-retour-de-limpense-imperial/"
-},
-{
-"d": "2026-11-12T16:04:39Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
 "letras"
 ],
-"h": "Tierra de mi padre",
-"u": "https://www.revistaotraparte.com/cine-y-tv/tierra-de-mi-padre/?utm_source=rss&utm_medium=rss&utm_campaign=tierra-de-mi-padre"
-},
-{
-"d": "2026-11-12T16:03:57Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
-"letras"
-],
-"h": "El visionario",
-"u": "https://www.revistaotraparte.com/musica/el-visionario/?utm_source=rss&utm_medium=rss&utm_campaign=el-visionario"
-},
-{
-"d": "2026-11-12T16:02:50Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
-"letras"
-],
-"h": "El Mago",
-"u": "https://www.revistaotraparte.com/otras-literaturas/el-mago/?utm_source=rss&utm_medium=rss&utm_campaign=el-mago"
-},
-{
-"d": "2026-11-12T15:22:45Z",
-"s": "The Common Reader",
-"l": "en",
-"t": [
-"europa",
-"letras"
-],
-"h": "Justice for Mrs. Bennet?",
-"u": "https://www.commonreader.co.uk/p/justice-for-mrs-bennet"
+"h": "La rencontre fortuite d’une machine à coudre et d’un parapluie ?",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/13/architecture-et-psychanalyse-cosimo-schinaia/"
 }
 ]
 };

@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 19
+  "recientes": 18
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 6
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "The Objective",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 53,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "El Cultural",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 39
+  "recientes": 36
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 14
  },
  {
   "n": "Seúl",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Gatopardo",
@@ -229,7 +229,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 6
+  "recientes": 0
  },
  {
   "n": "Esteban Schmidt",
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "AOC",
@@ -253,15 +253,15 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "En attendant Nadeau",
   "u": "https://www.en-attendant-nadeau.fr/feed/",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 1000,
+  "recientes": 3
  },
  {
   "n": "Diacritik",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 6
  },
  {
   "n": "Le Monde",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "Le Monde",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 46,
-  "recientes": 30
+  "recientes": 29
  },
  {
   "n": "NZZ",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "Doppiozero",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 27,
-  "recientes": 4
+  "recientes": 3
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "New Statesman",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Eurozine",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "032c",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 22
+  "recientes": 18
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "Hyperallergic",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 12
+  "recientes": 7
  },
  {
   "n": "Literary Hub",
@@ -661,7 +661,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Granta",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Counter Craft",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 5
+  "recientes": 3
  },
  {
   "n": "Rest of World",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 4
+  "recientes": 2
  }
 ]
