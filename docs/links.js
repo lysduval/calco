@@ -1,6 +1,17 @@
 window.CALCO = {
-"updated": "2026-11-14T06:19:07Z",
+"updated": "2026-11-14T14:08:19Z",
 "tops": [
+{
+"d": "2026-11-14T07:00:21Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "Youtuber Killed the TV Star",
+"u": "https://seul.ar/youtuber-killed-the-tv-star/"
+},
 {
 "d": "2026-11-14T05:33:47Z",
 "s": "Revista Crisis",
@@ -11,20 +22,262 @@ window.CALCO = {
 ],
 "h": "la tangente | algo está pasando con el folklore argentino",
 "u": "https://revistacrisis.com.ar/notas/la-tangente-algo-esta-pasando-con-el-folklore-argentino/"
+}
+],
+"links": [
+{
+"d": "2026-11-14T14:00:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+"u": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"
 },
 {
-"d": "2026-11-14T04:30:01Z",
-"s": "Babelia",
+"d": "2026-11-14T13:59:31Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Weltklimakonferenz: Regenbogen trotz Razzien: Tausende demonstrieren in Türkei",
+"u": "https://www.zeit.de/news/2026-11/14/regenbogen-trotz-razzien-tausende-demonstrieren-in-tuerkei"
+},
+{
+"d": "2026-11-14T13:57:18Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Europe Relies on Illegal Pushbacks to Deter Migrants",
+"u": "https://jacobin.com/2026/11/review-akehurst-europe-pushbacks-mediterranean-migration"
+},
+{
+"d": "2026-11-14T13:30:09Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html"
+},
+{
+"d": "2026-11-14T13:30:00Z",
+"s": "Le Figaro",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Cinquantenaire de la mort d’André Malraux : notre sélection de livres à ne pas rater",
+"u": "https://www.lefigaro.fr/livres/cinquantenaire-de-la-mort-d-andre-malraux-notre-selection-de-livres-a-ne-pas-rater-20261114"
+},
+{
+"d": "2026-11-14T13:15:39Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Les demandes brutales de la Russie sur l’Ukraine",
+"u": "https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/"
+},
+{
+"d": "2026-11-14T13:10:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Javier Gutiérrez, actor de 'El confidente': \"Mucha gente joven es desconocedora en nuestro país de tantos años de sufrimiento por la violencia de ETA\"",
+"u": "https://www.elconfidencial.com/cultura/cine/2026-11-14/javier-gutierrez-el-confidente-jovenes-eta-1qrt_4462285/"
+},
+{
+"d": "2026-11-14T13:00:46Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"
+},
+{
+"d": "2026-11-14T13:00:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "I found peace at Versailles",
+"u": "https://akosuatadasi.substack.com/p/187-i-found-peace-at-versailles"
+},
+{
+"d": "2026-11-14T13:00:00Z",
+"s": "404 Media",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Scientists Made Monkeys Watch Minions to Study Their Brains",
+"u": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+},
+{
+"d": "2026-11-14T12:54:18Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
+"u": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html"
+},
+{
+"d": "2026-11-14T12:50:59Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Gedichte aus der Haft: Das freie Wort der Verzweifelten",
+"u": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/schenja-berkowitsch-schickt-gedichte-aus-dem-gefaengnis-accg-201672824.html"
+},
+{
+"d": "2026-11-14T12:34:06Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "In today’s world, wonder is political",
+"u": "https://www.newstatesman.com/podcasts/new-society-podcast/2026/11/in-todays-world-wonder-is-political"
+},
+{
+"d": "2026-11-14T12:26:19Z",
+"s": "ABC Cultura",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
-"u": "https://elpais.com/babelia/2026-11-14/diez-obras-maestras-escritas-por-rafael-azcona-de-el-pisito-placido-y-el-verdugo-a-el-bosque-animado-y-belle-epoque.html"
-}
+"h": "Los presidentes de las plazas piden a Fran Rivera que rectifique: «No está a la altura de un matador de toros»",
+"u": "https://www.abc.es/cultura/toros/sevilla/presidentes-plazas-piden-fran-rivera-rectifique-altura-20261114132619-nts.html"
+},
+{
+"d": "2026-11-14T12:15:48Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
 ],
-"links": [
+"h": "James Webb telescope finds ice older than the star it orbits",
+"u": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+},
+{
+"d": "2026-11-14T12:14:13Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "‘La bola negra’ irrumpe en los Premios del Cine Europeo con diez nominaciones",
+"u": "https://www.lavanguardia.com/cultura/20261114/11684257/bola-negra-irrumpe-premios-cine-europeo-diez-nominaciones.html"
+},
+{
+"d": "2026-11-14T12:04:33Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "‘La bola negra’, de los Javis, se coloca como una de las favoritas a los premios del cine europeo con 10 nominaciones",
+"u": "https://elpais.com/cultura/cine/2026-11-14/la-bola-negra-de-los-javis-se-coloca-como-una-de-las-favoritas-a-los-premios-del-cine-europeo-con-10-nominaciones.html"
+},
+{
+"d": "2026-11-14T11:46:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Erinnerung an Joachim Lottmann: Er kaperte die Ausdrucksmittel",
+"u": "https://taz.de/Erinnerung-an-Joachim-Lottmann/!6228816/"
+},
+{
+"d": "2026-11-14T11:30:52Z",
+"s": "Literary Hub",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Lit Hub Weekly: November 9 – 13, 2026",
+"u": "https://lithub.com/lit-hub-weekly-november-9-13-2026/"
+},
+{
+"d": "2026-11-14T11:22:34Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "MELDUNGEN KULTUR - Sandra Hüller doppelt für Europäischen Filmpreis nominiert",
+"u": "https://www.nzz.ch/feuilleton/sandra-hueller-doppelt-fuer-europaeischen-filmpreis-nominiert-ld.10064027"
+},
+{
+"d": "2026-11-14T11:00:00Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "President Trump’s Nightmare Oval Office",
+"u": "https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office"
+},
+{
+"d": "2026-11-14T11:00:00Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Special Edition: Jesus",
+"u": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/"
+},
+{
+"d": "2026-11-14T10:47:37Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cowherd’s America",
+"u": "https://thecritic.co.uk/cowherds-america/"
+},
 {
 "d": "2026-11-14T06:10:00Z",
 "s": "La Marea",
@@ -37,17 +290,6 @@ window.CALCO = {
 "u": "https://www.lamarea.com/2026/11/14/opacidad-spain-dc/"
 },
 {
-"d": "2026-11-14T06:00:39Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "From Fjord to U2: your complete entertainment guide to the week ahead",
-"u": "https://www.theguardian.com/culture/2026/nov/14/going-out-staying-in-fjord-u2-grand-theft-auto-vi-complete-entertainment-guide-week-ahead"
-},
-{
 "d": "2026-11-14T06:00:29Z",
 "s": "Jot Down",
 "l": "es",
@@ -57,61 +299,6 @@ window.CALCO = {
 ],
 "h": "Ni iguales ni distintos, sino todo lo contrario",
 "u": "https://www.jotdown.es/2026/11/ni-iguales-ni-distintos-todo-lo-contrario/"
-},
-{
-"d": "2026-11-14T06:00:06Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Adventszeit: Weihnachtsmarkt-Spezialtipps in Thüringen",
-"u": "https://www.zeit.de/news/2026-11/14/weihnachtsmarkt-spezialtipps-in-thueringen"
-},
-{
-"d": "2026-11-14T06:00:00Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "The long history of Poland’s “Ukraine fatigue”",
-"u": "https://www.newstatesman.com/world/europe/2026/11/the-long-history-of-polands-ukraine-fatigue"
-},
-{
-"d": "2026-11-14T05:30:13Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Dominique Méda : « La suppression de Parcoursup ne résoudra pas le problème essentiel de la folle course aux diplômes »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-meda-la-suppression-de-parcoursup-ne-resoudra-pas-le-probleme-essentiel-de-la-folle-course-aux-diplomes_6809754_3232.html"
-},
-{
-"d": "2026-11-14T05:30:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Artuto Pérez-Reverte (74 años), sobre la historia de España: \"Nunca hemos tenido cabezas rectoras lúcidas y honradas. Nuestra historia es muy trágica\"",
-"u": "https://www.elconfidencial.com/cultura/2026-11-14/perez-reverte-historia-espana-wild_4463435/"
-},
-{
-"d": "2026-11-14T05:30:00Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Pourquoi il faut prêter attention à la courbe de popularité de Poutine",
-"u": "https://legrandcontinent.eu/fr/2026/11/14/pourquoi-il-faut-preter-attention-a-la-courbe-de-popularite-de-poutine/"
 },
 {
 "d": "2026-11-14T05:29:01Z",
@@ -136,26 +323,48 @@ window.CALCO = {
 "u": "https://revistacrisis.com.ar/notas/crisis-en-el-aire-269-el-papa-en-la-argentina-procesion-de-un-verbo-desarmado/"
 },
 {
-"d": "2026-11-14T05:00:00Z",
-"s": "La Vanguardia",
+"d": "2026-11-14T04:30:01Z",
+"s": "Babelia",
 "l": "es",
 "t": [
 "es",
-"arte"
+"letras"
 ],
-"h": "Antonio Di Paolo: “La escuela catalana no ha creado más identidad nacional”",
-"u": "https://www.lavanguardia.com/cultura/20261114/11683816/escuela-catalana-identidad-nacional-economia.html"
+"h": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
+"u": "https://elpais.com/babelia/2026-11-14/diez-obras-maestras-escritas-por-rafael-azcona-de-el-pisito-placido-y-el-verdugo-a-el-bosque-animado-y-belle-epoque.html"
 },
 {
-"d": "2026-11-14T04:45:01Z",
-"s": "El País",
+"d": "2026-11-14T04:30:01Z",
+"s": "Babelia",
 "l": "es",
 "t": [
 "es",
-"ideas"
+"letras"
 ],
-"h": "El Roto: por prudencia",
-"u": "https://elpais.com/opinion/2026-11-14/el-roto-por-prudencia.html"
+"h": "Los cinco libros de la semana: de un éxito literario con ribetes pop a un encierro imprevisto en una habitación de hotel",
+"u": "https://elpais.com/babelia/2026-11-14/los-cinco-libros-de-la-semana-de-un-exito-literario-con-ribetes-pop-a-un-encierro-imprevisto-en-una-habitacion-de-hotel.html"
+},
+{
+"d": "2026-11-14T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Las exposiciones de arte más destacadas de noviembre",
+"u": "https://elpais.com/babelia/2026-11-14/las-exposiciones-de-arte-mas-destacadas-de-noviembre.html"
+},
+{
+"d": "2026-11-14T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "En ningún sitio como fuera de casa",
+"u": "https://elpais.com/babelia/2026-11-14/fuera-de-casa.html"
 },
 {
 "d": "2026-11-14T04:30:01Z",
@@ -167,50 +376,6 @@ window.CALCO = {
 ],
 "h": "Un consejo de Rafael Azcona",
 "u": "https://elpais.com/babelia/2026-11-14/un-consejo-de-rafael-azcona.html"
-},
-{
-"d": "2026-11-14T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Franz Kafka, el poder y la paradoja del forastero",
-"u": "https://elpais.com/babelia/2026-11-14/franz-kafka-el-poder-y-la-paradoja-del-forastero.html"
-},
-{
-"d": "2026-11-14T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "¿Cómo enfrentarse al duelo por los hijos?",
-"u": "https://elpais.com/babelia/2026-11-14/como-enfrentarse-al-duelo-por-los-hijos.html"
-},
-{
-"d": "2026-11-14T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Trampantojo: Infierno",
-"u": "https://elpais.com/babelia/2026-11-14/trampantojo-infierno.html"
-},
-{
-"d": "2026-11-14T04:30:00Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Die Verteilung der Welt: Daniel Kehlmann widmet sich im Roman «Afrika» dem Kolonialismus",
-"u": "https://www.nzz.ch/feuilleton/buecher/die-verteilung-der-welt-daniel-kehlmann-widmet-sich-im-roman-afrika-dem-kolonialismus-ld.10062318"
 },
 {
 "d": "2026-11-14T04:25:00Z",
@@ -235,28 +400,6 @@ window.CALCO = {
 "u": "https://www.zendalibros.com/zenda-recomienda-la-gravedad-y-la-gracia-de-simone-weil/"
 },
 {
-"d": "2026-11-14T03:00:00Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "With Stephen Miller and Jim Jordan, the G.O.P. Doubles Down on Ideology",
-"u": "https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology"
-},
-{
-"d": "2026-11-14T02:21:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "After 26 years, the US has lost its measles elimination status",
-"u": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status"
-},
-{
 "d": "2026-11-14T02:10:00Z",
 "s": "Doppiozero",
 "l": "it",
@@ -279,17 +422,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/il-pasticciaccio-di-walter-siti"
 },
 {
-"d": "2026-11-14T02:00:47Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Britain’s prisons are rotting from the inside",
-"u": "https://thecritic.co.uk/britains-prisons-are-rotting-from-the-inside/"
-},
-{
 "d": "2026-11-14T02:00:00Z",
 "s": "Doppiozero",
 "l": "it",
@@ -301,28 +433,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/paesi-spaesati"
 },
 {
-"d": "2026-11-14T01:53:04Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-"u": "https://www.theverge.com/news/1033489/faa-ground-stop"
-},
-{
-"d": "2026-11-14T01:25:33Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "De Lorca a Jaume Plensa: el legado de Manuel de Falla trasciende la música y sobrevive a los terremotos",
-"u": "https://www.abc.es/cultura/musica/lorca-jaume-plensa-legado-manuel-falla-trasciende-20261112022532-nt.html"
-},
-{
 "d": "2026-11-14T00:50:00Z",
 "s": "El Cultural",
 "l": "es",
@@ -332,17 +442,6 @@ window.CALCO = {
 ],
 "h": "'El más grande': a Muhammad Ali su bioserie se le queda pequeña",
 "u": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20261114/grande-muhammad-ali-bioserie-queda-pequena/1003744457074_12.html"
-},
-{
-"d": "2026-11-14T00:49:13Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-"u": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
 },
 {
 "d": "2026-11-14T00:03:46Z",
@@ -365,28 +464,6 @@ window.CALCO = {
 ],
 "h": "Michèle Firk, una vita militante",
 "u": "https://ilmanifesto.it/michele-firk-una-vita-militante"
-},
-{
-"d": "2026-11-13T23:00:54Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Le conflit des égalités",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/14/aisthesis-et-le-conflit-des-egalites-jacques-ranciere/"
-},
-{
-"d": "2026-11-13T23:00:24Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Le drame lointain du pays intérieur",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/14/le-drame-lointain-du-pays-interieur/"
 },
 {
 "d": "2026-11-13T22:48:17Z",
@@ -412,28 +489,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/musica/u2-quiere-que-sigas-creyendo/13/11/2026/"
 },
 {
-"d": "2026-11-13T21:20:39Z",
-"s": "Hyperallergic",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "At NYC’s ADAA Art Fair, Unlimited Shrimp and $2K Diebenkorns",
-"u": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/"
-},
-{
-"d": "2026-11-13T20:40:12Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Guglielmo Carchedi Was a Pathbreaking Marxist Economist",
-"u": "https://jacobin.com/2026/11/carchedi-marxism-class-value-theory"
-},
-{
 "d": "2026-11-13T20:26:38Z",
 "s": "Artishock",
 "l": "es",
@@ -445,17 +500,6 @@ window.CALCO = {
 "u": "https://artishockrevista.com/2026/11/13/artishock-mira-latino-art-fair/"
 },
 {
-"d": "2026-11-13T20:04:04Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "James Bond: Es wird ein Junge",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/wer-wird-der-neue-james-bond-201679589.html"
-},
-{
 "d": "2026-11-13T19:15:47Z",
 "s": "Artforum",
 "l": "en",
@@ -465,28 +509,6 @@ window.CALCO = {
 ],
 "h": "Caroline Shields Named Chief Curator of Clark Art Institute",
 "u": "https://www.artforum.com/news/caroline-shields-new-chief-curator-of-clark-art-institute-1234763610/"
-},
-{
-"d": "2026-11-13T19:02:26Z",
-"s": "Literary Hub",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Here’s what’s making us happy this week.",
-"u": "https://lithub.com/heres-whats-making-us-happy-this-week-111326/"
-},
-{
-"d": "2026-11-13T18:58:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Sophie Calle Ausstellung in Berlin: Könnte es besser sein?",
-"u": "https://taz.de/Sophie-Calle-Ausstellung-in-Berlin/!6224514/"
 },
 {
 "d": "2026-11-13T18:54:08Z",
@@ -522,28 +544,6 @@ window.CALCO = {
 "u": "https://www.dazeddigital.com/art-photography/article/71342/1/paris-photo-art-fair-photography-2026-highlights-guide-grand-palais?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-pictures-from-paris-photo-2026"
 },
 {
-"d": "2026-11-13T18:02:52Z",
-"s": "Le Figaro",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "« On m’a interdit de conseiller un livre de Rima Hassan » : le critique Arnaud Viviant s’estime censuré au « Masque et la Plume » et annonce son départ",
-"u": "https://www.lefigaro.fr/livres/on-m-a-interdit-de-conseiller-un-livre-de-rima-hassan-le-critique-arnaud-viviant-s-estime-censure-au-masque-et-la-plume-et-annonce-son-depart-20261113"
-},
-{
-"d": "2026-11-13T18:00:05Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Trois excellents recueils de nouvelles en poche conseillés par François Angelier : Thomas Pynchon, Mariana Enriquez et Ivan Tourgueniev",
-"u": "https://www.lemonde.fr/livres/article/2026/11/13/trois-excellents-recueils-de-nouvelles-en-poche-conseilles-par-francois-angelier-thomas-pynchon-mariana-enriquez-et-ivan-tourgueniev_6809372_3260.html"
-},
-{
 "d": "2026-11-13T18:00:00Z",
 "s": "Stratechery",
 "l": "en",
@@ -576,28 +576,6 @@ window.CALCO = {
 ],
 "h": "Serbia’s Experiment: Combining Democracy & Meritocracy",
 "u": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy"
-},
-{
-"d": "2026-11-13T17:29:06Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La Florida è assurda anche fuori da GTA",
-"u": "https://www.ilpost.it/2026/11/13/florida-assurda-gta-vi/"
-},
-{
-"d": "2026-11-13T17:28:17Z",
-"s": "404 Media",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Behind the Blog: Priorities, Priorities",
-"u": "https://www.404media.co/behind-the-blog-priorities-priorities/"
 },
 {
 "d": "2026-11-13T17:01:57Z",
@@ -662,6 +640,17 @@ window.CALCO = {
 ],
 "h": "November Bookmarks: A Single Woman in a Dust-Proof Room",
 "u": "https://www.theparisreview.org/blog/2026/11/13/november-bookmarks-emma-eaton-new-releases/"
+},
+{
+"d": "2026-11-13T13:25:25Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Celebripost",
+"u": "https://www.ilpost.it/2026/11/13/celebripost-642/"
 },
 {
 "d": "2026-11-13T13:10:00Z",
@@ -805,17 +794,6 @@ window.CALCO = {
 "u": "https://www.revistaanfibia.com/sobre-las-huellas-de-francisco/"
 },
 {
-"d": "2026-11-12T23:00:08Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "La rencontre fortuite d’une machine à coudre et d’un parapluie ?",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/13/architecture-et-psychanalyse-cosimo-schinaia/"
-},
-{
 "d": "2026-11-12T18:13:11Z",
 "s": "Artishock",
 "l": "es",
@@ -880,6 +858,17 @@ window.CALCO = {
 ],
 "h": "El Mago",
 "u": "https://www.revistaotraparte.com/otras-literaturas/el-mago/?utm_source=rss&utm_medium=rss&utm_campaign=el-mago"
+},
+{
+"d": "2026-11-12T15:22:45Z",
+"s": "The Common Reader",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Justice for Mrs. Bennet?",
+"u": "https://www.commonreader.co.uk/p/justice-for-mrs-bennet"
 }
 ]
 };
