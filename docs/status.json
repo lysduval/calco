@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 8
+  "recientes": 11
  },
  {
   "n": "El País",
@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 19
+  "recientes": 20
  },
  {
   "n": "El País",
@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 20
+  "recientes": 21
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "Kaminker",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 18
+  "recientes": 19
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 33
+  "recientes": 42
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 14
  },
  {
   "n": "Seúl",
@@ -157,7 +157,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Panamá Revista",
@@ -180,8 +180,8 @@
   "u": "https://revistacrisis.com.ar/feed/",
   "ok": true,
   "error": null,
-  "entradas": 1890,
-  "recientes": 0
+  "entradas": 1893,
+  "recientes": 3
  },
  {
   "n": "Nexos",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Nexos",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Artishock",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "lundimatin",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 8
  },
  {
   "n": "Le Monde",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 46,
-  "recientes": 30
+  "recientes": 28
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 10
+  "recientes": 11
  },
  {
   "n": "Die Zeit",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "taz",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Eurozine",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 16
+  "recientes": 14
  },
  {
   "n": "ArtReview",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 20
+  "recientes": 21
  },
  {
   "n": "The New Yorker",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 16,
-  "recientes": 11
+  "entradas": 17,
+  "recientes": 12
  },
  {
   "n": "Ars Technica",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 12
+  "recientes": 8
  }
 ]
