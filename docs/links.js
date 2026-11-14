@@ -1,5 +1,5 @@
 window.CALCO = {
-"updated": "2026-11-14T19:09:55Z",
+"updated": "2026-11-14T22:58:20Z",
 "tops": [
 {
 "d": "2026-11-14T17:00:09Z",
@@ -26,15 +26,70 @@ window.CALCO = {
 ],
 "links": [
 {
-"d": "2026-11-14T19:06:20Z",
+"d": "2026-11-14T22:57:27Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Ignorancia Artificial",
+"u": "https://www.zendalibros.com/ignorancia-artificial/"
+},
+{
+"d": "2026-11-14T22:43:33Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz",
-"u": "https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz"
+"h": "Auszeichnung: Preis für Verständigung und Toleranz für Tekkal und Moritz",
+"u": "https://www.zeit.de/news/2026-11/14/preis-fuer-verstaendigung-und-toleranz-fuer-tekkal-und-moritz"
+},
+{
+"d": "2026-11-14T22:35:47Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El invierno de las criaturas ancestrales",
+"u": "https://www.lavanguardia.com/cultura/20261114/11684617/invierno-criaturas-ancestrales.html"
+},
+{
+"d": "2026-11-14T21:44:44Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+"u": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+},
+{
+"d": "2026-11-14T19:47:52Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "How to spend nine hours in JFK",
+"u": "https://www.newstatesman.com/silver-spoon/2026/11/grounding-aviation-america-jfk"
+},
+{
+"d": "2026-11-14T19:42:46Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El cantante Gabito Ballesteros es detenido tras cancelar su concierto en México",
+"u": "https://www.elmundo.es/cultura/musica/2026/11/14/6af8b8dee4d4d85b408b4573.html"
 },
 {
 "d": "2026-11-14T18:49:00Z",
@@ -68,39 +123,6 @@ window.CALCO = {
 ],
 "h": "Séraphine Louis in Metz: Dieses Malobst könnte auch von Cézanne stammen",
 "u": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/die-malerin-seraphine-louis-im-centre-pompidou-metz-201669249.html"
-},
-{
-"d": "2026-11-14T18:06:41Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Remei de Ca La Fresca, rabia lógica (★★★★✩)",
-"u": "https://www.lavanguardia.com/cultura/musica/20261114/11684361/remei-ca-fresca-rabia-logica.html"
-},
-{
-"d": "2026-11-14T17:44:28Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Work to replace old copper wire led to the FAA’s ground stop",
-"u": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
-},
-{
-"d": "2026-11-14T17:41:00Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Con Los Javis, en la conquista de EEUU con La bola negra: \"La carrera por el Oscar es una entelequia\"",
-"u": "https://www.elmundo.es/cultura/cine/2026/11/14/6af89c2be85ece10768b45a8.html"
 },
 {
 "d": "2026-11-14T17:07:41Z",
@@ -145,6 +167,17 @@ window.CALCO = {
 ],
 "h": "Inside Colombia’s FARC, as Victory Gave Way to Survival",
 "u": "https://jacobin.com/2026/11/farc-colombia-guerrillas-defeat-memoir"
+},
+{
+"d": "2026-11-14T15:30:08Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Un componente della troupe della serie di Netflix “Dept. Q” è morto sul set a Edimburgo per un infortunio",
+"u": "https://www.ilpost.it/2026/11/14/edinburgo-morto-membro-troupe-dept-q-serie-netflix/"
 },
 {
 "d": "2026-11-14T15:07:34Z",
@@ -211,17 +244,6 @@ window.CALCO = {
 ],
 "h": "Scientists Made Monkeys Watch Minions to Study Their Brains",
 "u": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
-},
-{
-"d": "2026-11-14T12:34:06Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "In today’s world, wonder is political",
-"u": "https://www.newstatesman.com/podcasts/new-society-podcast/2026/11/in-todays-world-wonder-is-political"
 },
 {
 "d": "2026-11-14T12:15:48Z",
@@ -409,17 +431,6 @@ window.CALCO = {
 ],
 "h": "Jon Viar: «Mucha gente prefería sentarse al lado del asesino de ETA que junto a un amenazado»",
 "u": "https://theobjective.com/cultura/2026-11-14/jon-viar-asesino-eta-amenazado/"
-},
-{
-"d": "2026-11-14T04:00:42Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Zenda recomienda: La gravedad y la gracia, de Simone Weil",
-"u": "https://www.zendalibros.com/zenda-recomienda-la-gravedad-y-la-gracia-de-simone-weil/"
 },
 {
 "d": "2026-11-14T02:10:00Z",
@@ -620,17 +631,6 @@ window.CALCO = {
 ],
 "h": "Serbia’s Experiment: Combining Democracy & Meritocracy",
 "u": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy"
-},
-{
-"d": "2026-11-13T17:29:06Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La Florida è assurda anche fuori da GTA",
-"u": "https://www.ilpost.it/2026/11/13/florida-assurda-gta-vi/"
 },
 {
 "d": "2026-11-13T17:01:57Z",
