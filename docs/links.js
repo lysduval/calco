@@ -1,5 +1,5 @@
 window.CALCO = {
-"updated": "2026-11-15T17:42:00Z",
+"updated": "2026-11-15T22:47:44Z",
 "tops": [
 {
 "d": "2026-11-15T17:00:00Z",
@@ -26,6 +26,138 @@ window.CALCO = {
 ],
 "links": [
 {
+"d": "2026-11-15T22:29:02Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "El día que no llega",
+"u": "https://www.zendalibros.com/el-dia-que-no-llega/"
+},
+{
+"d": "2026-11-15T21:50:25Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Nations League: Dramatischer 3:2-Sieg: England schlägt Weltmeister Spanien",
+"u": "https://www.zeit.de/news/2026-11/15/dramatischer-3-2-sieg-england-schlaegt-weltmeister-spanien"
+},
+{
+"d": "2026-11-15T21:49:22Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Listen to this: Armand Hammer’s Snakes & Ladders",
+"u": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review"
+},
+{
+"d": "2026-11-15T21:01:21Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Hörspiel nach Daudet: Don Quijote und Sancho Panza in einer Person",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/hoerspiel-tartarin-bezwingt-die-schweizer-alpen-beim-srf-201169350.html"
+},
+{
+"d": "2026-11-15T20:29:41Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La Regenta 2.0",
+"u": "https://www.elmundo.es/cultura/2026/11/15/6af7295521efa0153a8b459e.html"
+},
+{
+"d": "2026-11-15T20:00:11Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "« Julien Gracq, le rivage du style » retrace la longue vie et la grande œuvre de l’auteur du « Rivage des Syrtes »",
+"u": "https://www.lemonde.fr/livres/article/2026/11/15/julien-gracq-le-rivage-du-style-retrace-la-longue-vie-et-la-grande-uvre-de-l-auteur-du-rivage-des-syrtes_6811048_3260.html"
+},
+{
+"d": "2026-11-15T19:59:04Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Cayetano sale en defensa de su hermano Fran Rivera: «Tiene razón sobre la vanidad de algunos presidentes taurinos»",
+"u": "https://www.abc.es/cultura/toros/sevilla/cayetano-sale-defensa-hermano-fran-rivera-razon-20261115203129-nts.html"
+},
+{
+"d": "2026-11-15T19:56:01Z",
+"s": "The Common Reader",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Philosophy, Celan, Teresa, Joyce, Theory, Ghost, Morel, Hagwon, Fiction, Mann, End, Magician, Austen",
+"u": "https://www.commonreader.co.uk/p/philosophy-celan-teresa-joyce-theory"
+},
+{
+"d": "2026-11-15T19:15:30Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El escritor nicaragüense Sergio Ramírez ingresa en la RAE con una sentida loa a Vargas Llosa",
+"u": "https://www.lavanguardia.com/cultura/20261115/11684903/escritor-nicaragueense-sergio-ramirez-ingresa-rae-sentida-loa-vargas-llosa.html"
+},
+{
+"d": "2026-11-15T19:11:01Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
+"u": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-ingresa-en-la-rae-perdi-un-pais-pero-nunca-he-sido-extranjero-en-espana.html"
+},
+{
+"d": "2026-11-15T19:11:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Otto Mühl, nicht Künstler, sondern Täter: Wiener Aktionistendämmerung",
+"u": "https://taz.de/Otto-Muehl-nicht-Kuenstler-sondern-Taeter/!6229218/"
+},
+{
+"d": "2026-11-15T18:00:40Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Art psychotherapists are already regulated | Letters",
+"u": "https://www.theguardian.com/society/2026/nov/15/art-psychotherapists-are-already-regulated"
+},
+{
 "d": "2026-11-15T17:30:00Z",
 "s": "El Confidencial",
 "l": "es",
@@ -35,28 +167,6 @@ window.CALCO = {
 ],
 "h": "Jesús Hernández, historiador, sobre el poder de EEUU en la Segunda Guerra Mundial: \"Cada día de octubre del 44 tenías 264 barcos hacia Inglaterra\"",
 "u": "https://www.elconfidencial.com/cultura/2026-11-15/ana-galeote-longevidad-dolor-estres_4463487/"
-},
-{
-"d": "2026-11-15T17:26:37Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Unfälle: Zwei Tote bei Unfall auf B311 - missglückter Überholvorgang?",
-"u": "https://www.zeit.de/news/2026-11/15/zwei-tote-bei-unfall-auf-b311-missglueckter-ueberholvorgang"
-},
-{
-"d": "2026-11-15T17:05:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Bonaparte-Konzert in Berlin: Nackt mit Katzenkopf im Champagner baden",
-"u": "https://taz.de/Bonaparte-Konzert-in-Berlin/!6230134/"
 },
 {
 "d": "2026-11-15T17:00:00Z",
@@ -81,17 +191,6 @@ window.CALCO = {
 "u": "https://aoc.media/analyse/2026/11/15/ce-que-nous-laisse-passeron/"
 },
 {
-"d": "2026-11-15T17:00:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-"u": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale"
-},
-{
 "d": "2026-11-15T16:33:09Z",
 "s": "Sifted",
 "l": "en",
@@ -114,28 +213,6 @@ window.CALCO = {
 "u": "https://www.lemonde.fr/culture/article/2026/11/15/georges-kars-un-peintre-du-monde-d-hier-sur-france-culture-un-documentaire-audio-sur-les-traces-d-un-artiste-meconnu_6811035_3246.html"
 },
 {
-"d": "2026-11-15T16:20:42Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Arlo Parks, bailar la belleza (★★★✩✩)",
-"u": "https://www.lavanguardia.com/cultura/20261115/11684841/arlo-parks-bailar-belleza.html"
-},
-{
-"d": "2026-11-15T16:09:37Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Die rechte Szene in Halle: Corona hat hier für viele das Weltbild zerstört, und sie haben sich radikalisiert",
-"u": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/links-ist-schon-lange-over-was-rechte-verlage-antreibt-accg-201663987.html"
-},
-{
 "d": "2026-11-15T16:06:18Z",
 "s": "The New Yorker",
 "l": "en",
@@ -145,39 +222,6 @@ window.CALCO = {
 ],
 "h": "Scott Colom’s Senate Win Is a Mississippi Miracle",
 "u": "https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle"
-},
-{
-"d": "2026-11-15T16:00:17Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"letras"
-],
-"h": "Tom Gauld on business and self-improvement books licensed by the JRR Tolkien estate – cartoon",
-"u": "https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon"
-},
-{
-"d": "2026-11-15T16:00:15Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Au cœur du plus vibrant foyer culturel de Pologne, Cracovie, ville à l’honneur du festival parisien Un week-end à l’Est",
-"u": "https://www.lemonde.fr/livres/article/2026/11/15/au-c-ur-du-plus-vibrant-foyer-culturel-de-pologne-cracovie-ville-a-l-honneur-du-festival-parisien-un-week-end-a-l-est_6811031_3260.html"
-},
-{
-"d": "2026-11-15T15:44:16Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Zorrilla, más allá del Tenorio: entre espadas, fantasmas y humor",
-"u": "https://www.abc.es/cultura/teatros/zorrilla-alla-tenorio-espadas-fantasmas-humor-20261112020208-nt.html"
 },
 {
 "d": "2026-11-15T15:00:53Z",
@@ -233,17 +277,6 @@ window.CALCO = {
 ],
 "h": "The Jensen Huang affair",
 "u": "https://www.newstatesman.com/podcasts/politics-podcast/2026/11/the-jensen-huang-affair-2"
-},
-{
-"d": "2026-11-15T13:20:50Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Las ‘pinturas profanas’ de Sijena se despiden del MNAC: “¿Son estas las que se llevan el martes?”",
-"u": "https://elpais.com/espana/catalunya/2026-11-15/las-pinturas-profanas-de-sijena-se-despiden-del-mnac-son-estas-las-que-se-llevan-el-martes.html"
 },
 {
 "d": "2026-11-15T13:00:00Z",
@@ -345,17 +378,6 @@ window.CALCO = {
 "u": "https://theobjective.com/cultura/2026-11-15/historia-canalla-holocausto-aristrocracia-guerra-civil/"
 },
 {
-"d": "2026-11-15T04:00:46Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Histeria: en los días que fueron décadas",
-"u": "https://www.zendalibros.com/histeria-en-los-dias-que-fueron-decadas/"
-},
-{
 "d": "2026-11-15T02:00:49Z",
 "s": "The Critic",
 "l": "en",
@@ -376,17 +398,6 @@ window.CALCO = {
 ],
 "h": "El ojo que ve y piensa: el universo de Guillermo Pérez Villalta en una exposición y un libro",
 "u": "https://www.elespanol.com/el-cultural/arte/20261115/ojo-ve-piensa-universo-guillermo-perez-villalta-exposicion-libro/1003744441746_0.html"
-},
-{
-"d": "2026-11-14T23:36:30Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Palomas negras, una serie de acción entretenidísima y una serie de personajes magnífica",
-"u": "https://www.elmundo.es/cultura/2026/11/15/6af7261f21efa045068b459f.html"
 },
 {
 "d": "2026-11-14T23:04:52Z",
@@ -607,107 +618,6 @@ window.CALCO = {
 ],
 "h": "Le drame lointain du pays intérieur",
 "u": "https://www.en-attendant-nadeau.fr/2026/11/14/le-drame-lointain-du-pays-interieur/"
-},
-{
-"d": "2026-11-13T22:39:45Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "U2 quiere que sigas creyendo",
-"u": "https://letraslibres.com/musica/u2-quiere-que-sigas-creyendo/13/11/2026/"
-},
-{
-"d": "2026-11-13T20:26:38Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "ARTISHOCK PARTICIPA POR PRIMERA VEZ EN MIRA LATINO ART FAIR, EN PARÍS",
-"u": "https://artishockrevista.com/2026/11/13/artishock-mira-latino-art-fair/"
-},
-{
-"d": "2026-11-13T19:15:47Z",
-"s": "Artforum",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Caroline Shields Named Chief Curator of Clark Art Institute",
-"u": "https://www.artforum.com/news/caroline-shields-new-chief-curator-of-clark-art-institute-1234763610/"
-},
-{
-"d": "2026-11-13T18:54:08Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "GTA VI: rebeldía, simulación y neón púrpura",
-"u": "https://letraslibres.com/cultura/gta-vi-rebeldia-simulacion-y-neon-purpura/13/11/2026/"
-},
-{
-"d": "2026-11-13T18:33:20Z",
-"s": "The Honest Broker",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Can AI Compose a Convincing Beethoven Sonata?",
-"u": "https://www.honest-broker.com/p/can-ai-compose-a-convincing-beethoven"
-},
-{
-"d": "2026-11-13T18:11:00Z",
-"s": "Dazed",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "The standout pictures from Paris Photo 2026",
-"u": "https://www.dazeddigital.com/art-photography/article/71342/1/paris-photo-art-fair-photography-2026-highlights-guide-grand-palais?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-pictures-from-paris-photo-2026"
-},
-{
-"d": "2026-11-13T18:00:00Z",
-"s": "Stratechery",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "2026.46: The End of Jensen",
-"u": "https://stratechery.com/2026/the-end-of-jensen/"
-},
-{
-"d": "2026-11-13T17:54:11Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "Pensar desde las revistas",
-"u": "https://letraslibres.com/cultura/pensar-desde-las-revistas/13/11/2026/"
-},
-{
-"d": "2026-11-13T17:50:07Z",
-"s": "Noema",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Serbia’s Experiment: Combining Democracy & Meritocracy",
-"u": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy"
 }
 ]
 };
