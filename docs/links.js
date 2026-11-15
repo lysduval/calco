@@ -1,5 +1,5 @@
 window.CALCO = {
-"updated": "2026-11-14T22:58:20Z",
+"updated": "2026-11-15T02:38:27Z",
 "tops": [
 {
 "d": "2026-11-14T17:00:09Z",
@@ -26,37 +26,103 @@ window.CALCO = {
 ],
 "links": [
 {
-"d": "2026-11-14T22:57:27Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Ignorancia Artificial",
-"u": "https://www.zendalibros.com/ignorancia-artificial/"
-},
-{
-"d": "2026-11-14T22:43:33Z",
+"d": "2026-11-15T02:30:09Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Auszeichnung: Preis für Verständigung und Toleranz für Tekkal und Moritz",
-"u": "https://www.zeit.de/news/2026-11/14/preis-fuer-verstaendigung-und-toleranz-fuer-tekkal-und-moritz"
+"h": "Frauen-Fußball: Frauen-Revierderby vor Rekordkulisse: BVB empfängt Schalke",
+"u": "https://www.zeit.de/news/2026-11/15/frauen-revierderby-vor-rekordkulisse-bvb-empfaengt-schalke"
 },
 {
-"d": "2026-11-14T22:35:47Z",
+"d": "2026-11-15T01:38:39Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "El ojo que ve y piensa: el universo de Guillermo Pérez Villalta en una exposición y un libro",
+"u": "https://www.elespanol.com/el-cultural/arte/20261115/ojo-ve-piensa-universo-guillermo-perez-villalta-exposicion-libro/1003744441746_0.html"
+},
+{
+"d": "2026-11-15T01:37:45Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "El regreso de C. Tangana con Agorazein: leyendas del rap 'underground', reyes del 'mainstream'",
+"u": "https://www.abc.es/cultura/musica/regreso-tangana-agorazein-leyendas-rap-underground-reyes-20261115012125-nt.html"
+},
+{
+"d": "2026-11-15T00:40:59Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+"u": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+},
+{
+"d": "2026-11-15T00:39:15Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "The inaugural Eurovision Asia 2026 – in pictures",
+"u": "https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures"
+},
+{
+"d": "2026-11-15T00:23:01Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Alben in Kurzkritiken: Bloß keine grauhaarige Didaktik",
+"u": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/haydn-haynes-bogdanovic-und-vesi-alben-in-kurzkritiken-201629470.html"
+},
+{
+"d": "2026-11-14T23:11:12Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "15 de noviembre de 1936: La ofensiva franquista",
+"u": "https://www.zendalibros.com/15-de-noviembre-de-1936-la-ofensiva-franquista/"
+},
+{
+"d": "2026-11-14T23:04:52Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "I lobbisti dei data center all’assalto della Cop31",
+"u": "https://ilmanifesto.it/i-lobbisti-dei-data-center-allassalto-della-conferenza-della-cop31"
+},
+{
+"d": "2026-11-14T23:00:00Z",
 "s": "La Vanguardia",
 "l": "es",
 "t": [
 "es",
 "arte"
 ],
-"h": "El invierno de las criaturas ancestrales",
-"u": "https://www.lavanguardia.com/cultura/20261114/11684617/invierno-criaturas-ancestrales.html"
+"h": "Si no tienes un museo del Prado, usa el ingenio",
+"u": "https://www.lavanguardia.com/cultura/20261115/11683819/prado-macba-by-invitation-barcelona-madrid-arte-cultura.html"
 },
 {
 "d": "2026-11-14T21:44:44Z",
@@ -114,28 +180,6 @@ window.CALCO = {
 "u": "https://www.elconfidencial.com/cultura/2026-11-14/zurbaran-exposicion-louvre-mito-1hms_4462391/"
 },
 {
-"d": "2026-11-14T18:09:19Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Séraphine Louis in Metz: Dieses Malobst könnte auch von Cézanne stammen",
-"u": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/die-malerin-seraphine-louis-im-centre-pompidou-metz-201669249.html"
-},
-{
-"d": "2026-11-14T17:07:41Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Recuperan en un museo inglés una virgen del siglo XIII robada en Navarra por Erik el Belga en 1979",
-"u": "https://www.abc.es/cultura/recuperan-museo-ingles-virgen-siglo-xiii-robada-20261114172829-nt.html"
-},
-{
 "d": "2026-11-14T17:00:26Z",
 "s": "Le Monde",
 "l": "fr",
@@ -169,17 +213,6 @@ window.CALCO = {
 "u": "https://jacobin.com/2026/11/farc-colombia-guerrillas-defeat-memoir"
 },
 {
-"d": "2026-11-14T15:30:08Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Un componente della troupe della serie di Netflix “Dept. Q” è morto sul set a Edimburgo per un infortunio",
-"u": "https://www.ilpost.it/2026/11/14/edinburgo-morto-membro-troupe-dept-q-serie-netflix/"
-},
-{
 "d": "2026-11-14T15:07:34Z",
 "s": "Le Monde des livres",
 "l": "fr",
@@ -202,6 +235,17 @@ window.CALCO = {
 "u": "https://www.lefigaro.fr/livres/frederic-beigbeder-avant-katherine-mansfield-je-vivais-dans-l-erreur-l-inculture-et-l-analphabetisme-20261114"
 },
 {
+"d": "2026-11-14T13:48:12Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La bufala del blackout del 17 novembre",
+"u": "https://www.ilpost.it/2026/11/14/blackout-17-novembre-bufala/"
+},
+{
 "d": "2026-11-14T13:15:39Z",
 "s": "Le Grand Continent",
 "l": "fr",
@@ -211,17 +255,6 @@ window.CALCO = {
 ],
 "h": "Les demandes brutales de la Russie sur l’Ukraine",
 "u": "https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/"
-},
-{
-"d": "2026-11-14T13:00:46Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-"u": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"
 },
 {
 "d": "2026-11-14T13:00:00Z",
@@ -244,17 +277,6 @@ window.CALCO = {
 ],
 "h": "Scientists Made Monkeys Watch Minions to Study Their Brains",
 "u": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
-},
-{
-"d": "2026-11-14T12:15:48Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "James Webb telescope finds ice older than the star it orbits",
-"u": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
 },
 {
 "d": "2026-11-14T12:04:33Z",
@@ -466,17 +488,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/paesi-spaesati"
 },
 {
-"d": "2026-11-14T00:50:00Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "'El más grande': a Muhammad Ali su bioserie se le queda pequeña",
-"u": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20261114/grande-muhammad-ali-bioserie-queda-pequena/1003744457074_12.html"
-},
-{
 "d": "2026-11-14T00:04:27Z",
 "s": "UnHerd",
 "l": "en",
@@ -497,17 +508,6 @@ window.CALCO = {
 ],
 "h": "Grey Anderson: “Punishment Campaign”",
 "u": "https://newleftreview.org/sidecar/posts/punishment-campaign"
-},
-{
-"d": "2026-11-13T23:08:56Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Michèle Firk, una vita militante",
-"u": "https://ilmanifesto.it/michele-firk-una-vita-militante"
 },
 {
 "d": "2026-11-13T23:00:54Z",
@@ -793,60 +793,6 @@ window.CALCO = {
 ],
 "h": "Fukushima de Michaël Ferrier : la littérature à l’épreuve du désastre",
 "u": "https://diacritik.com/2026/11/13/fukushima-de-michael-ferrier-la-litterature-a-lepreuve-du-desastre/"
-},
-{
-"d": "2026-11-13T01:43:23Z",
-"s": "Platformer",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Jensen Huang and the end of the ‘lol nothing matters’ era of American politics",
-"u": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/"
-},
-{
-"d": "2026-11-13T00:00:00Z",
-"s": "Sidecar (New Left Review)",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Erika Balsom: “On Target”",
-"u": "https://newleftreview.org/sidecar/posts/on-target"
-},
-{
-"d": "2026-11-13T00:00:00Z",
-"s": "Equator",
-"l": "en",
-"t": [
-"ideas"
-],
-"h": "The Silencing of Mada Masr",
-"u": "https://www.equator.org/articles/the-silencing-of-mada-masr"
-},
-{
-"d": "2026-11-12T23:48:35Z",
-"s": "Revista Anfibia",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Sobre las huellas de Francisco",
-"u": "https://www.revistaanfibia.com/sobre-las-huellas-de-francisco/"
-},
-{
-"d": "2026-11-12T23:00:08Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "La rencontre fortuite d’une machine à coudre et d’un parapluie ?",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/13/architecture-et-psychanalyse-cosimo-schinaia/"
 }
 ]
 };
