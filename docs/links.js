@@ -1,6 +1,17 @@
 window.CALCO = {
-"updated": "2026-11-15T02:38:27Z",
+"updated": "2026-11-15T10:50:09Z",
 "tops": [
+{
+"d": "2026-11-15T07:00:54Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "Ya no manda ni gobierna",
+"u": "https://seul.ar/ya-no-manda-ni-gobierna/"
+},
 {
 "d": "2026-11-14T17:00:09Z",
 "s": "AOC",
@@ -11,30 +22,206 @@ window.CALCO = {
 ],
 "h": "Manfredi, théoricien du droit",
 "u": "https://aoc.media/fiction/2026/11/14/manfredi-theoricien-du-droit/"
-},
-{
-"d": "2026-11-14T07:00:21Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Youtuber Killed the TV Star",
-"u": "https://seul.ar/youtuber-killed-the-tv-star/"
 }
 ],
 "links": [
 {
-"d": "2026-11-15T02:30:09Z",
+"d": "2026-11-15T10:43:01Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Frauen-Fußball: Frauen-Revierderby vor Rekordkulisse: BVB empfängt Schalke",
-"u": "https://www.zeit.de/news/2026-11/15/frauen-revierderby-vor-rekordkulisse-bvb-empfaengt-schalke"
+"h": "Flucht durch Frankfurt: 28-Jähriger nach Verfolgungsfahrt in Haftzelle",
+"u": "https://www.zeit.de/news/2026-11/15/28-jaehriger-nach-verfolgungsfahrt-in-haftzelle"
+},
+{
+"d": "2026-11-15T10:23:00Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La Orquestra de la Comunitat Valenciana narra a Schumann con Thomas Hengelbrock antes de desembarcar en Madrid",
+"u": "https://elpais.com/cultura/2026-11-15/la-orquestra-de-la-comunitat-valenciana-narra-a-schumann-con-thomas-hengelbrock-antes-de-desembarcar-en-madrid.html"
+},
+{
+"d": "2026-11-15T10:00:09Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "A Alfortville, un roi Lear en fin de règne dans « La Fête du vieux »",
+"u": "https://www.lemonde.fr/culture/article/2026/11/15/a-alfortville-un-roi-lear-en-fin-de-regne-dans-la-fete-du-vieux_6811006_3246.html"
+},
+{
+"d": "2026-11-15T09:30:00Z",
+"s": "Le Figaro",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Jean Sévillia : « Derrière la Terreur, la réalité des chiffres »",
+"u": "https://www.lefigaro.fr/histoire/livres/jean-sevillia-derriere-la-terreur-la-realite-des-chiffres-20261115"
+},
+{
+"d": "2026-11-15T09:16:23Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "La jubilación en el rock: ¿dejarlo en lo más alto o morir con las botas puestas?",
+"u": "https://www.abc.es/cultura/musica/jubilacion-rock-dejarlo-alto-morir-botas-puestas-20261115012001-nt.html"
+},
+{
+"d": "2026-11-15T09:08:00Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Jugendproteste: „Der französische Präsident versteht die Gesellschaft im Allgemeinen nicht“",
+"u": "https://www.faz.net/aktuell/feuilleton/debatten/historiker-pierre-rosanvallon-ueber-proteste-in-frankreich-accg-201635671.html"
+},
+{
+"d": "2026-11-15T09:03:03Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Silbidos en la madriguera de Franz Kafka",
+"u": "https://www.lavanguardia.com/cultura/20261115/11684712/silbidos-madriguera-franz-kafka.html"
+},
+{
+"d": "2026-11-15T08:16:43Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Le soleil noir de la gauche",
+"u": "https://legrandcontinent.eu/fr/2026/11/15/le-soleil-noir-de-la-gauche/"
+},
+{
+"d": "2026-11-15T08:00:04Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Camille Chamois, philosophe : « Notre œil est raciste alors même que notre tête ne le sait pas »",
+"u": "https://www.lemonde.fr/livres/article/2026/11/15/camille-chamois-philosophe-notre-il-est-raciste-alors-meme-que-notre-tete-ne-le-sait-pas_6810996_3260.html"
+},
+{
+"d": "2026-11-15T07:00:53Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "VIP en la hoguera puritana",
+"u": "https://seul.ar/vip-misa-papa/"
+},
+{
+"d": "2026-11-15T07:00:51Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "¿Desde cuándo ser católico es progre?",
+"u": "https://seul.ar/desde-cuando-ser-catolico-es-progre/"
+},
+{
+"d": "2026-11-15T07:00:32Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "¿Cuánto conoces la geografía política española?",
+"u": "https://www.jotdown.es/2026/11/conoces-geografia-politica-espanola/"
+},
+{
+"d": "2026-11-15T06:24:00Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Who would win a general election today? What the Britain Predicts model says",
+"u": "https://www.newstatesman.com/politics/polling/2026/11/who-would-win-a-general-election-today-what-the-britain-predicts-model-says"
+},
+{
+"d": "2026-11-15T04:31:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Was Gabriele Stötzer in der DDR im Stasi-Gefängnis erlebt, lässt sie zur gefeierten Künstlerin werden",
+"u": "https://www.nzz.ch/feuilleton/was-gabriele-stoetzer-im-stasi-gefaengnis-erlebt-laesst-sie-zur-gefeierten-kuenstlerin-werden-ld.10060484"
+},
+{
+"d": "2026-11-15T04:25:00Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Holocausto de la aristocracia en la Guerra Civil",
+"u": "https://theobjective.com/cultura/2026-11-15/historia-canalla-holocausto-aristrocracia-guerra-civil/"
+},
+{
+"d": "2026-11-15T04:00:46Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Histeria: en los días que fueron décadas",
+"u": "https://www.zendalibros.com/histeria-en-los-dias-que-fueron-decadas/"
+},
+{
+"d": "2026-11-15T04:00:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Una historia de la propaganda: así manipularon los nazis a los jóvenes mediante el lenguaje",
+"u": "https://www.elconfidencial.com/cultura/2026-11-15/propaganda-nazis-lenguaje_4463900/"
+},
+{
+"d": "2026-11-15T02:00:49Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "No one wants to hear your music on the bus",
+"u": "https://thecritic.co.uk/no-one-wants-to-hear-your-music-on-the-bus/"
 },
 {
 "d": "2026-11-15T01:38:39Z",
@@ -48,17 +235,6 @@ window.CALCO = {
 "u": "https://www.elespanol.com/el-cultural/arte/20261115/ojo-ve-piensa-universo-guillermo-perez-villalta-exposicion-libro/1003744441746_0.html"
 },
 {
-"d": "2026-11-15T01:37:45Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "El regreso de C. Tangana con Agorazein: leyendas del rap 'underground', reyes del 'mainstream'",
-"u": "https://www.abc.es/cultura/musica/regreso-tangana-agorazein-leyendas-rap-underground-reyes-20261115012125-nt.html"
-},
-{
 "d": "2026-11-15T00:40:59Z",
 "s": "Ars Technica",
 "l": "en",
@@ -66,7 +242,7 @@ window.CALCO = {
 "eeuu",
 "tech"
 ],
-"h": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+"h": "With Starship catch, SpaceX still shows it can dazzle the world",
 "u": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
 },
 {
@@ -81,26 +257,15 @@ window.CALCO = {
 "u": "https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures"
 },
 {
-"d": "2026-11-15T00:23:01Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Alben in Kurzkritiken: Bloß keine grauhaarige Didaktik",
-"u": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/album/haydn-haynes-bogdanovic-und-vesi-alben-in-kurzkritiken-201629470.html"
-},
-{
-"d": "2026-11-14T23:11:12Z",
-"s": "Zenda",
+"d": "2026-11-14T23:36:30Z",
+"s": "El Mundo",
 "l": "es",
 "t": [
 "es",
-"letras"
+"arte"
 ],
-"h": "15 de noviembre de 1936: La ofensiva franquista",
-"u": "https://www.zendalibros.com/15-de-noviembre-de-1936-la-ofensiva-franquista/"
+"h": "Palomas negras, una serie de acción entretenidísima y una serie de personajes magnífica",
+"u": "https://www.elmundo.es/cultura/2026/11/15/6af7261f21efa045068b459f.html"
 },
 {
 "d": "2026-11-14T23:04:52Z",
@@ -114,17 +279,6 @@ window.CALCO = {
 "u": "https://ilmanifesto.it/i-lobbisti-dei-data-center-allassalto-della-conferenza-della-cop31"
 },
 {
-"d": "2026-11-14T23:00:00Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Si no tienes un museo del Prado, usa el ingenio",
-"u": "https://www.lavanguardia.com/cultura/20261115/11683819/prado-macba-by-invitation-barcelona-madrid-arte-cultura.html"
-},
-{
 "d": "2026-11-14T21:44:44Z",
 "s": "The Verge",
 "l": "en",
@@ -134,28 +288,6 @@ window.CALCO = {
 ],
 "h": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
 "u": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
-},
-{
-"d": "2026-11-14T19:47:52Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "How to spend nine hours in JFK",
-"u": "https://www.newstatesman.com/silver-spoon/2026/11/grounding-aviation-america-jfk"
-},
-{
-"d": "2026-11-14T19:42:46Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "El cantante Gabito Ballesteros es detenido tras cancelar su concierto en México",
-"u": "https://www.elmundo.es/cultura/musica/2026/11/14/6af8b8dee4d4d85b408b4573.html"
 },
 {
 "d": "2026-11-14T18:49:00Z",
@@ -169,39 +301,6 @@ window.CALCO = {
 "u": "https://taz.de/Wolf-Biermann-im-Gespraech/!6226238/"
 },
 {
-"d": "2026-11-14T18:26:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "El Zurbarán que inventó París: cuando el expolio español fabricó el mito del pintor místico",
-"u": "https://www.elconfidencial.com/cultura/2026-11-14/zurbaran-exposicion-louvre-mito-1hms_4462391/"
-},
-{
-"d": "2026-11-14T17:00:26Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Un souffle collectif pour la quarantième édition de D’Jazz Nevers Festival",
-"u": "https://www.lemonde.fr/culture/article/2026/11/14/un-souffle-collectif-pour-la-quarantieme-edition-de-d-jazz-nevers-festival_6810457_3246.html"
-},
-{
-"d": "2026-11-14T16:48:51Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "¿Podemos esbozar cuál será la moral del futuro?",
-"u": "https://www.jotdown.es/2026/11/podemos-esbozar-cual-sera-la-moral-del-futuro/"
-},
-{
 "d": "2026-11-14T16:19:14Z",
 "s": "Jacobin",
 "l": "en",
@@ -213,48 +312,15 @@ window.CALCO = {
 "u": "https://jacobin.com/2026/11/farc-colombia-guerrillas-defeat-memoir"
 },
 {
-"d": "2026-11-14T15:07:34Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Comment est né le passionnant « Au jour le jour », dans lequel six historiennes étudient la vie quotidienne des classes populaires",
-"u": "https://www.lemonde.fr/livres/article/2026/11/14/comment-est-ne-le-passionnant-au-jour-le-jour-dans-lequel-six-historiennes-etudient-la-vie-quotidienne-des-classes-populaires_6810379_3260.html"
-},
-{
-"d": "2026-11-14T15:00:00Z",
-"s": "Le Figaro",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Frédéric Beigbeder : « Avant Katherine Mansfield, je vivais dans l’erreur, l’inculture et l’analphabétisme »",
-"u": "https://www.lefigaro.fr/livres/frederic-beigbeder-avant-katherine-mansfield-je-vivais-dans-l-erreur-l-inculture-et-l-analphabetisme-20261114"
-},
-{
-"d": "2026-11-14T13:48:12Z",
+"d": "2026-11-14T15:30:08Z",
 "s": "Il Post",
 "l": "it",
 "t": [
 "europa",
 "arte"
 ],
-"h": "La bufala del blackout del 17 novembre",
-"u": "https://www.ilpost.it/2026/11/14/blackout-17-novembre-bufala/"
-},
-{
-"d": "2026-11-14T13:15:39Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Les demandes brutales de la Russie sur l’Ukraine",
-"u": "https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/"
+"h": "Un componente della troupe della serie di Netflix “Dept. Q” è morto sul set a Edimburgo per un infortunio",
+"u": "https://www.ilpost.it/2026/11/14/edinburgo-morto-membro-troupe-dept-q-serie-netflix/"
 },
 {
 "d": "2026-11-14T13:00:00Z",
@@ -279,17 +345,6 @@ window.CALCO = {
 "u": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
 },
 {
-"d": "2026-11-14T12:04:33Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "‘La bola negra’, de los Javis, se coloca como una de las favoritas a los Premios del Cine Europeo con 10 nominaciones",
-"u": "https://elpais.com/cultura/cine/2026-11-14/la-bola-negra-de-los-javis-se-coloca-como-una-de-las-favoritas-a-los-premios-del-cine-europeo-con-10-nominaciones.html"
-},
-{
 "d": "2026-11-14T11:30:52Z",
 "s": "Literary Hub",
 "l": "en",
@@ -299,17 +354,6 @@ window.CALCO = {
 ],
 "h": "Lit Hub Weekly: November 9 – 13, 2026",
 "u": "https://lithub.com/lit-hub-weekly-november-9-13-2026/"
-},
-{
-"d": "2026-11-14T11:22:34Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "MELDUNGEN KULTUR - Sandra Hüller doppelt für Europäischen Filmpreis nominiert",
-"u": "https://www.nzz.ch/feuilleton/sandra-hueller-doppelt-fuer-europaeischen-filmpreis-nominiert-ld.10064027"
 },
 {
 "d": "2026-11-14T11:00:00Z",
@@ -332,17 +376,6 @@ window.CALCO = {
 ],
 "h": "Special Edition: Jesus",
 "u": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/"
-},
-{
-"d": "2026-11-14T10:47:37Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Cowherd’s America",
-"u": "https://thecritic.co.uk/cowherds-america/"
 },
 {
 "d": "2026-11-14T06:10:00Z",
@@ -442,17 +475,6 @@ window.CALCO = {
 ],
 "h": "Un consejo de Rafael Azcona",
 "u": "https://elpais.com/babelia/2026-11-14/un-consejo-de-rafael-azcona.html"
-},
-{
-"d": "2026-11-14T04:25:00Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Jon Viar: «Mucha gente prefería sentarse al lado del asesino de ETA que junto a un amenazado»",
-"u": "https://theobjective.com/cultura/2026-11-14/jon-viar-asesino-eta-amenazado/"
 },
 {
 "d": "2026-11-14T02:10:00Z",
@@ -738,61 +760,6 @@ window.CALCO = {
 ],
 "h": "Fugitive imagination",
 "u": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"
-},
-{
-"d": "2026-11-13T10:00:59Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Don Huang",
-"u": "https://seul.ar/don-huang/"
-},
-{
-"d": "2026-11-13T08:22:10Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Nasser’s long road to Suez",
-"u": "https://engelsbergideas.com/essays/nassers-long-road-to-suez/"
-},
-{
-"d": "2026-11-13T08:18:08Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Miyazaki’s Swiftian skies",
-"u": "https://engelsbergideas.com/notebook/miyazakis-swiftian-skies/"
-},
-{
-"d": "2026-11-13T06:00:59Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Chaissac écrivain (Mon sans gêne d’épistolier notoire)",
-"u": "https://diacritik.com/2026/11/13/chaissac-ecrivain/"
-},
-{
-"d": "2026-11-13T06:00:28Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Fukushima de Michaël Ferrier : la littérature à l’épreuve du désastre",
-"u": "https://diacritik.com/2026/11/13/fukushima-de-michael-ferrier-la-litterature-a-lepreuve-du-desastre/"
 }
 ]
 };
