@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 11
+  "recientes": 2
  },
  {
   "n": "El País",
@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 13
+  "recientes": 11
  },
  {
   "n": "El País",
@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 19
+  "recientes": 22
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 3
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "The Objective",
@@ -101,7 +101,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 17
+  "recientes": 19
  },
  {
   "n": "El Mundo",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 11
+  "recientes": 13
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 36
+  "recientes": 26
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 11
  },
  {
   "n": "Seúl",
@@ -181,7 +181,7 @@
   "ok": true,
   "error": null,
   "entradas": 1893,
-  "recientes": 3
+  "recientes": 0
  },
  {
   "n": "Nexos",
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 5
  },
  {
   "n": "AOC",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 2
  },
  {
   "n": "lundimatin",
@@ -277,7 +277,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 5
  },
  {
   "n": "Le Monde des livres",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 17
+  "recientes": 15
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 17
+  "recientes": 15
  },
  {
   "n": "Le Figaro",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 27
+  "recientes": 23
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 17
+  "recientes": 12
  },
  {
   "n": "Die Zeit",
@@ -348,8 +348,8 @@
   "u": "https://taz.de/!p4639;rss/",
   "ok": true,
   "error": null,
-  "entradas": 50,
-  "recientes": 12
+  "entradas": 49,
+  "recientes": 13
  },
  {
   "n": "Il Post",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Il Foglio",
@@ -404,7 +404,7 @@
   "u": "https://www.theguardian.com/books/rss",
   "ok": true,
   "error": null,
-  "entradas": 27,
+  "entradas": 28,
   "recientes": 4
  },
  {
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 8
+  "recientes": 6
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "UnHerd",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 8
+  "recientes": 12
  },
  {
   "n": "ArtReview",
@@ -499,7 +499,7 @@
   "n": "Spike",
   "u": "https://spikeartmagazine.com/rss.xml",
   "ok": false,
-  "error": "URLError: <urlopen error timed out>",
+  "error": "sin entradas",
   "entradas": 0,
   "recientes": 0
  },
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 15
+  "recientes": 23
  },
  {
   "n": "The New Yorker",
@@ -645,7 +645,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 7
  },
  {
   "n": "Dirt",
@@ -677,7 +677,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 2
  },
  {
   "n": "The Honest Broker",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 15,
-  "recientes": 5
+  "entradas": 16,
+  "recientes": 6
  },
  {
   "n": "Ars Technica",
@@ -741,7 +741,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "MIT Technology Review",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 1
+  "recientes": 6
  }
 ]
