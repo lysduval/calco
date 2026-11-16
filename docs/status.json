@@ -101,7 +101,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 12
+  "recientes": 17
  },
  {
   "n": "El Mundo",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 53,
-  "recientes": 7
+  "recientes": 8
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Público",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Diacritik",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Il Foglio",
@@ -381,7 +381,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 50
+  "recientes": 39
  },
  {
   "n": "London Review of Books",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Eurozine",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 13
+  "recientes": 8
  },
  {
   "n": "ArtReview",
@@ -499,7 +499,7 @@
   "n": "Spike",
   "u": "https://spikeartmagazine.com/rss.xml",
   "ok": false,
-  "error": "sin entradas",
+  "error": "URLError: <urlopen error timed out>",
   "entradas": 0,
   "recientes": 0
  },
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 16
+  "recientes": 15
  },
  {
   "n": "The New Yorker",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 14,
-  "recientes": 7
+  "entradas": 15,
+  "recientes": 5
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 5
  },
  {
   "n": "404 Media",
