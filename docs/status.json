@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 36,
-  "recientes": 20
+  "recientes": 21
  },
  {
   "n": "El País",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 11
  },
  {
   "n": "ABC Cultura",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 52,
-  "recientes": 12
+  "recientes": 13
  },
  {
   "n": "El Cultural",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 9
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 27
+  "recientes": 31
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 0
  },
  {
   "n": "Seúl",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Revista Crisis",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Artishock",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 3
  },
  {
   "n": "Gatopardo",
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 9
  },
  {
   "n": "AOC",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 2
+  "recientes": 12
  },
  {
   "n": "Diacritik",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Le Monde",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 20
+  "recientes": 19
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 19
  },
  {
   "n": "Le Figaro",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Perlentaucher",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 29
+  "recientes": 31
  },
  {
   "n": "NZZ",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 21
+  "recientes": 19
  },
  {
   "n": "Il Post",
@@ -381,7 +381,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 45
+  "recientes": 49
  },
  {
   "n": "London Review of Books",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 28,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "New Statesman",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "UnHerd",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 13
+  "recientes": 14
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 10
+  "recientes": 13
  },
  {
   "n": "032c",
@@ -549,7 +549,7 @@
   "ok": true,
   "error": null,
   "entradas": 200,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The Paris Review",
@@ -557,7 +557,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "The Baffler",
@@ -581,7 +581,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Los Angeles Review of Books",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 19
+  "recientes": 22
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 9
  },
  {
   "n": "Hyperallergic",
@@ -629,7 +629,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 15
  },
  {
   "n": "Artforum",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 6
+  "recientes": 12
  },
  {
   "n": "Literary Hub",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Counter Craft",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 11,
-  "recientes": 6
+  "entradas": 12,
+  "recientes": 9
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 19
  },
  {
   "n": "404 Media",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 2
+  "recientes": 8
  },
  {
   "n": "Rest of World",
@@ -749,7 +749,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 8
  },
  {
   "n": "Simon Willison",
@@ -757,7 +757,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Platformer",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 12
+  "recientes": 14
  }
 ]
