@@ -1,6 +1,470 @@
 window.CALCO = {
-"updated": "2026-11-17T03:52:02Z",
+"updated": "2026-11-17T13:22:33Z",
 "tops": [
+{
+"d": "2026-11-17T10:06:09Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "What middle powers can learn from the Hansa",
+"u": "https://engelsbergideas.com/notebook/hanseatic-league-middle-powers/"
+},
+{
+"d": "2026-11-17T09:00:00Z",
+"s": "Revista Anfibia",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "De la afirmación moral a la batalla cultural",
+"u": "https://www.revistaanfibia.com/adelanto-exclusivo-el-libro-negro-de-las-nuevas-derechas/"
+}
+],
+"links": [
+{
+"d": "2026-11-17T13:17:00Z",
+"s": "Dazed",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "Filipiñana explores class and colonialism at a Manila country club",
+"u": "https://www.dazeddigital.com/film-tv/article/71370/1/filipiana-explores-class-and-colonialism-at-a-manila-country-club?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=filipinana-explores-class-and-colonialism-at-a-manila-country-club"
+},
+{
+"d": "2026-11-17T13:12:58Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Abrechnung mit der Koalition: Naturschutzbund zieht kritische Bilanz für Schwarz-Grün",
+"u": "https://www.zeit.de/news/2026-11/17/naturschutzbund-zieht-kritische-bilanz-fuer-schwarz-gruen"
+},
+{
+"d": "2026-11-17T13:12:33Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "La fotografía desgarrada de Toni Amengual",
+"u": "https://www.abc.es/cultura/cultural/fotografia-desgarrada-toni-amengual-20261116134952-nt.html"
+},
+{
+"d": "2026-11-17T13:00:01Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "L’appel d’élus du Conseil national de la vie lycéenne : « A quoi sert notre mandat si nos travaux ne débouchent sur aucune discussion suivie d’effets ? »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/17/l-appel-d-elus-du-conseil-national-de-la-vie-lyceenne-a-quoi-sert-notre-mandat-si-nos-travaux-ne-debouchent-sur-aucune-discussion-suivie-d-effets_6812970_3232.html"
+},
+{
+"d": "2026-11-17T13:00:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Uber and Zipline’s drone delivery service takes flight in Houston",
+"u": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas"
+},
+{
+"d": "2026-11-17T12:55:56Z",
+"s": "Sifted",
+"l": "en",
+"t": [
+"europa",
+"tech"
+],
+"h": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
+"u": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/"
+},
+{
+"d": "2026-11-17T12:41:01Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Asurbanipal, el rey que inventó wikipedia hace 2.600 años, llega a Barcelona",
+"u": "https://www.lavanguardia.com/cultura/20261117/11686473/asurbanipal-rey-invento-wikipedia-2-600-anos-llega-barcelona.html"
+},
+{
+"d": "2026-11-17T12:27:56Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Dajla: expansión urbanística y transformación de un territorio ocupado",
+"u": "https://www.lamarea.com/2026/11/17/dajla-expansion-urbanistica/"
+},
+{
+"d": "2026-11-17T12:23:22Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "‘She set out to buy a painting a day’: on the trail of Peggy Guggenheim’s legendary shopping spree",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/17/she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheims-legendary-shopping-spree"
+},
+{
+"d": "2026-11-17T12:22:30Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Michael Well gestorben: Der freundliche Anarchist der Volksmusik",
+"u": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/michael-well-ist-tot-mitbegruender-der-biermoesl-blosn-accg-201690460.html"
+},
+{
+"d": "2026-11-17T12:20:27Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Les pannes et piratages informatiques se multiplient aux États-Unis",
+"u": "https://legrandcontinent.eu/fr/2026/11/17/les-pannes-et-piratages-informatiques-se-multiplient-aux-etats-unis/"
+},
+{
+"d": "2026-11-17T12:19:00Z",
+"s": "AnOther",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "Peter Cat: Haruki Murakami’s Legendary 70s Tokyo Jazz Club Comes to London",
+"u": "https://www.anothermag.com/design-living/17642/peter-cat-haruki-murakami-legendary-70s-tokyo-jazz-club-comes-to-london-barbican?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=peter-cat-haruki-murakami-s-legendary-70s-tokyo-jazz-club-comes-to-london"
+},
+{
+"d": "2026-11-17T12:15:54Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Artist brings old Space Shuttle tank back to life",
+"u": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+},
+{
+"d": "2026-11-17T12:13:45Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Robert Pattinson è già un Bond diverso da tutti gli altri",
+"u": "https://www.ilpost.it/2026/11/17/pattinson-bond/"
+},
+{
+"d": "2026-11-17T12:09:18Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "VÍDEO | Robert Pattinson, de ‘Crepúsculo’ a James Bond: el debate está servido",
+"u": "https://theobjective.com/videos/cultura/2026-11-17/robert-pattinson-crepusculo-james-bond/"
+},
+{
+"d": "2026-11-17T12:00:17Z",
+"s": "Literary Hub",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "And the Best Literary TV Adaptation of All Time is…",
+"u": "https://lithub.com/and-the-best-literary-tv-adaptation-of-all-time-is/"
+},
+{
+"d": "2026-11-17T11:39:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Ein Stück über den Blick der anderen: Wenn sanfte Elbauen zum wilden Dickicht werden",
+"u": "https://taz.de/Ein-Stueck-ueber-den-Blick-der-anderen/!6226163/"
+},
+{
+"d": "2026-11-17T11:21:23Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Casas que leen el paisaje mexicano e interpretan la cultura prehispánica",
+"u": "https://elpais.com/cultura/del-tirador-a-la-ciudad/2026-11-17/casas-que-leen-el-paisaje-mexicano-e-interpretan-la-cultura-prehispanica.html"
+},
+{
+"d": "2026-11-17T11:00:00Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "If You Give a Girl a Gua Sha . . .",
+"u": "https://www.newyorker.com/humor/shouts-murmurs/if-you-give-a-girl-a-gua-sha"
+},
+{
+"d": "2026-11-17T11:00:00Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Latinx Art’s New Visionaries",
+"u": "https://hyperallergic.com/latinx-arts-new-visionaries/"
+},
+{
+"d": "2026-11-17T11:00:00Z",
+"s": "Aeon",
+"l": "en",
+"t": [
+"ideas"
+],
+"h": "Catwalks and crackdowns",
+"u": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran"
+},
+{
+"d": "2026-11-17T11:00:00Z",
+"s": "Stratechery",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+"u": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/"
+},
+{
+"d": "2026-11-17T10:53:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El veneno del hambre: cuando comer gachas costaba las piernas en la España de posguerra",
+"u": "https://www.elconfidencial.com/cultura/2026-11-17/latirismo-almortas-posguerra-1hms_4462389/"
+},
+{
+"d": "2026-11-17T09:07:32Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Burnham’s carbon surrender to Brussels",
+"u": "https://thecritic.co.uk/burnhams-carbon-surrender-to-brussels/"
+},
+{
+"d": "2026-11-17T08:58:56Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "Las ruinas de un rostro",
+"u": "https://letraslibres.com/libros/las-ruinas-de-un-rostro/17/11/2026/"
+},
+{
+"d": "2026-11-17T08:55:56Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "Pacto de Estado: mito y rito de una práctica difunta",
+"u": "https://letraslibres.com/revista/pacto-de-estado-mito-y-rito-de-una-practica-difunta/17/11/2026/"
+},
+{
+"d": "2026-11-17T08:53:30Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "Luz, imprenta y música. Un triángulo para Josiah Warren",
+"u": "https://letraslibres.com/revista/luz-imprenta-y-musica-un-triangulo-para-josiah-warren/17/11/2026/"
+},
+{
+"d": "2026-11-17T07:00:22Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "Pangram no falla",
+"u": "https://seul.ar/pangram/"
+},
+{
+"d": "2026-11-17T07:00:17Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Las ballenas no cantaban para nosotros",
+"u": "https://www.jotdown.es/2026/11/ballenas-canto-disco-roger-payne/"
+},
+{
+"d": "2026-11-17T06:01:22Z",
+"s": "Nexos",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "La solución del Pacífico",
+"u": "https://www.nexos.com.mx/la-solucion-del-pacifico/"
+},
+{
+"d": "2026-11-17T06:01:01Z",
+"s": "Nexos",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "Los 41 desde la prensa: cuando germinó el “chayote”",
+"u": "https://cultura.nexos.com.mx/los-41-desde-la-prensa-cuando-germino-el-chayote/"
+},
+{
+"d": "2026-11-17T06:00:50Z",
+"s": "A*Desk",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Deseo silvestre",
+"u": "https://a-desk.org/magazine/deseo-silvestre/"
+},
+{
+"d": "2026-11-17T06:00:50Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Jérôme Garcin : Danser au milieu d’un champ de mines (Vivre après)",
+"u": "https://diacritik.com/2026/11/17/jerome-garcin-danser-au-milieu-dun-champ-de-mines-vivre-apres/"
+},
+{
+"d": "2026-11-17T06:00:22Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Eblouissants, un roman et des nouvelles de l’écrivaine américaine Susan Taubes, suicidée à 41 ans, en 1969",
+"u": "https://www.lemonde.fr/livres/article/2026/11/17/eblouissants-un-roman-et-des-nouvelles-de-l-ecrivaine-americaine-susan-taubes-suicidee-a-41-ans-en-1969_6812916_3260.html"
+},
+{
+"d": "2026-11-17T06:00:13Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Zurbarán ou la verticale du feu",
+"u": "https://diacritik.com/2026/11/17/zurbaran-ou-la-verticale-du-feu/"
+},
+{
+"d": "2026-11-17T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Diego del Alcázar, escritor y empresario: “La felicidad impostada es un síntoma muy preocupante de nuestro tiempo”",
+"u": "https://elpais.com/babelia/2026-11-17/diego-del-alcazar-escritor-y-empresario-la-felicidad-impostada-es-un-sintoma-muy-preocupante-de-nuestro-tiempo.html"
+},
+{
+"d": "2026-11-17T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Rainer Maria Rilke, el poeta en busca de patria",
+"u": "https://elpais.com/babelia/2026-11-17/rainer-maria-rilke-el-poeta-en-busca-de-patria-llega-al-museo-del-prado.html"
+},
+{
+"d": "2026-11-17T04:30:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Sidi Larbi Cherkaoui und Martin Zimmermann: «Clowns sind die einzigen Figuren, die alt werden dürfen»",
+"u": "https://www.nzz.ch/feuilleton/buehne/sidi-larbi-cherkaoui-und-martin-zimmermann-wenn-die-diva-ploetzlich-das-alter-spuert-ld.10065084"
+},
+{
+"d": "2026-11-17T04:07:08Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Todos morimos, pero muy pocos vivimos",
+"u": "https://www.zendalibros.com/todos-morimos-pero-muy-pocos-vivimos/"
+},
+{
+"d": "2026-11-17T03:40:44Z",
+"s": "Harper's",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Weekly Review",
+"u": "/2026/11/weekly-review-jensen-huang-nvidia-spy-faa-ground-stop-shadow-uss-united-states-rodeo-club-r-shakers/"
+},
 {
 "d": "2026-11-17T02:10:00Z",
 "s": "Doppiozero",
@@ -11,41 +475,6 @@ window.CALCO = {
 ],
 "h": "Guerra e crisi climatica",
 "u": "https://www.doppiozero.com/guerra-e-crisi-climatica"
-},
-{
-"d": "2026-11-16T23:00:36Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Mots somnambules",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/17/mots-somnambules-alain-roussel/"
-}
-],
-"links": [
-{
-"d": "2026-11-17T03:32:46Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Fotografie: Bilder des Tages",
-"u": "https://www.zeit.de/news/2026-11/17/bilder-des-tages"
-},
-{
-"d": "2026-11-17T03:30:05Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
-"u": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html"
 },
 {
 "d": "2026-11-17T02:05:00Z",
@@ -59,17 +488,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/angela-borghesi-loriente-di-elsa-morante"
 },
 {
-"d": "2026-11-17T02:00:51Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Against the porn ban",
-"u": "https://thecritic.co.uk/against-the-porn-ban/"
-},
-{
 "d": "2026-11-17T02:00:00Z",
 "s": "Doppiozero",
 "l": "it",
@@ -77,8 +495,8 @@ window.CALCO = {
 "europa",
 "arte"
 ],
-"h": "Hannah Einbinder: di ex e di altro",
-"u": "https://www.doppiozero.com/hannah-einbinder-di-ex-e-di-altro"
+"h": "Hannah Einbinder: non solo Hacks",
+"u": "https://www.doppiozero.com/hannah-einbinder-non-solo-hacks"
 },
 {
 "d": "2026-11-17T01:00:00Z",
@@ -90,17 +508,6 @@ window.CALCO = {
 ],
 "h": "'Extrañas': siete retratos femeninos en los impactantes relatos de Patricia Esteban Erlés",
 "u": "https://www.elespanol.com/el-cultural/letras/20261117/extranas-retratos-femeninos-impactantes-relatos-patricia-esteban-erles/1003744457213_0.html"
-},
-{
-"d": "2026-11-17T00:47:52Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Rilke entra en el Prado y se reencuentra con el arte español que inspiró su poesía",
-"u": "https://www.abc.es/cultura/arte/rilke-entra-prado-reencuentra-arte-espanol-inspiro-20261116014752-nt.html"
 },
 {
 "d": "2026-11-17T00:32:00Z",
@@ -125,28 +532,6 @@ window.CALCO = {
 "u": "https://unherd.com/2026/11/the-sorry-decline-of-central-park/?edition=us"
 },
 {
-"d": "2026-11-16T23:35:58Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Hacker behind 2022 GTA VI leaks pleads guilty",
-"u": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
-},
-{
-"d": "2026-11-16T23:11:51Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "17 de noviembre de 1936: Carrillo y Rosenberg",
-"u": "https://www.zendalibros.com/17-de-noviembre-de-1936-carrillo-y-rosenberg/"
-},
-{
 "d": "2026-11-16T23:05:42Z",
 "s": "il manifesto",
 "l": "it",
@@ -158,26 +543,15 @@ window.CALCO = {
 "u": "https://ilmanifesto.it/chiara-civello-nella-musica-cerco-sempre-punti-di-dialogo"
 },
 {
-"d": "2026-11-16T22:58:27Z",
-"s": "Ars Technica",
-"l": "en",
+"d": "2026-11-16T23:00:36Z",
+"s": "En attendant Nadeau",
+"l": "fr",
 "t": [
-"eeuu",
-"tech"
+"europa",
+"letras"
 ],
-"h": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-"u": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
-},
-{
-"d": "2026-11-16T22:39:53Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "¿De qué lado estás?",
-"u": "https://www.lavanguardia.com/cultura/20261116/11686059/que-lado-estas.html"
+"h": "Mots somnambules",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/17/mots-somnambules-alain-roussel/"
 },
 {
 "d": "2026-11-16T22:39:18Z",
@@ -189,39 +563,6 @@ window.CALCO = {
 ],
 "h": "Margot Heller to Step Down as Director of South London Gallery",
 "u": "https://www.artforum.com/news/margot-heller-to-step-down-as-director-of-slg-1234763682/"
-},
-{
-"d": "2026-11-16T22:08:38Z",
-"s": "Hyperallergic",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Why Is the Whitney Museum Selling a De Kooning Painting?",
-"u": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/"
-},
-{
-"d": "2026-11-16T22:00:10Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Les brèves critiques du « Monde des livres » : Gilles Achache, Fabrice Caro, Henry James, Raymond Queneau et l’Oulipo…",
-"u": "https://www.lemonde.fr/critique-litteraire/article/2026/11/16/les-breves-critiques-du-monde-des-livres-gilles-achache-fabrice-caro-henry-james-raymond-queneau-et-l-oulipo_6812524_5473203.html"
-},
-{
-"d": "2026-11-16T21:12:40Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Filmfestival: Eine zweite Bühne für Festivalhits",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/iffmh-gibt-festivalhits-eine-zweite-buehne-201686553.html"
 },
 {
 "d": "2026-11-16T21:11:08Z",
@@ -268,29 +609,6 @@ window.CALCO = {
 "u": "https://artishockrevista.com/2026/11/16/arte-textil-en-la-coleccion-jose-luis-lorenzo/"
 },
 {
-"d": "2026-11-16T20:01:56Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "Lorenzo Córdova: “El daño al INE ya está hecho”",
-"u": "https://letraslibres.com/entrevistas/lorenzo-cordova-el-dano-al-ine-ya-esta-hecho/16/11/2026/"
-},
-{
-"d": "2026-11-16T19:56:49Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Ludopatía en el siglo XXI: YouTube, velas japonesas y el stop loss",
-"u": "https://www.jotdown.es/2026/11/ludopatia-en-el-siglo-xxi-youtube-velas-japonesas-y-el-stop-loss/"
-},
-{
 "d": "2026-11-16T19:56:37Z",
 "s": "Revista Anfibia",
 "l": "es",
@@ -300,50 +618,6 @@ window.CALCO = {
 ],
 "h": "La tecla off",
 "u": "https://www.revistaanfibia.com/apagon-aeronautico-ia-la-tecla-off/"
-},
-{
-"d": "2026-11-16T19:46:17Z",
-"s": "Literary Hub",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Curtis Sittenfeld’s Prep is coming to the small screen. Who should play Lee?",
-"u": "https://lithub.com/curtis-sittenfelds-prep-is-coming-to-the-small-screen-who-should-play-lee/"
-},
-{
-"d": "2026-11-16T19:09:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Ausstellung würdigt Fotokünstlerin: Selbst knipst die Frau",
-"u": "https://taz.de/Ausstellung-wuerdigt-Fotokuenstlerin-Kaethe-Buchler-Selbst-knipst-die-Frau/!6223989/"
-},
-{
-"d": "2026-11-16T19:08:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La historia tras 'The Mirror Maker (Rosalía)', la canción que U2 dedica a la catalana: una palabra inventada y el papel de Penélope Cruz",
-"u": "https://www.elconfidencial.com/cultura/2026-11-16/historia-the-mirror-maker-cancion-u2-a-rosalia-papel-penelope-cruz-1qrt_4466307/"
-},
-{
-"d": "2026-11-16T18:45:53Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Rosalía sigue rompiendo récords con nueve nominaciones a los premios Grammy",
-"u": "https://theobjective.com/cultura/musica/2026-11-16/rosalia-records-nueve-nominacines-grammy/"
 },
 {
 "d": "2026-11-16T18:42:49Z",
@@ -368,27 +642,6 @@ window.CALCO = {
 "u": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
 },
 {
-"d": "2026-11-16T18:29:53Z",
-"s": "Dazed",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "What went down at Dior’s festive wonderland at Harrods",
-"u": "https://www.dazeddigital.com/fashion/article/71355/1/what-went-down-at-diors-festive-wonderland-at-harrods?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-dior-s-festive-wonderland-at-harrods"
-},
-{
-"d": "2026-11-16T18:08:19Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Les forces yéménites se sont retirées du détroit de Bab el-Mandeb",
-"u": "https://legrandcontinent.eu/fr/2026/11/16/les-forces-yemenites-se-sont-retirees-du-detroit-de-bab-el-mandeb/"
-},
-{
 "d": "2026-11-16T17:49:16Z",
 "s": "lundimatin",
 "l": "fr",
@@ -409,17 +662,6 @@ window.CALCO = {
 ],
 "h": "August Wilson, Unlocked",
 "u": "https://www.theparisreview.org/blog/2026/11/16/august-wilson-unlocked/"
-},
-{
-"d": "2026-11-16T17:27:04Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Los Rivera Ordóñez, ¡vaya par de gemelos!",
-"u": "https://elpais.com/cultura/2026-11-16/los-rivera-ordonez-vaya-par-de-gemelos.html"
 },
 {
 "d": "2026-11-16T17:00:00Z",
@@ -466,39 +708,6 @@ window.CALCO = {
 "u": "https://www.newstatesman.com/podcasts/politics-podcast/2026/11/britains-violence-obsessed-adolescents-2"
 },
 {
-"d": "2026-11-16T16:27:10Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review",
-"u": "https://www.theguardian.com/artanddesign/2026/nov/16/paris-photo-review-2026"
-},
-{
-"d": "2026-11-16T16:12:58Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Daily Cartoon: Monday, November 16th",
-"u": "https://www.newyorker.com/cartoons/daily-cartoon/monday-november-16th-there-is-a-chance"
-},
-{
-"d": "2026-11-16T16:01:40Z",
-"s": "Sifted",
-"l": "en",
-"t": [
-"europa",
-"tech"
-],
-"h": "Starling Bank CEO to step down at the end of the year",
-"u": "https://sifted.eu/articles/starling-ceo-to-step-down/"
-},
-{
 "d": "2026-11-16T15:25:10Z",
 "s": "404 Media",
 "l": "en",
@@ -521,38 +730,6 @@ window.CALCO = {
 "u": "https://engelsbergideas.com/notebook/nvidia-saga-china/"
 },
 {
-"d": "2026-11-16T15:10:27Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Robert Pattinson wird der neue James Bond. Was wird seine grösste Herausforderung?",
-"u": "https://www.nzz.ch/feuilleton/kino-fernsehen-streaming/robert-pattinson-wird-der-neue-james-bond-ld.10065495"
-},
-{
-"d": "2026-11-16T14:24:36Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El Frente Polisario exige al Gobierno español que anule los permisos a Ryanair para volar al Sáhara Occidental ocupado",
-"u": "https://www.lamarea.com/2026/11/16/frente-polisario-ryanair-sahara/"
-},
-{
-"d": "2026-11-16T14:24:00Z",
-"s": "AnOther",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "You Can See Everything: A Reckoning for the Post-Truth Age",
-"u": "https://www.anothermag.com/design-living/17639/you-can-see-everything-nathan-fielder-elizabeth-holmes-documentary-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=you-can-see-everything-a-reckoning-for-the-post-truth-age"
-},
-{
 "d": "2026-11-16T12:47:29Z",
 "s": "Eurozine",
 "l": "en",
@@ -562,38 +739,6 @@ window.CALCO = {
 ],
 "h": "Arts of resistance",
 "u": "https://www.eurozine.com/arts-of-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=arts-of-resistance"
-},
-{
-"d": "2026-11-16T12:14:04Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "È un altro Natale di libri, a Peccioli",
-"u": "https://www.ilpost.it/2026/11/16/natale-libri-peccioli-2026/"
-},
-{
-"d": "2026-11-16T11:02:49Z",
-"s": "Stratechery",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Obituaries",
-"u": "https://stratechery.com/2026/obituaries/"
-},
-{
-"d": "2026-11-16T11:01:00Z",
-"s": "Aeon",
-"l": "en",
-"t": [
-"ideas"
-],
-"h": "The last klavern",
-"u": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters"
 },
 {
 "d": "2026-11-16T11:00:23Z",
@@ -639,30 +784,6 @@ window.CALCO = {
 "u": "https://seul.ar/se-abren-las-puertas-para-un-cambio-de-discurso/"
 },
 {
-"d": "2026-11-16T06:34:11Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "El último hombre liberal",
-"u": "https://letraslibres.com/politica/el-ultimo-hombre-liberal/16/11/2026/"
-},
-{
-"d": "2026-11-16T06:25:24Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "La persecución de Michel Houellebecq",
-"u": "https://letraslibres.com/literatura/la-persecucion-de-michel-houellebecq/16/11/2026/"
-},
-{
 "d": "2026-11-16T06:01:18Z",
 "s": "Nexos",
 "l": "es",
@@ -683,17 +804,6 @@ window.CALCO = {
 ],
 "h": "Vincent Azoulay : Une démocratie athénienne sous observation (Quand le peuple domptait les élites. Honneurs et châtiments dans la démocratie athénienne)",
 "u": "https://diacritik.com/2026/11/16/vincent-azoulay-une-democratie-athenienne-sous-observation-quand-le-peuple-domptait-les-elites-honneurs-et-chatiments-dans-la-democratie-athenienne/"
-},
-{
-"d": "2026-11-16T06:00:31Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Victor Petit : Plaidoyer en faveur de l’écologie (L’écologie contre l’environnement. Pour une politique des milieux)",
-"u": "https://diacritik.com/2026/11/16/victor-petit-plaidoyer-en-faveur-de-lecologie-lecologie-contre-lenvironnement-pour-une-politique-des-milieux/"
 },
 {
 "d": "2026-11-16T04:30:00Z",
@@ -760,39 +870,6 @@ window.CALCO = {
 ],
 "h": "No quiero una ciudad aparte",
 "u": "https://www.revistaanfibia.com/no-quiero-una-ciudad-aparte/"
-},
-{
-"d": "2026-11-15T14:49:21Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "El otro Daniel Sada: una reivindicación",
-"u": "https://cultura.nexos.com.mx/el-otro-daniel-sada-una-reivindicacion/"
-},
-{
-"d": "2026-11-15T07:00:54Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Ya no manda ni gobierna",
-"u": "https://seul.ar/ya-no-manda-ni-gobierna/"
-},
-{
-"d": "2026-11-15T07:00:53Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "VIP en la hoguera puritana",
-"u": "https://seul.ar/vip-misa-papa/"
 }
 ]
 };

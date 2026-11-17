@@ -5,15 +5,15 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "El País",
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
   "ok": true,
   "error": null,
-  "entradas": 37,
-  "recientes": 17
+  "entradas": 36,
+  "recientes": 20
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 4
+  "recientes": 1
  },
  {
   "n": "Kaminker",
@@ -45,7 +45,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Caimán Cuadernos de Cine",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 4
+  "recientes": 7
  },
  {
   "n": "Jot Down",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 7
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 31
+  "recientes": 27
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 12
  },
  {
   "n": "Seúl",
@@ -157,7 +157,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 2
  },
  {
   "n": "Panamá Revista",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Revista Crisis",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Nexos",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Artishock",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "lundimatin",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 14
  },
  {
   "n": "Le Figaro",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Perlentaucher",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 16
+  "recientes": 21
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 6
  },
  {
   "n": "Doppiozero",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 6
+  "recientes": 8
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 5
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "UnHerd",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 10
+  "recientes": 13
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 7
+  "recientes": 10
  },
  {
   "n": "032c",
@@ -597,7 +597,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The New Yorker",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 24
+  "recientes": 19
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 7
  },
  {
   "n": "Hyperallergic",
@@ -629,7 +629,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 13
  },
  {
   "n": "Artforum",
@@ -677,7 +677,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "The Honest Broker",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 11,
-  "recientes": 9
+  "recientes": 6
  },
  {
   "n": "Ars Technica",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Rest of World",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 7
+  "recientes": 12
  }
 ]
