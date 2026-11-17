@@ -1,85 +1,238 @@
 window.CALCO = {
-"updated": "2026-11-16T21:02:11Z",
+"updated": "2026-11-17T03:52:02Z",
 "tops": [
 {
-"d": "2026-11-16T20:03:19Z",
-"s": "Artishock",
-"l": "es",
+"d": "2026-11-17T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
 "t": [
-"latam",
+"europa",
 "arte"
 ],
-"h": "ARTE TEXTIL EN LA COLECCIÓN JOSÉ LUIS LORENZO",
-"u": "https://artishockrevista.com/2026/11/16/arte-textil-en-la-coleccion-jose-luis-lorenzo/"
+"h": "Guerra e crisi climatica",
+"u": "https://www.doppiozero.com/guerra-e-crisi-climatica"
 },
 {
-"d": "2026-11-16T20:01:56Z",
-"s": "Letras Libres",
-"l": "es",
+"d": "2026-11-16T23:00:36Z",
+"s": "En attendant Nadeau",
+"l": "fr",
 "t": [
-"es",
-"latam",
-"ideas"
+"europa",
+"letras"
 ],
-"h": "Lorenzo Córdova: “El daño al INE ya está hecho”",
-"u": "https://letraslibres.com/entrevistas/lorenzo-cordova-el-dano-al-ine-ya-esta-hecho/16/11/2026/"
+"h": "Mots somnambules",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/17/mots-somnambules-alain-roussel/"
 }
 ],
 "links": [
 {
-"d": "2026-11-16T20:59:28Z",
+"d": "2026-11-17T03:32:46Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Krieg gegen die Ukraine: Bei russischem Luftangriff Anfang November sind 72 Menschen gestorben",
-"u": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+"h": "Fotografie: Bilder des Tages",
+"u": "https://www.zeit.de/news/2026-11/17/bilder-des-tages"
 },
 {
-"d": "2026-11-16T20:59:20Z",
-"s": "Hyperallergic",
-"l": "en",
+"d": "2026-11-17T03:30:05Z",
+"s": "Le Monde",
+"l": "fr",
 "t": [
-"eeuu",
+"europa",
 "arte"
 ],
-"h": "Latinx Artists Are the New Visionaries",
-"u": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/"
+"h": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
+"u": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html"
 },
 {
-"d": "2026-11-16T20:52:10Z",
-"s": "Ars Technica",
+"d": "2026-11-17T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Angela Borghesi: l'Oriente di Elsa Morante",
+"u": "https://www.doppiozero.com/angela-borghesi-loriente-di-elsa-morante"
+},
+{
+"d": "2026-11-17T02:00:51Z",
+"s": "The Critic",
 "l": "en",
 "t": [
-"eeuu",
-"tech"
+"europa",
+"arte"
 ],
-"h": "Hyperscale data centers use 2% of US electricity",
-"u": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+"h": "Against the porn ban",
+"u": "https://thecritic.co.uk/against-the-porn-ban/"
 },
 {
-"d": "2026-11-16T20:46:01Z",
-"s": "The Verge",
-"l": "en",
+"d": "2026-11-17T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
 "t": [
-"eeuu",
-"tech"
+"europa",
+"arte"
 ],
-"h": "California sues OpenAI over rogue AI hacking incidents",
-"u": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+"h": "Hannah Einbinder: di ex e di altro",
+"u": "https://www.doppiozero.com/hannah-einbinder-di-ex-e-di-altro"
 },
 {
-"d": "2026-11-16T20:38:21Z",
+"d": "2026-11-17T01:00:00Z",
 "s": "El Cultural",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "Antonio Banderas, Premio Los Grandes de El Cultural: \"El avance de las tecnologías jamás podrá con el teatro\"",
-"u": "https://www.elespanol.com/eventos/2026/premios-el-cultural-2026/20261116/antonio-banderas-premio-grandes-cultural-avance-tecnologias-jamas-podra-teatro/1003744460552_0.html"
+"h": "'Extrañas': siete retratos femeninos en los impactantes relatos de Patricia Esteban Erlés",
+"u": "https://www.elespanol.com/el-cultural/letras/20261117/extranas-retratos-femeninos-impactantes-relatos-patricia-esteban-erles/1003744457213_0.html"
+},
+{
+"d": "2026-11-17T00:47:52Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Rilke entra en el Prado y se reencuentra con el arte español que inspiró su poesía",
+"u": "https://www.abc.es/cultura/arte/rilke-entra-prado-reencuentra-arte-espanol-inspiro-20261116014752-nt.html"
+},
+{
+"d": "2026-11-17T00:32:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "United Airlines says it resolved system outage that delayed flights",
+"u": "https://www.cnn.com/2026/11/16/us/united-airlines-outage"
+},
+{
+"d": "2026-11-17T00:15:23Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "The sorry decline of Central Park",
+"u": "https://unherd.com/2026/11/the-sorry-decline-of-central-park/?edition=us"
+},
+{
+"d": "2026-11-16T23:35:58Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Hacker behind 2022 GTA VI leaks pleads guilty",
+"u": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
+},
+{
+"d": "2026-11-16T23:11:51Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "17 de noviembre de 1936: Carrillo y Rosenberg",
+"u": "https://www.zendalibros.com/17-de-noviembre-de-1936-carrillo-y-rosenberg/"
+},
+{
+"d": "2026-11-16T23:05:42Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Chiara Civello: «Nella musica cerco sempre punti di dialogo»",
+"u": "https://ilmanifesto.it/chiara-civello-nella-musica-cerco-sempre-punti-di-dialogo"
+},
+{
+"d": "2026-11-16T22:58:27Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+"u": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+},
+{
+"d": "2026-11-16T22:39:53Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "¿De qué lado estás?",
+"u": "https://www.lavanguardia.com/cultura/20261116/11686059/que-lado-estas.html"
+},
+{
+"d": "2026-11-16T22:39:18Z",
+"s": "Artforum",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Margot Heller to Step Down as Director of South London Gallery",
+"u": "https://www.artforum.com/news/margot-heller-to-step-down-as-director-of-slg-1234763682/"
+},
+{
+"d": "2026-11-16T22:08:38Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Why Is the Whitney Museum Selling a De Kooning Painting?",
+"u": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/"
+},
+{
+"d": "2026-11-16T22:00:10Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Les brèves critiques du « Monde des livres » : Gilles Achache, Fabrice Caro, Henry James, Raymond Queneau et l’Oulipo…",
+"u": "https://www.lemonde.fr/critique-litteraire/article/2026/11/16/les-breves-critiques-du-monde-des-livres-gilles-achache-fabrice-caro-henry-james-raymond-queneau-et-l-oulipo_6812524_5473203.html"
+},
+{
+"d": "2026-11-16T21:12:40Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Filmfestival: Eine zweite Bühne für Festivalhits",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/iffmh-gibt-festivalhits-eine-zweite-buehne-201686553.html"
+},
+{
+"d": "2026-11-16T21:11:08Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Inside the Epic Battle Over Control of a CA Grocery Union",
+"u": "https://jacobin.com/2026/11/ufcw-local-8-elections-democracy-reform"
 },
 {
 "d": "2026-11-16T20:37:43Z",
@@ -104,26 +257,27 @@ window.CALCO = {
 "u": "https://www.elmundo.es/cultura/2026/11/16/6afb47dffdddff6f418b4590.html"
 },
 {
-"d": "2026-11-16T20:23:56Z",
-"s": "FAZ",
-"l": "de",
+"d": "2026-11-16T20:03:19Z",
+"s": "Artishock",
+"l": "es",
 "t": [
-"europa",
+"latam",
 "arte"
 ],
-"h": "Nach Spekulationen: Hurra, es ist der Vampir",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/robert-pattinson-wird-der-neue-james-bond-201688736.html"
+"h": "ARTE TEXTIL EN LA COLECCIÓN JOSÉ LUIS LORENZO",
+"u": "https://artishockrevista.com/2026/11/16/arte-textil-en-la-coleccion-jose-luis-lorenzo/"
 },
 {
-"d": "2026-11-16T20:00:08Z",
-"s": "Le Monde des livres",
-"l": "fr",
+"d": "2026-11-16T20:01:56Z",
+"s": "Letras Libres",
+"l": "es",
 "t": [
-"europa",
-"letras"
+"es",
+"latam",
+"ideas"
 ],
-"h": "Dans « Seul contre tous », Alexandre de Vitry détaille la longue tradition française de l’individualisme littéraire",
-"u": "https://www.lemonde.fr/livres/article/2026/11/16/dans-seul-contre-tous-alexandre-de-vitry-detaille-la-longue-tradition-francaise-de-l-individualisme-litteraire_6812361_3260.html"
+"h": "Lorenzo Córdova: “El daño al INE ya está hecho”",
+"u": "https://letraslibres.com/entrevistas/lorenzo-cordova-el-dano-al-ine-ya-esta-hecho/16/11/2026/"
 },
 {
 "d": "2026-11-16T19:56:49Z",
@@ -148,6 +302,17 @@ window.CALCO = {
 "u": "https://www.revistaanfibia.com/apagon-aeronautico-ia-la-tecla-off/"
 },
 {
+"d": "2026-11-16T19:46:17Z",
+"s": "Literary Hub",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Curtis Sittenfeld’s Prep is coming to the small screen. Who should play Lee?",
+"u": "https://lithub.com/curtis-sittenfelds-prep-is-coming-to-the-small-screen-who-should-play-lee/"
+},
+{
 "d": "2026-11-16T19:09:00Z",
 "s": "taz",
 "l": "de",
@@ -168,17 +333,6 @@ window.CALCO = {
 ],
 "h": "La historia tras 'The Mirror Maker (Rosalía)', la canción que U2 dedica a la catalana: una palabra inventada y el papel de Penélope Cruz",
 "u": "https://www.elconfidencial.com/cultura/2026-11-16/historia-the-mirror-maker-cancion-u2-a-rosalia-papel-penelope-cruz-1qrt_4466307/"
-},
-{
-"d": "2026-11-16T18:48:58Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Hengelbrock y la Orquestra de la Comunitat Valenciana: El peligro siempre está presente",
-"u": "https://www.abc.es/cultura/musica/hengelbrock-tetzlaff-orquestra-comunitat-valenciana-peligro-siempre-20261116194858-nt.html"
 },
 {
 "d": "2026-11-16T18:45:53Z",
@@ -203,17 +357,6 @@ window.CALCO = {
 "u": "https://www.theparisreview.org/blog/2026/11/16/gatekeepers-israeli-detention-palestine-jasper-nathaniel/"
 },
 {
-"d": "2026-11-16T18:41:13Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Anwar Shaikh Gave Us an Emancipatory Economics",
-"u": "https://jacobin.com/2026/11/shaikh-economics-capitalism-competition-crises"
-},
-{
 "d": "2026-11-16T18:38:47Z",
 "s": "MIT Technology Review",
 "l": "en",
@@ -235,17 +378,6 @@ window.CALCO = {
 "u": "https://www.dazeddigital.com/fashion/article/71355/1/what-went-down-at-diors-festive-wonderland-at-harrods?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-dior-s-festive-wonderland-at-harrods"
 },
 {
-"d": "2026-11-16T18:27:51Z",
-"s": "Artforum",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Met Announces Major Collaboration with Shanghai Museum",
-"u": "https://www.artforum.com/news/met-announces-collaboration-with-shanghai-museum-1234763655/"
-},
-{
 "d": "2026-11-16T18:08:19Z",
 "s": "Le Grand Continent",
 "l": "fr",
@@ -255,17 +387,6 @@ window.CALCO = {
 ],
 "h": "Les forces yéménites se sont retirées du détroit de Bab el-Mandeb",
 "u": "https://legrandcontinent.eu/fr/2026/11/16/les-forces-yemenites-se-sont-retirees-du-detroit-de-bab-el-mandeb/"
-},
-{
-"d": "2026-11-16T18:01:52Z",
-"s": "Literary Hub",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "The 2026 Cercador Prize goes to The Song of Stork and Dromedary.",
-"u": "https://lithub.com/the-2026-cercador-prize-goes-to-david-mckays-translation-of-the-song-of-stork-and-dromedary/"
 },
 {
 "d": "2026-11-16T17:49:16Z",
@@ -299,28 +420,6 @@ window.CALCO = {
 ],
 "h": "Los Rivera Ordóñez, ¡vaya par de gemelos!",
 "u": "https://elpais.com/cultura/2026-11-16/los-rivera-ordonez-vaya-par-de-gemelos.html"
-},
-{
-"d": "2026-11-16T17:22:32Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "‘Dimecres d’aniversari’ celebra los 50 años del Teatre Lliure enlazando pasado y futuro",
-"u": "https://www.lavanguardia.com/cultura/20261116/11685818/teatre-lliure-gelabert-homar-portaceli.html"
-},
-{
-"d": "2026-11-16T17:16:34Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Gims sera jugé dans une affaire de corruption en décembre, à Paris, aux côtés de quatre policiers",
-"u": "https://www.lemonde.fr/societe/article/2026/11/16/gims-sera-juge-dans-une-affaire-de-corruption-en-decembre-a-paris-aux-cotes-de-quatre-policiers_6812228_3224.html"
 },
 {
 "d": "2026-11-16T17:00:00Z",
@@ -454,17 +553,6 @@ window.CALCO = {
 "u": "https://www.anothermag.com/design-living/17639/you-can-see-everything-nathan-fielder-elizabeth-holmes-documentary-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=you-can-see-everything-a-reckoning-for-the-post-truth-age"
 },
 {
-"d": "2026-11-16T13:21:10Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Britain’s China problem",
-"u": "https://thecritic.co.uk/britains-china-problem/"
-},
-{
 "d": "2026-11-16T12:47:29Z",
 "s": "Eurozine",
 "l": "en",
@@ -538,17 +626,6 @@ window.CALCO = {
 ],
 "h": "Inside the Wolf’s Lair",
 "u": "https://engelsbergideas.com/reviews/inside-the-wolfs-lair/"
-},
-{
-"d": "2026-11-16T10:00:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Zelensky urges US and Musk to lift Starlink restrictions",
-"u": "https://www.bbc.com/news/articles/c6m25zg88k45o"
 },
 {
 "d": "2026-11-16T07:00:45Z",
@@ -641,61 +718,6 @@ window.CALCO = {
 "u": "https://elpais.com/babelia/2026-11-16/estamos-llenos-de-padres.html"
 },
 {
-"d": "2026-11-16T04:00:55Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "José Luis: el cuñado de España",
-"u": "https://www.zendalibros.com/jose-luis-el-cunado-de-espana/"
-},
-{
-"d": "2026-11-16T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Biljana Srbljanović: gioventù bruciante",
-"u": "https://www.doppiozero.com/biljana-srbljanovic-gioventu-bruciante"
-},
-{
-"d": "2026-11-16T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Palermo, lo stadio sotto la montagna",
-"u": "https://www.doppiozero.com/palermo-lo-stadio-sotto-la-montagna"
-},
-{
-"d": "2026-11-16T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Permunian, fotografia e scrittura",
-"u": "https://www.doppiozero.com/permunian-fotografia-e-scrittura"
-},
-{
-"d": "2026-11-16T00:03:49Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Why America can't keep China down",
-"u": "https://unherd.com/2026/11/why-america-cant-keep-china-down/?edition=us"
-},
-{
 "d": "2026-11-15T23:00:24Z",
 "s": "En attendant Nadeau",
 "l": "fr",
@@ -771,17 +793,6 @@ window.CALCO = {
 ],
 "h": "VIP en la hoguera puritana",
 "u": "https://seul.ar/vip-misa-papa/"
-},
-{
-"d": "2026-11-14T23:04:52Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "I lobbisti dei data center all’assalto della Cop31",
-"u": "https://ilmanifesto.it/i-lobbisti-dei-data-center-allassalto-della-conferenza-della-cop31"
 }
 ]
 };

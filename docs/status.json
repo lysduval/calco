@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 37,
-  "recientes": 16
+  "recientes": 17
  },
  {
   "n": "El País",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 52,
-  "recientes": 13
+  "recientes": 12
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 15
+  "recientes": 19
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 34
+  "recientes": 31
  },
  {
   "n": "El Confidencial",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Diacritik",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 8
  },
  {
   "n": "Le Monde",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 6
  },
  {
   "n": "Il Foglio",
@@ -381,7 +381,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 39
+  "recientes": 45
  },
  {
   "n": "London Review of Books",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "New Statesman",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 4
+  "recientes": 8
  },
  {
   "n": "The Critic",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 13
+  "recientes": 10
  },
  {
   "n": "ArtReview",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Hyperallergic",
@@ -629,7 +629,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 9
+  "recientes": 12
  },
  {
   "n": "Artforum",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 4
+  "recientes": 6
  },
  {
   "n": "Literary Hub",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 9,
-  "recientes": 5
+  "entradas": 11,
+  "recientes": 9
  },
  {
   "n": "Ars Technica",
