@@ -12,8 +12,8 @@
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
   "ok": true,
   "error": null,
-  "entradas": 36,
-  "recientes": 21
+  "entradas": 35,
+  "recientes": 19
  },
  {
   "n": "El País",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 8
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "The Objective",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 8
  },
  {
   "n": "ABC Cultura",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 54,
-  "recientes": 17
+  "entradas": 53,
+  "recientes": 13
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 21
+  "recientes": 14
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 38
+  "recientes": 35
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Seúl",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Nexos",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Gatopardo",
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "AOC",
@@ -277,7 +277,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Le Monde des livres",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Le Monde",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 19
+  "recientes": 18
  },
  {
   "n": "Le Monde",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 4
  },
  {
   "n": "Perlentaucher",
@@ -324,8 +324,8 @@
   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
   "ok": true,
   "error": null,
-  "entradas": 47,
-  "recientes": 28
+  "entradas": 48,
+  "recientes": 30
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 11
+  "recientes": 8
  },
  {
   "n": "Die Zeit",
@@ -348,8 +348,8 @@
   "u": "https://taz.de/!p4639;rss/",
   "ok": true,
   "error": null,
-  "entradas": 48,
-  "recientes": 16
+  "entradas": 49,
+  "recientes": 17
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 5
  },
  {
   "n": "Doppiozero",
@@ -388,7 +388,7 @@
   "u": "https://www.lrb.co.uk/feeds/rss",
   "ok": true,
   "error": null,
-  "entradas": 21,
+  "entradas": 24,
   "recientes": 0
  },
  {
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 29,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 20
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Equator",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 15
+  "recientes": 16
  },
  {
   "n": "ArtReview",
@@ -516,8 +516,8 @@
   "u": "https://www.anothermag.com/feed",
   "ok": true,
   "error": null,
-  "entradas": 15,
-  "recientes": 4
+  "entradas": 10,
+  "recientes": 5
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "032c",
@@ -549,7 +549,7 @@
   "ok": true,
   "error": null,
   "entradas": 200,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "The Paris Review",
@@ -557,7 +557,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 1
  },
  {
   "n": "The Baffler",
@@ -581,7 +581,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 3
  },
  {
   "n": "Los Angeles Review of Books",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 14
+  "recientes": 17
  },
  {
   "n": "The New Yorker",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "Hyperallergic",
@@ -661,7 +661,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Granta",
@@ -685,7 +685,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The Common Reader",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 12,
-  "recientes": 9
+  "entradas": 13,
+  "recientes": 7
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 19
+  "recientes": 20
  },
  {
   "n": "404 Media",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Rest of World",
@@ -749,7 +749,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "Simon Willison",
