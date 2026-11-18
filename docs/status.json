@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 52,
-  "recientes": 13
+  "recientes": 12
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 19
+  "recientes": 22
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Público",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 14
  },
  {
   "n": "Seúl",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "Diacritik",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Il Foglio",
@@ -381,7 +381,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 49
+  "recientes": 50
  },
  {
   "n": "London Review of Books",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "The Critic",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 14
+  "recientes": 13
  },
  {
   "n": "ArtReview",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Counter Craft",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Ars Technica",
@@ -765,7 +765,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Stratechery",

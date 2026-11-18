@@ -1,62 +1,205 @@
 window.CALCO = {
-"updated": "2026-11-17T22:21:14Z",
+"updated": "2026-11-18T04:18:12Z",
 "tops": [
 {
-"d": "2026-11-17T21:00:00Z",
-"s": "En attendant Nadeau",
-"l": "fr",
+"d": "2026-11-18T03:15:15Z",
+"s": "Platformer",
+"l": "en",
 "t": [
-"europa",
-"letras"
+"eeuu",
+"tech"
 ],
-"h": "Éditer le trésor Foucault",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/17/editer-le-tresor-foucault/"
+"h": "Jensen wants to come back",
+"u": "https://www.platformer.news/jensen-wants-to-come-back/"
 },
 {
-"d": "2026-11-17T19:41:07Z",
-"s": "Artishock",
-"l": "es",
+"d": "2026-11-18T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
 "t": [
-"latam",
+"europa",
 "arte"
 ],
-"h": "PINTURA CONTEMPORÁNEA EN ARGENTINA (TRAS LA RESACA DE UNA FERIA)",
-"u": "https://artishockrevista.com/2026/11/17/pintura-contemporanea-en-argentina/"
+"h": "Jean Meckert: non è una storia d’amore",
+"u": "https://www.doppiozero.com/jean-meckert-non-e-una-storia-damore"
 }
 ],
 "links": [
 {
-"d": "2026-11-17T22:11:59Z",
+"d": "2026-11-18T04:08:17Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Legendäre Filmreihe: Amazon-Gründer Bezos: Stark in Bond-Entscheidung involviert",
+"u": "https://www.zeit.de/news/2026-11/18/amazon-gruender-bezos-stark-in-bond-entscheidung-involviert"
+},
+{
+"d": "2026-11-18T04:04:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Óscar López Acón, historiador e investigador en los archivos cubanos: \"Sin Batista no habría habido un Fidel\"",
+"u": "https://www.elespanol.com/el-cultural/historia/20261118/oscar-lopez-acon-historiador-investigador-archivos-cubanos-sin-batista-no-fidel/1003744458803_0.html"
+},
+{
+"d": "2026-11-18T04:00:52Z",
 "s": "Zenda",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "Los gritos del silencio",
-"u": "https://www.zendalibros.com/los-gritos-del-silencio/"
+"h": "Zenda recomienda: Play boy, de Constance Debré",
+"u": "https://www.zendalibros.com/zenda-recomienda-play-boy-de-constance-debre/"
 },
 {
-"d": "2026-11-17T22:05:30Z",
-"s": "La Vanguardia",
+"d": "2026-11-18T04:00:14Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Quand les animaux-esprits des Premières Nations amérindiennes se posent au Musée du quai Branly, à Paris",
+"u": "https://www.lemonde.fr/culture/article/2026/11/18/quand-les-animaux-esprits-des-premieres-nations-amerindiennes-se-posent-au-musee-du-quai-branly-a-paris_6813062_3246.html"
+},
+{
+"d": "2026-11-18T04:00:00Z",
+"s": "El Confidencial",
 "l": "es",
 "t": [
 "es",
 "arte"
 ],
-"h": "Byung-Chul Han, en Santa Maria del Mar: “Somos libres cuando tenemos lazos”",
-"u": "https://www.lavanguardia.com/cultura/20261117/11686869/byung-chul-han-santa-maria-mar-libres-lazos.html"
+"h": "¿Suicidio, asesinato o fuga voluntaria? El último viaje de Rudolf Diesel, el hombre que revolucionó los motores",
+"u": "https://www.elconfidencial.com/cultura/2026-11-18/ultimo-viaje-rudolf-diesel-revolucion-motores_4463479/"
 },
 {
-"d": "2026-11-17T22:05:05Z",
+"d": "2026-11-18T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cancrini: le ferite delle schizofrenie",
+"u": "https://www.doppiozero.com/cancrini-le-ferite-delle-schizofrenie"
+},
+{
+"d": "2026-11-18T02:00:55Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "A pernicious pardon",
+"u": "https://thecritic.co.uk/a-pernicious-pardon/"
+},
+{
+"d": "2026-11-18T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Ugo Mulas, autobiografia di un fotografo",
+"u": "https://www.doppiozero.com/ugo-mulas-autobiografia-di-un-fotografo"
+},
+{
+"d": "2026-11-18T00:56:53Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Un acuerdo de última hora salva la subasta estrella del año: un Van Gogh que apunta a récord",
+"u": "https://www.abc.es/cultura/arte/van-gogh-20261118015653-nt.html"
+},
+{
+"d": "2026-11-18T00:27:29Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+"u": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+},
+{
+"d": "2026-11-18T00:03:11Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Milburn has buried Starmerism",
+"u": "https://unherd.com/2026/11/milburns-has-buried-starmerism/?edition=us"
+},
+{
+"d": "2026-11-17T23:42:58Z",
+"s": "The Common Reader",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Does Claude’s Constitution mean anything?",
+"u": "https://www.commonreader.co.uk/p/does-claudes-constitution-mean-anything"
+},
+{
+"d": "2026-11-17T23:41:18Z",
 "s": "The Verge",
 "l": "en",
 "t": [
 "eeuu",
 "tech"
 ],
-"h": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-"u": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+"h": "Satya Nadella says he’s AGI-pilled now",
+"u": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+},
+{
+"d": "2026-11-17T23:06:39Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "«20th Century Paddy», tributo al lirismo sghembo di MacGowan",
+"u": "https://ilmanifesto.it/20th-century-paddy-tributo-al-lirismo-sghembo-di-macgowan"
+},
+{
+"d": "2026-11-17T23:02:42Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Estopa anuncia nuevos conciertos en València, Barcelona y Madrid tras agotar las entradas",
+"u": "https://www.lavanguardia.com/cultura/musica/20261118/11686878/estopa-anuncia-nuevos-conciertos-valencia-barcelona-madrid-agotar-entradas.html"
+},
+{
+"d": "2026-11-17T22:40:09Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Rare Hilma af Klint Work Heads to Auction",
+"u": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/"
 },
 {
 "d": "2026-11-17T21:58:52Z",
@@ -68,17 +211,6 @@ window.CALCO = {
 ],
 "h": "BREAKING: Everything",
 "u": "https://www.404media.co/breaking-everything/"
-},
-{
-"d": "2026-11-17T21:55:24Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn",
-"u": "https://www.zeit.de/news/2026-11/17/nvidia-verdoppelt-erneut-umsatz-und-gewinn"
 },
 {
 "d": "2026-11-17T21:49:03Z",
@@ -103,26 +235,15 @@ window.CALCO = {
 "u": "https://www.lamarea.com/2026/11/17/guillem-agullo-victima-terrorismo/"
 },
 {
-"d": "2026-11-17T21:36:07Z",
-"s": "Hyperallergic",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "How Should We Memorialize the Trump Era?",
-"u": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/"
-},
-{
-"d": "2026-11-17T21:30:47Z",
-"s": "il manifesto",
-"l": "it",
+"d": "2026-11-17T21:00:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
 "t": [
 "europa",
-"arte"
+"letras"
 ],
-"h": "A otto anni, quella forma di infanzia sul sedile accanto",
-"u": "https://ilmanifesto.it/a-otto-anni-quella-forma-di-infanzia-sul-sedile-accanto"
+"h": "Éditer le trésor Foucault",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/17/editer-le-tresor-foucault/"
 },
 {
 "d": "2026-11-17T20:59:04Z",
@@ -154,7 +275,7 @@ window.CALCO = {
 "eeuu",
 "arte"
 ],
-"h": "TEFAF Maastricht Announces 2027 Line Up",
+"h": "TEFAF Maastricht Announces 2027 Lineup",
 "u": "https://www.artforum.com/news/tefaf-maastricht-announces-2027-participants-1234763751/"
 },
 {
@@ -167,17 +288,6 @@ window.CALCO = {
 ],
 "h": "Künstler-Ranking: Die Kunst, die wir verdient haben",
 "u": "https://www.faz.net/aktuell/feuilleton/debatten/holzinger-auf-platz-1-von-monopol-kuenstler-ranking-201690358.html"
-},
-{
-"d": "2026-11-17T20:32:55Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-"u": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
 },
 {
 "d": "2026-11-17T20:31:36Z",
@@ -202,6 +312,17 @@ window.CALCO = {
 "u": "https://jacobin.com/2026/11/review-aslany-peasantry-agriculture-ecology"
 },
 {
+"d": "2026-11-17T19:41:07Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "PINTURA CONTEMPORÁNEA EN ARGENTINA (TRAS LA RESACA DE UNA FERIA)",
+"u": "https://artishockrevista.com/2026/11/17/pintura-contemporanea-en-argentina/"
+},
+{
 "d": "2026-11-17T19:38:56Z",
 "s": "n+1",
 "l": "en",
@@ -224,17 +345,6 @@ window.CALCO = {
 "u": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
 },
 {
-"d": "2026-11-17T19:21:23Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Un magnífico Velázquez expoliado por Napoleón regresa a casa",
-"u": "https://www.abc.es/cultura/arte/magnifico-velazquez-expoliado-napoleon-regresa-casa-20261117151136-nt.html"
-},
-{
 "d": "2026-11-17T19:06:00Z",
 "s": "taz",
 "l": "de",
@@ -244,17 +354,6 @@ window.CALCO = {
 ],
 "h": "Album von Skepta: Er behandelt auch Klassenfragen",
 "u": "https://taz.de/Album-The-Fork-and-Knife-von-Skepta-Klassenfragen-und-keine-geschoente-Aufsteigergeschichte/!6229243/"
-},
-{
-"d": "2026-11-17T19:00:09Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Alexandre Ponsart, enseignant : « Je souhaite que l’on mesure ce que signifie, pour un enfant, entendre dire que son origine serait un problème »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/17/alexandre-ponsart-enseignant-je-souhaite-que-l-on-mesure-ce-que-signifie-pour-un-enfant-entendre-dire-que-son-origine-serait-un-probleme_6813036_3232.html"
 },
 {
 "d": "2026-11-17T18:46:47Z",
@@ -422,17 +521,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/politica/el-ine-de-la-ignominia/17/11/2026/"
 },
 {
-"d": "2026-11-17T16:32:49Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Milburn after reading",
-"u": "https://thecritic.co.uk/milburn-after-reading/"
-},
-{
 "d": "2026-11-17T16:13:00Z",
 "s": "Letras Libres",
 "l": "es",
@@ -465,17 +553,6 @@ window.CALCO = {
 ],
 "h": "The Family cofounder sentenced to 16 months in prison",
 "u": "https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/"
-},
-{
-"d": "2026-11-17T15:21:09Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "El sonido de la guayaba",
-"u": "https://www.elespanol.com/el-cultural/blogs/que_raro_es_todo/20261117/sonido-guayaba/1003744461647_12.html"
 },
 {
 "d": "2026-11-17T15:19:00Z",
@@ -707,50 +784,6 @@ window.CALCO = {
 "u": "/2026/11/weekly-review-jensen-huang-nvidia-spy-faa-ground-stop-shadow-uss-united-states-rodeo-club-r-shakers/"
 },
 {
-"d": "2026-11-17T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Guerra e crisi climatica",
-"u": "https://www.doppiozero.com/guerra-e-crisi-climatica"
-},
-{
-"d": "2026-11-17T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Angela Borghesi: l'Oriente di Elsa Morante",
-"u": "https://www.doppiozero.com/angela-borghesi-loriente-di-elsa-morante"
-},
-{
-"d": "2026-11-17T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Hannah Einbinder: non solo Hacks",
-"u": "https://www.doppiozero.com/hannah-einbinder-non-solo-hacks"
-},
-{
-"d": "2026-11-17T00:15:23Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The sorry decline of Central Park",
-"u": "https://unherd.com/2026/11/the-sorry-decline-of-central-park/?edition=us"
-},
-{
 "d": "2026-11-16T20:37:43Z",
 "s": "The Honest Broker",
 "l": "en",
@@ -847,39 +880,6 @@ window.CALCO = {
 ],
 "h": "The small African lab sounding the alarm on AI bioweapons",
 "u": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-},
-{
-"d": "2026-11-16T10:34:41Z",
-"s": "Eurozine",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Culture as political battleground",
-"u": "https://www.eurozine.com/culture-as-political-battleground/?utm_source=rss&utm_medium=rss&utm_campaign=culture-as-political-battleground"
-},
-{
-"d": "2026-11-16T07:00:45Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "¿Se abren las puertas para un cambio de discurso?",
-"u": "https://seul.ar/se-abren-las-puertas-para-un-cambio-de-discurso/"
-},
-{
-"d": "2026-11-16T06:01:18Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "A ese hombre ya lo conoces",
-"u": "https://cultura.nexos.com.mx/a-ese-hombre-ya-lo-conoces/"
 }
 ]
 };
