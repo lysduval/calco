@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 22
+  "recientes": 21
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Kaminker",
@@ -37,7 +37,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "A*Desk",
@@ -53,7 +53,7 @@
   "ok": true,
   "error": null,
   "entradas": 2,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Zenda",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Jot Down",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "ABC Cultura",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 52,
-  "recientes": 12
+  "entradas": 54,
+  "recientes": 17
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 22
+  "recientes": 21
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 31
+  "recientes": 38
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 8
  },
  {
   "n": "Seúl",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Revista Crisis",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Artishock",
@@ -277,7 +277,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 12
+  "recientes": 2
  },
  {
   "n": "Le Monde des livres",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 8
  },
  {
   "n": "Le Monde",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Perlentaucher",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 31
+  "recientes": 28
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 13
+  "recientes": 11
  },
  {
   "n": "Die Zeit",
@@ -348,8 +348,8 @@
   "u": "https://taz.de/!p4639;rss/",
   "ok": true,
   "error": null,
-  "entradas": 50,
-  "recientes": 19
+  "entradas": 48,
+  "recientes": 16
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Doppiozero",
@@ -404,7 +404,7 @@
   "u": "https://www.theguardian.com/books/rss",
   "ok": true,
   "error": null,
-  "entradas": 28,
+  "entradas": 29,
   "recientes": 4
  },
  {
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 7
+  "recientes": 9
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 4
+  "recientes": 6
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "UnHerd",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 7
+  "recientes": 8
  },
  {
   "n": "The Critic",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 13
+  "recientes": 15
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 14
  },
  {
   "n": "032c",
@@ -565,7 +565,7 @@
   "ok": true,
   "error": null,
   "entradas": 18,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The Drift",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 22
+  "recientes": 14
  },
  {
   "n": "The New Yorker",
@@ -677,7 +677,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "The Honest Broker",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Ars Technica",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Rest of World",
@@ -741,7 +741,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "MIT Technology Review",
