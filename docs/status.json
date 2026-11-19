@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 36,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "El País",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "ABC Cultura",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 55,
-  "recientes": 16
+  "entradas": 53,
+  "recientes": 23
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 35
+  "recientes": 44
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 10
+  "recientes": 15
  },
  {
   "n": "Seúl",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 1
  },
  {
   "n": "Gatopardo",
@@ -229,13 +229,13 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 0
+  "recientes": 6
  },
  {
   "n": "Esteban Schmidt",
   "u": "https://estebanschmidt.substack.com/feed",
   "ok": false,
-  "error": "HTTPError: HTTP Error 400: Bad Request",
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "entradas": 0,
   "recientes": 0
  },
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 11
+  "recientes": 1
  },
  {
   "n": "Diacritik",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "Le Monde",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 14
  },
  {
   "n": "Perlentaucher",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 26
+  "recientes": 29
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Die Zeit",
@@ -348,8 +348,8 @@
   "u": "https://taz.de/!p4639;rss/",
   "ok": true,
   "error": null,
-  "entradas": 50,
-  "recientes": 16
+  "entradas": 48,
+  "recientes": 14
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Doppiozero",
@@ -404,8 +404,8 @@
   "u": "https://www.theguardian.com/books/rss",
   "ok": true,
   "error": null,
-  "entradas": 29,
-  "recientes": 5
+  "entradas": 28,
+  "recientes": 6
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "New Statesman",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 14
+  "recientes": 13
  },
  {
   "n": "ArtReview",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "Dazed",
@@ -557,7 +557,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The Baffler",
@@ -581,7 +581,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Los Angeles Review of Books",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 22
+  "recientes": 20
  },
  {
   "n": "The New Yorker",
@@ -613,7 +613,7 @@
   "ok": true,
   "error": null,
   "entradas": 41,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Jacobin",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 12
  },
  {
   "n": "Hyperallergic",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 12
+  "recientes": 10
  },
  {
   "n": "Literary Hub",
@@ -661,7 +661,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Granta",
@@ -693,23 +693,23 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Counter Craft",
   "u": "https://countercraft.substack.com/feed",
-  "ok": true,
-  "error": null,
-  "entradas": 20,
-  "recientes": 1
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "Embedded",
   "u": "https://embedded.substack.com/feed",
-  "ok": true,
-  "error": null,
-  "entradas": 20,
-  "recientes": 1
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "Clone",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Rest of World",
@@ -749,7 +749,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 9
+  "recientes": 6
  },
  {
   "n": "Simon Willison",
@@ -757,7 +757,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Platformer",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 15
+  "recientes": 14
  }
 ]
