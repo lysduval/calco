@@ -1,52 +1,282 @@
 window.CALCO = {
-"updated": "2026-11-18T21:55:03Z",
+"updated": "2026-11-19T03:25:11Z",
 "tops": [
 {
-"d": "2026-11-18T21:02:12Z",
-"s": "Revista Anfibia",
-"l": "es",
+"d": "2026-11-19T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
 "t": [
-"latam",
-"ideas"
+"europa",
+"arte"
 ],
-"h": "Cómo reconstruir las vidas lesbianas",
-"u": "https://www.revistaanfibia.com/fue-crimen-de-odio-como-reconstruir-las-vidas-lesbianas/"
+"h": "AI a scuola, che futuro?",
+"u": "https://www.doppiozero.com/ai-scuola-che-futuro"
 },
 {
-"d": "2026-11-18T19:23:27Z",
-"s": "Letras Libres",
+"d": "2026-11-18T23:07:03Z",
+"s": "Artishock",
 "l": "es",
 "t": [
-"es",
 "latam",
-"ideas"
+"arte"
 ],
-"h": "La montaña sin fronteras de Gorillaz",
-"u": "https://letraslibres.com/musica/la-montana-sin-fronteras-de-gorillaz/18/11/2026/"
+"h": "SINFONÍA INDUSTRIAL EN DOS TIEMPOS",
+"u": "https://artishockrevista.com/2026/11/18/sinfonia-industrial-en-dos-tiempos/"
 }
 ],
 "links": [
 {
-"d": "2026-11-18T21:31:17Z",
-"s": "Hyperallergic",
+"d": "2026-11-19T03:19:59Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Ukrainekrieg: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
+"u": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
+},
+{
+"d": "2026-11-19T02:54:03Z",
+"s": "The Common Reader",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Bumbition and late bloomers",
+"u": "https://www.commonreader.co.uk/p/bumbition-and-late-bloomers"
+},
+{
+"d": "2026-11-19T02:35:05Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million"
+},
+{
+"d": "2026-11-19T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Carrie al tempo del teen drama",
+"u": "https://www.doppiozero.com/carrie-al-tempo-del-teen-drama"
+},
+{
+"d": "2026-11-19T02:00:58Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Murder, millions and the rise and fall of OFB",
+"u": "https://thecritic.co.uk/murder-millions-and-the-rise-and-fall-of-ofb/"
+},
+{
+"d": "2026-11-19T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Il Gatto Selvatico 4. La zingara del cielo",
+"u": "https://www.doppiozero.com/il-gatto-selvatico-4-la-zingara-del-cielo"
+},
+{
+"d": "2026-11-19T01:44:04Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Tras el acuerdo con los herederos judíos, Sotheby's bate el récord en subasta para Van Gogh",
+"u": "https://www.abc.es/cultura/arte/cuadro-subastado-van-gogh-bate-record-vende-20261119005856-nt.html"
+},
+{
+"d": "2026-11-19T01:39:45Z",
+"s": "The Verge",
 "l": "en",
 "t": [
 "eeuu",
-"arte"
+"tech"
 ],
-"h": "A Marquee Week of Indulgence",
-"u": "https://hyperallergic.com/a-marquee-week-of-indulgence/"
+"h": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+"u": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"
 },
 {
-"d": "2026-11-18T21:29:24Z",
+"d": "2026-11-19T01:28:16Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "The HBO Documentary “When a Witness Recants” Is Now Streaming",
+"u": "https://www.newyorker.com/news/press-room/the-hbo-documentary-when-a-witness-recants-is-now-streaming"
+},
+{
+"d": "2026-11-19T01:20:10Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Rekordauktion in New York: Zuschlag bei 165 Millionen Dollar für Vincent van Gogh",
+"u": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/zuschlag-bei-165-millionen-dollar-rekordauktion-fuer-vincent-van-gogh-bei-sotheby-s-in-new-york-accg-201696575.html"
+},
+{
+"d": "2026-11-19T01:19:55Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cass casts doubt on Labour’s conversion ban",
+"u": "https://www.newstatesman.com/politics/2026/11/cass-casts-doubt-on-labours-conversion-ban"
+},
+{
+"d": "2026-11-19T01:12:29Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Van Gogh llega al récord de 190,4 millones con 'Los castaños en flor' vendidos bajo la disputa nazi",
+"u": "https://www.lavanguardia.com/cultura/20261119/11687845/gogh-llega-record-190-4-millones-castanos-flor-vendidos-disputa-nazi.html"
+},
+{
+"d": "2026-11-19T01:00:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "De Tupac a Rosalía: GTA, la saga que ha convertido sus emisoras de radio en un escaparate musical",
+"u": "https://www.elespanol.com/el-cultural/20261119/tupac-rosalia-gta-saga-convertido-emisoras-radio-escaparate-musical/1003744463451_0.html"
+},
+{
+"d": "2026-11-19T01:00:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Fernando Fernán Gómez, actor: \"Yo sé descansar mejor que nadie. Solo con oír música, con la lectura, y con el tiempo maravilloso de estar tumbado boca arriba recordando, ya tendría mi cupo las 24 horas cubierto\"",
+"u": "https://www.elconfidencial.com/cultura/2026-11-19/fernando-fernan-gomez-descanso-musica-lectura-1qrt_4466663/"
+},
+{
+"d": "2026-11-19T00:09:23Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
+"u": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html"
+},
+{
+"d": "2026-11-19T00:03:21Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "The uncomfortable truth about rape trials",
+"u": "https://unherd.com/2026/11/the-uncomfortable-truth-about-rape-trials/?edition=us"
+},
+{
+"d": "2026-11-18T23:25:04Z",
 "s": "Ars Technica",
 "l": "en",
 "t": [
 "eeuu",
 "tech"
 ],
-"h": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-"u": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/"
+"h": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+"u": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+},
+{
+"d": "2026-11-18T23:11:07Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "19 de noviembre de 1936: Muerte de Durruti",
+"u": "https://www.zendalibros.com/19-de-noviembre-de-1936-muerte-de-durruti/"
+},
+{
+"d": "2026-11-18T23:08:56Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cyber, Crosetto cerca risorse: «Servono 5mila specialisti»",
+"u": "https://ilmanifesto.it/cyber-crosetto-cerca-risorse-servono-5mila-specialisti"
+},
+{
+"d": "2026-11-18T23:01:00Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Yauguiha Mohamed Embarec: “La sensación de retirar una mina es parecida a la de ser madre: da vida”",
+"u": "https://www.lamarea.com/2026/11/19/yauguiha-mohamed-embarec-berma/"
+},
+{
+"d": "2026-11-18T23:00:12Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Un futur de feu et de molleton",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/19/un-futur-de-feu-et-de-molleton/"
+},
+{
+"d": "2026-11-18T22:56:15Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Georgia O'Keeffe Painting Found in NYC Closet Sells for $4.9M",
+"u": "https://hyperallergic.com/georgia-okeeffe-painting-found-in-nyc-closet-sells-for-4-9m/"
+},
+{
+"d": "2026-11-18T21:38:28Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Macarena Gómez: \"Asociar la cultura con la izquierda es un grandísimo error. Los que no somos socialistas también la queremos y la defendemos\"",
+"u": "https://www.elmundo.es/cultura/cine/2026/11/18/6af32dc6fdddff6e448b4577.html"
 },
 {
 "d": "2026-11-18T21:26:53Z",
@@ -60,28 +290,6 @@ window.CALCO = {
 "u": "https://jacobin.com/2026/11/unions-schumer-van-hollen-senate"
 },
 {
-"d": "2026-11-18T21:20:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Absolute Batman can save DC Studios",
-"u": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios"
-},
-{
-"d": "2026-11-18T21:08:35Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Adel und Ukraine: Prinz Harry: Zu 100 Prozent bereit, meinem Land zu dienen",
-"u": "https://www.zeit.de/news/2026-11/18/prinz-harry-zu-100-prozent-bereit-meinem-land-zu-dienen"
-},
-{
 "d": "2026-11-18T21:08:34Z",
 "s": "Artforum",
 "l": "en",
@@ -93,15 +301,15 @@ window.CALCO = {
 "u": "https://www.artforum.com/news/art-bridges-fund-gives-access-for-all-initiative-1234763801/"
 },
 {
-"d": "2026-11-18T20:33:19Z",
-"s": "The Critic",
-"l": "en",
+"d": "2026-11-18T21:02:12Z",
+"s": "Revista Anfibia",
+"l": "es",
 "t": [
-"europa",
-"arte"
+"latam",
+"ideas"
 ],
-"h": "Point-scoring of order",
-"u": "https://thecritic.co.uk/point-scoring-of-order/"
+"h": "Cómo reconstruir las vidas lesbianas",
+"u": "https://www.revistaanfibia.com/fue-crimen-de-odio-como-reconstruir-las-vidas-lesbianas/"
 },
 {
 "d": "2026-11-18T20:25:16Z",
@@ -115,81 +323,27 @@ window.CALCO = {
 "u": "https://elpais.com/opinion/2026-11-18/no-hace-falta-otro-yalta.html"
 },
 {
-"d": "2026-11-18T20:11:07Z",
-"s": "The Guardian",
-"l": "en",
+"d": "2026-11-18T20:00:26Z",
+"s": "Nexos",
+"l": "es",
 "t": [
-"europa",
+"latam",
 "arte"
 ],
-"h": "German knives, English socks: 13 gifts beloved globally that Americans are missing out on",
-"u": "https://www.theguardian.com/thefilter-us/2026/nov/11/best-international-gifts"
+"h": "Sobre el libro Huecos, de Chantal Flores",
+"u": "https://cultura.nexos.com.mx/sobre-el-libro-huecos-de-chantal-flores/"
 },
 {
-"d": "2026-11-18T20:10:48Z",
-"s": "La Vanguardia",
+"d": "2026-11-18T19:23:27Z",
+"s": "Letras Libres",
 "l": "es",
 "t": [
 "es",
-"arte"
-],
-"h": "Miró, Tàpies y Chillida se asoman a la histórica plaza Navona de Roma",
-"u": "https://www.lavanguardia.com/cultura/20261118/11687590/miro-tapies-chillida-asoman-historica-plaza-navona-roma.html"
-},
-{
-"d": "2026-11-18T20:07:16Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "La nueva gripe 'GTA VI' o pedirse el día libre para jugar: «Mi jefa sabe perfectamente para qué es»",
-"u": "https://www.abc.es/cultura/personas-piden-dia-libre-jugar-grand-theft-20261119195143-nt.html"
-},
-{
-"d": "2026-11-18T20:05:24Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
+"latam",
 "ideas"
 ],
-"h": "El “millón de viviendas” de Feijóo fueron solo 500 VPO al año cuando era presidente de Galicia",
-"u": "https://www.lamarea.com/2026/11/18/millon-viviendas-feijoo/"
-},
-{
-"d": "2026-11-18T20:00:00Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Laura Kolbe Reads Robyn Schiff",
-"u": "https://www.newyorker.com/podcast/poetry/laura-kolbe-reads-robyn-schiff"
-},
-{
-"d": "2026-11-18T19:59:06Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "England und China: Der Kommunismus schuf eine kapitalistische Supermacht",
-"u": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-chinas-kommunismus-eine-kapitalistische-supermacht-schuf-accg-201665812.html"
-},
-{
-"d": "2026-11-18T19:12:47Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Alla sanità servono fondi. Protesta in sette città",
-"u": "https://ilmanifesto.it/alla-sanita-servono-fondi-protesta-in-sette-citta"
+"h": "La montaña sin fronteras de Gorillaz",
+"u": "https://letraslibres.com/musica/la-montana-sin-fronteras-de-gorillaz/18/11/2026/"
 },
 {
 "d": "2026-11-18T19:00:12Z",
@@ -226,17 +380,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/politica/lecciones-del-triunfo-democrata-para-la-oposicion-mexicana/18/11/2026/"
 },
 {
-"d": "2026-11-18T18:30:10Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Présomption de légitime défense pour les forces de l’ordre : « Notre expérience russe nous a montré que la démocratie peut être détruite progressivement »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/18/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-notre-experience-russe-nous-a-montre-que-la-democratie-peut-etre-detruite-progressivement_6813191_3232.html"
-},
-{
 "d": "2026-11-18T18:26:27Z",
 "s": "Letras Libres",
 "l": "es",
@@ -249,28 +392,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/ciencia-y-tecnologia/el-futuro-del-mundo-se-fabrica-en-asia/18/11/2026/"
 },
 {
-"d": "2026-11-18T18:17:09Z",
-"s": "n+1",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "The Simplest Way to Win Life-Changing Piles of Cash Every Week",
-"u": "https://www.nplusonemag.com/online-only/book-review/the-simplest-way-to-win-life-changing-piles-of-cash-every-week/"
-},
-{
-"d": "2026-11-18T17:53:51Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual y cita a las querellantes en febrero",
-"u": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd91a2fc6c83fa228b4585.html"
-},
-{
 "d": "2026-11-18T17:35:01Z",
 "s": "Le Grand Continent",
 "l": "fr",
@@ -280,17 +401,6 @@ window.CALCO = {
 ],
 "h": "La croissance de Nvidia ne dépend pas de la Chine",
 "u": "https://legrandcontinent.eu/fr/2026/11/18/la-croissance-de-nvidia-ne-depend-pas-de-la-chine/"
-},
-{
-"d": "2026-11-18T17:34:55Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "My love life once thrived near the care home where my mother gently declines",
-"u": "https://www.newstatesman.com/down-and-out/2026/11/my-love-life-once-thrived-near-the-care-home-where-my-mother-gently-declines"
 },
 {
 "d": "2026-11-18T17:24:54Z",
@@ -367,17 +477,6 @@ window.CALCO = {
 ],
 "h": "5 novels for when you can’t get over your situationship",
 "u": "https://www.dazeddigital.com/life-culture/article/71380/1/5-novels-for-when-you-can-t-get-over-your-situationship?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-novels-for-when-you-can-t-get-over-your-situationship"
-},
-{
-"d": "2026-11-18T15:30:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Robert Pattinson, cuando se le preguntó en 2012 si interpretaría a James Bond: \"Más bien dentro de unos 20 años\"",
-"u": "https://www.elconfidencial.com/cultura/cine/2026-11-18/robert-pattinson-james-bond-2012-20-anos-1qrt_4466627/"
 },
 {
 "d": "2026-11-18T15:22:26Z",
@@ -686,28 +785,6 @@ window.CALCO = {
 "u": "https://theobjective.com/gente/2026-11-18/angelina-jolie-51-anos-sobre-su-infancia-mi-madre-se-tuvo-que-dedicar-a-la-maternidad-pero-siempre-quiso-ser-actriz-y-vio-a-mi-padre-con-otra-mujer-cuando-gano-el-oscar/"
 },
 {
-"d": "2026-11-18T04:04:00Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Óscar López Acón, historiador e investigador en los archivos cubanos: \"Sin Batista no habría habido un Fidel\"",
-"u": "https://www.elespanol.com/el-cultural/historia/20261118/oscar-lopez-acon-historiador-investigador-archivos-cubanos-sin-batista-no-fidel/1003744458803_0.html"
-},
-{
-"d": "2026-11-18T04:00:52Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Zenda recomienda: Play boy, de Constance Debré",
-"u": "https://www.zendalibros.com/zenda-recomienda-play-boy-de-constance-debre/"
-},
-{
 "d": "2026-11-18T03:15:15Z",
 "s": "Platformer",
 "l": "en",
@@ -717,61 +794,6 @@ window.CALCO = {
 ],
 "h": "Jensen wants to come back",
 "u": "https://www.platformer.news/jensen-wants-to-come-back/"
-},
-{
-"d": "2026-11-18T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Jean Meckert: non è una storia d’amore",
-"u": "https://www.doppiozero.com/jean-meckert-non-e-una-storia-damore"
-},
-{
-"d": "2026-11-18T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Cancrini: le ferite delle schizofrenie",
-"u": "https://www.doppiozero.com/cancrini-le-ferite-delle-schizofrenie"
-},
-{
-"d": "2026-11-18T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Ugo Mulas, autobiografia di un fotografo",
-"u": "https://www.doppiozero.com/ugo-mulas-autobiografia-di-un-fotografo"
-},
-{
-"d": "2026-11-18T00:03:11Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Milburn has buried Starmerism",
-"u": "https://unherd.com/2026/11/milburns-has-buried-starmerism/?edition=us"
-},
-{
-"d": "2026-11-17T23:42:58Z",
-"s": "The Common Reader",
-"l": "en",
-"t": [
-"europa",
-"letras"
-],
-"h": "Does Claude’s Constitution mean anything?",
-"u": "https://www.commonreader.co.uk/p/does-claudes-constitution-mean-anything"
 },
 {
 "d": "2026-11-17T21:00:00Z",
@@ -796,17 +818,6 @@ window.CALCO = {
 "u": "https://www.en-attendant-nadeau.fr/2026/11/17/un-archeologue-hegelien-a-carthage/"
 },
 {
-"d": "2026-11-17T20:58:27Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "La lumière et le murmure",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/17/la-lumiere-et-le-murmure/"
-},
-{
 "d": "2026-11-17T19:41:07Z",
 "s": "Artishock",
 "l": "es",
@@ -816,17 +827,6 @@ window.CALCO = {
 ],
 "h": "PINTURA CONTEMPORÁNEA EN ARGENTINA (TRAS LA RESACA DE UNA FERIA)",
 "u": "https://artishockrevista.com/2026/11/17/pintura-contemporanea-en-argentina/"
-},
-{
-"d": "2026-11-17T19:38:56Z",
-"s": "n+1",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Emancipatory Taxation",
-"u": "https://www.nplusonemag.com/online-only/election-special/emancipatory-taxation/"
 },
 {
 "d": "2026-11-17T16:59:54Z",
