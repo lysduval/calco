@@ -1,63 +1,260 @@
 window.CALCO = {
-"updated": "2026-11-19T21:30:33Z",
+"updated": "2026-11-20T03:12:15Z",
 "tops": [
 {
-"d": "2026-11-19T19:58:29Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "El federalismo y la crisis del INE",
-"u": "https://letraslibres.com/politica/el-federalismo-y-la-crisis-del-ine/19/11/2026/"
-},
-{
-"d": "2026-11-19T17:00:42Z",
-"s": "AOC",
-"l": "fr",
+"d": "2026-11-20T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
 "t": [
 "europa",
-"ideas"
+"arte"
 ],
-"h": "La controverse Descola-Latour et l’avenir du naturalisme",
-"u": "https://aoc.media/analyse/2026/11/19/la-controverse-descola-latour-et-lavenir-du-naturalisme/"
+"h": "Hayao Miyazaki si racconta",
+"u": "https://www.doppiozero.com/hayao-miyazaki-si-racconta"
+},
+{
+"d": "2026-11-20T01:37:44Z",
+"s": "Platformer",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Anthropic goes public",
+"u": "https://www.platformer.news/anthropic-goes-public/"
 }
 ],
 "links": [
 {
-"d": "2026-11-19T21:25:44Z",
-"s": "Hyperallergic",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "The Ebullient Ecofeminism of Carolina Caycedo",
-"u": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/"
-},
-{
-"d": "2026-11-19T21:23:21Z",
-"s": "Artforum",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
-"u": "https://www.artforum.com/news/van-gogh-fetches-eye-watering-190-4-million-at-auction-1234763909/"
-},
-{
-"d": "2026-11-19T21:21:20Z",
+"d": "2026-11-20T03:00:26Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "ATP Finals im Tennis: Gruppensieg mit makelloser Bilanz: Zverev trumpft weiter auf",
-"u": "https://www.zeit.de/news/2026-11/19/gruppensieg-mit-makelloser-bilanz-zverev-trumpft-weiter-auf"
+"h": "Gen Z-Protest: Junge Menschen gehen erneut auf die Straße",
+"u": "https://www.zeit.de/news/2026-11/20/junge-menschen-gehen-erneut-auf-die-strasse"
+},
+{
+"d": "2026-11-20T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Tash Aw, intervista dalla Malesia",
+"u": "https://www.doppiozero.com/tash-aw-intervista-dalla-malesia"
+},
+{
+"d": "2026-11-20T02:00:41Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Why William Nordhaus was right",
+"u": "https://thecritic.co.uk/why-william-nordhaus-was-right/"
+},
+{
+"d": "2026-11-20T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Civica: la tragedia del perdono",
+"u": "https://www.doppiozero.com/civica-la-tragedia-del-perdono"
+},
+{
+"d": "2026-11-20T01:56:42Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Amid Heckles and Hurrahs, Anthropic Rings In a New Era",
+"u": "https://www.newyorker.com/magazine/2026/11/30/amid-heckles-and-hurrahs-anthropic-rings-in-a-new-era"
+},
+{
+"d": "2026-11-20T01:49:57Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Joe Biden is not sorry",
+"u": "https://www.newstatesman.com/culture/books/2026/11/joe-biden-is-not-sorry"
+},
+{
+"d": "2026-11-20T01:00:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Miki Leal, pintor: \"Esta exposición es un autorretrato psicológico, una instalación sobre la vida hedonista\"",
+"u": "https://www.elespanol.com/el-cultural/arte/20261120/miki-leal-pintor-exposicion-autorretrato-psicologico-instalacion-vida-hedonista/1003744457191_0.html"
+},
+{
+"d": "2026-11-20T00:57:35Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Umbral y su fe ciega",
+"u": "https://www.abc.es/cultura/cultural/umbral-ciega-20261120015735-nt.html"
+},
+{
+"d": "2026-11-20T00:41:42Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "A lo tonto, a lo tonto",
+"u": "https://www.lavanguardia.com/cultura/20261120/11688752/tonto-tonto.html"
+},
+{
+"d": "2026-11-20T00:16:14Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "ERIK TLASECA Y WYNNIE MYNERVA: ENTRAÑAS",
+"u": "https://artishockrevista.com/2026/11/19/erik-tlaseca-y-wynnie-mynerva-entranas/"
+},
+{
+"d": "2026-11-20T00:04:41Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Here come the Anthropic billionaires",
+"u": "https://unherd.com/2026/11/here-come-the-anthropic-billionaires/?edition=us"
+},
+{
+"d": "2026-11-19T23:32:55Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Dos hombres y un elefante en la habitación",
+"u": "https://elpais.com/opinion/2026-11-19/dos-hombres-y-un-elefante-en-la-habitacion.html"
+},
+{
+"d": "2026-11-19T23:13:10Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Amnistía Internacional documenta más de 60 casos de violencia policial durante la huelga del 11-N",
+"u": "https://www.lamarea.com/2026/11/20/violencia-policial-huelga/"
+},
+{
+"d": "2026-11-19T23:11:27Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "20 de noviembre de 1936: El fusilamiento de José Antonio",
+"u": "https://www.zendalibros.com/20-de-noviembre-de-1936-el-fusilamiento-de-jose-antonio/"
+},
+{
+"d": "2026-11-19T23:06:30Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "L’onda lunga della Flotilla che soffia sul movimento",
+"u": "https://ilmanifesto.it/londa-lunga-della-flotilla-che-soffia-sul-movimento"
+},
+{
+"d": "2026-11-19T23:00:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Les broderies de l’écriture",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/20/les-broderies-de-lecriture/"
+},
+{
+"d": "2026-11-19T22:55:19Z",
+"s": "Artforum",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "The New Museum Announces Partnership With Vega Foundation",
+"u": "https://www.artforum.com/news/the-new-museum-announces-partnership-vega-foundation-1234763944/"
+},
+{
+"d": "2026-11-19T22:49:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "“men should stop worrying and put on a jacket”",
+"u": "https://airmail.news/dress-code/style/2026/11/an-alibi-for-effort"
+},
+{
+"d": "2026-11-19T22:36:49Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Drawing Center's Laura Hoptman Wins Curatorial Excellence Award",
+"u": "https://hyperallergic.com/drawing-centers-laura-hoptman-wins-curatorial-excellence-award/"
+},
+{
+"d": "2026-11-19T22:31:41Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Apple is hiring engineers to build its own AI agent",
+"u": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+},
+{
+"d": "2026-11-19T22:16:37Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+"u": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
 },
 {
 "d": "2026-11-19T21:19:43Z",
@@ -71,39 +268,6 @@ window.CALCO = {
 "u": "https://www.faz.net/aktuell/feuilleton/buecher/ausstellung-ueber-susan-sontag-im-deutschen-literaturarchiv-201692661.html"
 },
 {
-"d": "2026-11-19T21:19:12Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-"u": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
-},
-{
-"d": "2026-11-19T21:18:41Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Trump’s Flagging Approval",
-"u": "https://www.newyorker.com/cartoons/blitts-kvetchbook/trumps-flagging-approval"
-},
-{
-"d": "2026-11-19T21:12:06Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Meta now sells 3D movies on Quest VR headsets",
-"u": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app"
-},
-{
 "d": "2026-11-19T20:29:16Z",
 "s": "Jacobin",
 "l": "en",
@@ -113,6 +277,18 @@ window.CALCO = {
 ],
 "h": "Don’t Mourn Hakeem Jeffries’s Speakership. Organize.",
 "u": "https://jacobin.com/2026/11/jeffries-congress-speaker-socialists-organizing"
+},
+{
+"d": "2026-11-19T19:58:29Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "El federalismo y la crisis del INE",
+"u": "https://letraslibres.com/politica/el-federalismo-y-la-crisis-del-ine/19/11/2026/"
 },
 {
 "d": "2026-11-19T19:53:48Z",
@@ -137,28 +313,6 @@ window.CALCO = {
 "u": "https://www.elmundo.es/cultura/cine/2026/11/19/6afef97be4d4d870418b45a5.html"
 },
 {
-"d": "2026-11-19T19:45:13Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La RAE reúne en la Mezquita-Catedral de Córdoba a 21 académicos en un pleno extraordinario dedicado a Góngora",
-"u": "https://elpais.com/cultura/2026-11-19/la-rae-reune-en-la-mezquita-catedral-de-cordoba-a-21-academicos-en-un-pleno-extraordinario-dedicado-a-gongora.html"
-},
-{
-"d": "2026-11-19T19:36:52Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "La RAE se lleva su pompa a la mezquita-catedral de Córdoba",
-"u": "https://www.abc.es/cultura/rae-lleva-pompa-mezquitacatedral-cordoba-20261119195257-nt.html"
-},
-{
 "d": "2026-11-19T19:21:00Z",
 "s": "taz",
 "l": "de",
@@ -181,17 +335,6 @@ window.CALCO = {
 "u": "https://lithub.com/abdelrahman-elgendy-has-won-the-national-book-award-despite-the-times-claims-that-he-is-ineligible/"
 },
 {
-"d": "2026-11-19T19:11:47Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Rosalía regala zapatillas deportivas a sus fans en el centro de Barcelona: “Rosi, ¡un 38!”",
-"u": "https://www.lavanguardia.com/gente/20261119/11688532/rosalia-regala-zapatillas-deportivas-fans-centro-barcelona-rosi-38.html"
-},
-{
 "d": "2026-11-19T19:00:06Z",
 "s": "Le Monde",
 "l": "fr",
@@ -212,17 +355,6 @@ window.CALCO = {
 ],
 "h": "Jennifer Lopez, 57 años, sobre sus 4 matrimonios: \"Yo era una especie de monógama en serie, una pareja tras otra, con la esperanza de que esta fuera la definitiva\"",
 "u": "https://www.elconfidencial.com/cultura/2026-11-19/jennifer-lopez-4-matrimonios-monogama-en-serie-1qrt_4467413/"
-},
-{
-"d": "2026-11-19T18:36:37Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Siamo Cattivə Maestrə. Scendiamo in piazza",
-"u": "https://ilmanifesto.it/siamo-cattive-maestre-scendiamo-in-piazza"
 },
 {
 "d": "2026-11-19T18:11:50Z",
@@ -270,6 +402,17 @@ window.CALCO = {
 "u": "https://letraslibres.com/cine-tv/minotauro-y-la-violencia-de-las-aguas-mansas/19/11/2026/"
 },
 {
+"d": "2026-11-19T17:32:56Z",
+"s": "n+1",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "The Rise and Fall of the Union Steward",
+"u": "https://www.nplusonemag.com/online-only/online-only/the-rise-and-fall-of-the-union-steward/"
+},
+{
 "d": "2026-11-19T17:31:00Z",
 "s": "Dazed",
 "l": "en",
@@ -291,15 +434,15 @@ window.CALCO = {
 "u": "https://theobjective.com/cultura/2026-11-19/fundacion-mutua-madrilena-madrid-inmersiva-bernabeu/"
 },
 {
-"d": "2026-11-19T17:07:10Z",
-"s": "El Cultural",
-"l": "es",
+"d": "2026-11-19T17:00:42Z",
+"s": "AOC",
+"l": "fr",
 "t": [
-"es",
-"letras"
+"europa",
+"ideas"
 ],
-"h": "Una exposición inmersiva sobre Cervantes inaugura el nuevo espacio cultural de la Fundación Mutua Madrileña",
-"u": "https://www.elespanol.com/el-cultural/letras/20261119/exposicion-inmersiva-cervantes-inaugura-nuevo-espacio-cultural-fundacion-mutua-madrilena/1003744465057_0.html"
+"h": "La controverse Descola-Latour et l’avenir du naturalisme",
+"u": "https://aoc.media/analyse/2026/11/19/la-controverse-descola-latour-et-lavenir-du-naturalisme/"
 },
 {
 "d": "2026-11-19T17:00:11Z",
@@ -322,17 +465,6 @@ window.CALCO = {
 ],
 "h": "Survivre et ne pas survivre à la catastrophe : notes finales sur les enfants et la fragmentation",
 "u": "https://aoc.media/opinion/2026/11/19/survivre-et-ne-pas-survivre-a-la-catastrophe-notes-finales-sur-les-enfants-et-la-fragmentation/"
-},
-{
-"d": "2026-11-19T17:00:00Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Can Labour save a lost generation?",
-"u": "https://www.newstatesman.com/podcasts/politics-podcast/2026/11/can-labour-save-a-lost-generation"
 },
 {
 "d": "2026-11-19T16:58:24Z",
@@ -465,28 +597,6 @@ window.CALCO = {
 ],
 "h": "The End Of Extraction",
 "u": "https://www.noemamag.com/the-end-of-extraction"
-},
-{
-"d": "2026-11-19T13:31:23Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Del ‘menos lobos, caperucita’ del PP a la adaptación climática del PSOE",
-"u": "https://www.lamarea.com/2026/11/19/climatica-sanchez-feijoo/"
-},
-{
-"d": "2026-11-19T13:22:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "43 soldiers agree to stay in the Army, partly for a long weekend with Grand Theft Auto VI",
-"u": "https://abcnews.com/Politics/43-soldiers-agree-stay-army-partly-long-weekend/story?id=138260267"
 },
 {
 "d": "2026-11-19T13:10:00Z",
@@ -630,72 +740,6 @@ window.CALCO = {
 "u": "https://seul.ar/timeguessr/"
 },
 {
-"d": "2026-11-19T04:06:57Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "¿Se va el caimán?",
-"u": "https://www.zendalibros.com/perez-reverte-se-va-el-caiman/"
-},
-{
-"d": "2026-11-19T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "AI a scuola, che futuro?",
-"u": "https://www.doppiozero.com/ai-scuola-che-futuro"
-},
-{
-"d": "2026-11-19T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Carrie al tempo del teen drama",
-"u": "https://www.doppiozero.com/carrie-al-tempo-del-teen-drama"
-},
-{
-"d": "2026-11-19T02:00:58Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Murder, millions and the rise and fall of OFB",
-"u": "https://thecritic.co.uk/murder-millions-and-the-rise-and-fall-of-ofb/"
-},
-{
-"d": "2026-11-19T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Il Gatto Selvatico 4. La zingara del cielo",
-"u": "https://www.doppiozero.com/il-gatto-selvatico-4-la-zingara-del-cielo"
-},
-{
-"d": "2026-11-19T00:03:21Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The uncomfortable truth about rape trials",
-"u": "https://unherd.com/2026/11/the-uncomfortable-truth-about-rape-trials/?edition=us"
-},
-{
 "d": "2026-11-19T00:00:00Z",
 "s": "Sidecar (New Left Review)",
 "l": "en",
@@ -749,6 +793,17 @@ window.CALCO = {
 ],
 "h": "Sobre el libro Huecos, de Chantal Flores",
 "u": "https://cultura.nexos.com.mx/sobre-el-libro-huecos-de-chantal-flores/"
+},
+{
+"d": "2026-11-18T18:17:09Z",
+"s": "n+1",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "The Simplest Way to Win Life-Changing Piles of Cash Every Week",
+"u": "https://www.nplusonemag.com/online-only/book-review/the-simplest-way-to-win-life-changing-piles-of-cash-every-week/"
 },
 {
 "d": "2026-11-18T15:22:26Z",
@@ -826,61 +881,6 @@ window.CALCO = {
 ],
 "h": "Enemy Mine",
 "u": "https://thebaffler.com/latest/enemy-mine-rawoot?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed"
-},
-{
-"d": "2026-11-18T12:53:13Z",
-"s": "Kaminker",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Se ruega pasar miedo. El negocio del terror fuera de la pantalla",
-"u": "https://kaminker.es/se-ruega-pasar-miedo/?utm_source=rss&utm_medium=rss&utm_campaign=se-ruega-pasar-miedo"
-},
-{
-"d": "2026-11-18T11:06:02Z",
-"s": "Caimán Cuadernos de Cine",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Vota el mejor cine de 2026",
-"u": "https://www.caimanediciones.es/vota-el-mejor-cine-de-2026/"
-},
-{
-"d": "2026-11-18T07:00:17Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "La alianza de la fatwa y la cancelación",
-"u": "https://seul.ar/la-alianza-de-la-fatwa-y-la-cancelacion/"
-},
-{
-"d": "2026-11-18T06:01:17Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "El conocimiento, cuando se comparte, se potencia: Entrevista a Cecilia Rikap",
-"u": "https://www.nexos.com.mx/el-conocimiento-cuando-se-comparte-se-potencia-entrevista-a-cecilia-rikap/"
-},
-{
-"d": "2026-11-18T06:00:37Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Terrain vague (86) – Peter Handke, poésie, etc., David B.",
-"u": "https://diacritik.com/2026/11/18/terrain-vague-86-peter-handke-poesie-etc-david-b/"
 }
 ]
 };

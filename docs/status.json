@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 11
  },
  {
   "n": "Jot Down",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 15
+  "recientes": 20
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 44
+  "recientes": 43
  },
  {
   "n": "El Confidencial",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Gatopardo",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Diacritik",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Il Foglio",
@@ -546,10 +546,10 @@
  {
   "n": "n+1",
   "u": "https://www.nplusonemag.com/feed/",
-  "ok": false,
-  "error": "sin entradas",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 200,
+  "recientes": 2
  },
  {
   "n": "The Paris Review",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 20
+  "recientes": 22
  },
  {
   "n": "The New Yorker",
@@ -613,7 +613,7 @@
   "ok": true,
   "error": null,
   "entradas": 41,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Jacobin",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 10
+  "recientes": 12
  },
  {
   "n": "Literary Hub",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Counter Craft",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 13,
-  "recientes": 6
+  "recientes": 9
  },
  {
   "n": "Ars Technica",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "Rest of World",
@@ -765,7 +765,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Stratechery",
