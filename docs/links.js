@@ -1,40 +1,392 @@
 window.CALCO = {
-"updated": "2026-11-21T01:32:13Z",
+"updated": "2026-11-21T09:47:43Z",
 "tops": [
 {
-"d": "2026-11-20T23:00:59Z",
-"s": "En attendant Nadeau",
-"l": "fr",
+"d": "2026-11-21T07:00:29Z",
+"s": "Seúl",
+"l": "es",
 "t": [
-"europa",
-"letras"
+"latam",
+"ideas"
 ],
-"h": "Entretien avec Vincent Pélissier : les exigences de Fario",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-vincent-pelissier-des-editions-fario/"
+"h": "1996 / 2026 / 2056",
+"u": "https://seul.ar/1996-2026-2056/"
 },
 {
-"d": "2026-11-20T20:35:10Z",
-"s": "Artishock",
+"d": "2026-11-21T06:01:19Z",
+"s": "Nexos",
 "l": "es",
 "t": [
 "latam",
 "arte"
 ],
-"h": "ORA PRO NOBIS, PRIMERA EXPOSICIÓN INDIVIDUAL DE PAULO NAZARETH EN ESPAÑA",
-"u": "https://artishockrevista.com/2026/11/20/paulo-nazareth-en-espana/"
+"h": "La vida al final",
+"u": "https://cultura.nexos.com.mx/la-vida-al-final/"
 }
 ],
 "links": [
 {
-"d": "2026-11-21T01:12:24Z",
+"d": "2026-11-21T09:41:04Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Bundesliga: Werder Bremen verlängert mit Trainer Daniel Thioune",
+"u": "https://www.zeit.de/news/2026-11/21/werder-bremen-verlaengert-mit-trainer-daniel-thioune"
+},
+{
+"d": "2026-11-21T09:30:00Z",
+"s": "Le Figaro",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Giraud, l’autre libérateur : une biographie hors norme du général rival de De Gaulle, grand oublié de l’histoire",
+"u": "https://www.lefigaro.fr/livres/giraud-l-autre-liberateur-une-biographie-hors-norme-du-general-rival-de-de-gaulle-grand-oublie-de-l-histoire-20261121"
+},
+{
+"d": "2026-11-21T09:27:43Z",
 "s": "ABC Cultura",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "El infarto de Josep Pla, contado sin censura: «El fumar y el whisky son elementos indispensables de mi trabajo»",
-"u": "https://www.abc.es/cultura/libros/infarto-cambio-vida-josep-pla-contado-censura-20261119021223-nt.html"
+"h": "Rafael de Julia, torero, sobre su anorexia: «Llegué a pesar 50 kilos. Llevo más de un año en tratamiento y va para largo»",
+"u": "https://www.abc.es/cultura/toros/sevilla/rafael-julia-torero-sobre-anorexia-llegue-pesar-20261121072335-nts.html"
+},
+{
+"d": "2026-11-21T09:17:28Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Medien-Selbstkontrolle: Presserat fordert Auskunftsrecht auf Bundesebene",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html"
+},
+{
+"d": "2026-11-21T09:00:53Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Light in the dark: 20 long books for short winter days",
+"u": "https://www.theguardian.com/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days"
+},
+{
+"d": "2026-11-21T09:00:27Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Sélection galerie : Lee Krasner chez Gagosian",
+"u": "https://www.lemonde.fr/culture/article/2026/11/21/selection-galerie-lee-krasner-chez-gagosian_6813961_3246.html"
+},
+{
+"d": "2026-11-21T08:56:53Z",
+"s": "The Common Reader",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "C.S. Lewis as a great reader",
+"u": "https://www.commonreader.co.uk/p/cs-lewis-as-a-great-reader"
+},
+{
+"d": "2026-11-21T08:00:00Z",
+"s": "Embedded",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Uh, Should We Start Listening To Preppers?",
+"u": "https://embedded.substack.com/p/uh-should-we-start-listening-to-preppers-8a13c647"
+},
+{
+"d": "2026-11-21T07:39:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Rosalía y su 'Lux' arrasan en Barcelona con cuatro galardones en Los40 Music Awards 2026",
+"u": "https://www.elconfidencial.com/cultura/2026-11-21/rosalia-premios-los40-barcelona-1tps_4469692/"
+},
+{
+"d": "2026-11-21T07:00:47Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "La segunda vida de los animales perdidos",
+"u": "https://www.jotdown.es/2026/11/la-segunda-vida-de-los-animales-perdidos/"
+},
+{
+"d": "2026-11-21T06:30:00Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Nigel Farage’s tantrums won’t rescue Brexit",
+"u": "https://www.newstatesman.com/politics/brexit/2026/11/nigel-farages-tantrums-wont-rescue-brexit"
+},
+{
+"d": "2026-11-21T06:17:20Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El segundo mayor espectáculo del mundo",
+"u": "https://www.elmundo.es/cultura/2026/11/21/6b003d03fc6c83ef668b45a9.html"
+},
+{
+"d": "2026-11-21T06:00:22Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Carlo Ossola, philologue : « Nous sommes des petits hommes sur les épaules de nos devanciers »",
+"u": "https://www.lemonde.fr/livres/article/2026/11/21/carlo-ossola-philologue-nous-sommes-des-petits-hommes-sur-les-epaules-de-nos-devanciers_6813949_3260.html"
+},
+{
+"d": "2026-11-21T06:00:09Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Javier Castillo: “Hoy cada estímulo es una distracción que nos aleja de la lectura”",
+"u": "https://www.zendalibros.com/javier-castillo-hoy-cada-estimulo-es-una-distraccion-que-nos-aleja-de-la-lectura/"
+},
+{
+"d": "2026-11-21T06:00:00Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "La Chine vise 100 milliards d’arbres plantés d’ici 2050",
+"u": "https://legrandcontinent.eu/fr/2026/11/21/la-chine-veut-planter-100-milliards-darbres-dici-2050/"
+},
+{
+"d": "2026-11-21T05:58:32Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El hígado de Bolaño y otros débitos",
+"u": "https://www.lavanguardia.com/cultura/20261121/11689374/higado-bolano-otros-debitos.html"
+},
+{
+"d": "2026-11-21T04:59:00Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Senator Raphael Warnock on How Democrats Won Across the South",
+"u": "https://www.newyorker.com/podcast/political-scene/senator-raphael-warnock-on-how-democrats-won-across-the-south"
+},
+{
+"d": "2026-11-21T04:55:20Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "la tangente | las cosas que pedimos en el río",
+"u": "https://revistacrisis.com.ar/notas/la-tangente-las-cosas-que-pedimos-en-el-rio/"
+},
+{
+"d": "2026-11-21T04:55:18Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "crisis internacional | bukelismo en haití | entrevista a louise bosetti",
+"u": "https://revistacrisis.com.ar/notas/crisis-internacional-bukelismo-en-haiti-entrevista-a-louise-bosetti/"
+},
+{
+"d": "2026-11-21T04:55:04Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "crisis en el aire #270 | el cinismo de la política y la numerología de la crisis libertaria",
+"u": "https://revistacrisis.com.ar/notas/crisis-en-el-aire-270-el-cinismo-de-la-politica-y-la-numerologia-de-la-crisis-libertaria/"
+},
+{
+"d": "2026-11-21T04:45:01Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "El Roto: hablaréis pero no convenceréis",
+"u": "https://elpais.com/opinion/2026-11-21/el-roto-hablareis-pero-no-convencereis.html"
+},
+{
+"d": "2026-11-21T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Trampantojo: El curador y el director del museo",
+"u": "https://elpais.com/babelia/2026-11-21/trampantojo-el-curador-y-el-director-del-museo.html"
+},
+{
+"d": "2026-11-21T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Las revoluciones de Caparrós, vivir el futuro para explicar el pasado",
+"u": "https://elpais.com/babelia/2026-11-21/las-revoluciones-de-caparros-vivir-el-futuro-para-explicar-el-pasado.html"
+},
+{
+"d": "2026-11-21T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Josefina Licitra, premio Sor Juana Inés de la Cruz: “Retirar la palabra a un hijo es hacer un ejercicio de poder”",
+"u": "https://elpais.com/babelia/2026-11-21/josefina-licitra-premio-sor-juana-ines-de-la-cruz-retirar-la-palabra-a-un-hijo-es-hacer-un-ejercicio-de-poder.html"
+},
+{
+"d": "2026-11-21T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "América Latina: un continente en constante construcción",
+"u": "https://elpais.com/babelia/2026-11-21/america-latina-un-continente-en-constante-construccion.html"
+},
+{
+"d": "2026-11-21T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "40 años de la Feria del Libro de Guadalajara: de García Márquez a Richard Gere pasando por España como invitada de honor",
+"u": "https://elpais.com/babelia/2026-11-21/40-anos-de-la-feria-del-libro-de-guadalajara-de-garcia-marquez-a-richard-gere-pasando-por-espana-como-invitada-de-honor.html"
+},
+{
+"d": "2026-11-21T04:30:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Neben van Gogh triumphierte Modigliani auf den New Yorker Herbstauktionen",
+"u": "https://www.nzz.ch/feuilleton/kunst_architektur/neben-van-gogh-triumphierte-modigliani-auf-den-new-yorker-herbstauktionen-ld.10070357"
+},
+{
+"d": "2026-11-21T04:25:00Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "La Comisión del Bicentenario de Goya sigue sin reunirse 10 meses después de su creación",
+"u": "https://theobjective.com/cultura/2026-11-21/comision-bicentenario-goya-diez-meses-creacion/"
+},
+{
+"d": "2026-11-21T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "1976: la Davis degli italiani",
+"u": "https://www.doppiozero.com/1976-la-davis-degli-italiani"
+},
+{
+"d": "2026-11-21T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Atwood e il gioco delle identità canadesi",
+"u": "https://www.doppiozero.com/atwood-e-il-gioco-delle-identita-canadesi"
+},
+{
+"d": "2026-11-21T02:00:58Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Fantastic Planet in the AI age",
+"u": "https://thecritic.co.uk/fantastic-planet-in-the-ai-age/"
+},
+{
+"d": "2026-11-21T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Sinisgalli: un poeta ingegnere e il cane a sei zampe",
+"u": "https://www.doppiozero.com/sinisgalli-un-poeta-ingegnere-e-il-cane-sei-zampe"
+},
+{
+"d": "2026-11-21T01:54:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Meet the Teenage Engineering EP/BC-1 CD player",
+"u": "https://www.wallpaper.com/tech/compact-disc-gets-the-te-treatment-meet-the-teenage-engineering-ep-bc-1-cd-player"
 },
 {
 "d": "2026-11-21T01:00:50Z",
@@ -48,48 +400,15 @@ window.CALCO = {
 "u": "https://www.elespanol.com/el-cultural/arte/20261121/maquinas-eligieran-morir-artista-luis-camnitzer-lleva-ias-limite-exposicion-filosofia-esoterismo/1003744449416_0.html"
 },
 {
-"d": "2026-11-21T01:00:43Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "In a Sydney gallery, Philippe Parreno’s art is powered by a desert 17,000km away",
-"u": "https://www.theguardian.com/artanddesign/2026/nov/21/in-a-sydney-gallery-philippe-parrenos-art-is-powered-by-a-desert-17000km-away"
-},
-{
-"d": "2026-11-21T00:34:33Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Demonstrationen: Festnahmen und fliegende Flaschen nach Jugendprotesten",
-"u": "https://www.zeit.de/news/2026-11/21/festnahmen-und-fliegende-flaschen-nach-jugendprotesten"
-},
-{
-"d": "2026-11-21T00:02:52Z",
+"d": "2026-11-21T00:03:09Z",
 "s": "UnHerd",
 "l": "en",
 "t": [
 "europa",
 "ideas"
 ],
-"h": "Why tech bros disdain humanity",
-"u": "https://unherd.com/2026/11/why-tech-bros-disdain-humanity/?edition=us"
-},
-{
-"d": "2026-11-21T00:00:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Fernando Fernán Gómez, actor: \"En una compañía de teatro, dos o tres serían homosexuales. Se vivía en un régimen de amor libre y de moral, no digamos progresista, sino auténtica\"",
-"u": "https://www.elconfidencial.com/cultura/2026-11-21/fernando-fernan-gomez-compania-teatro-amor-homosexual-1qrt_4468534/"
+"h": "God save us from King William",
+"u": "https://unherd.com/2026/11/god-save-us-from-king-william/?edition=us"
 },
 {
 "d": "2026-11-20T23:51:17Z",
@@ -103,39 +422,6 @@ window.CALCO = {
 "u": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/"
 },
 {
-"d": "2026-11-20T23:45:25Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "A salute to healthy growing",
-"u": "https://thecritic.co.uk/issues/november-2026/a-salute-to-healthy-growing/"
-},
-{
-"d": "2026-11-20T23:11:03Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "21 de noviembre de 1936: En el frente de Aravaca",
-"u": "https://www.zendalibros.com/21-de-noviembre-de-1936-en-el-frente-de-aravaca/"
-},
-{
-"d": "2026-11-20T23:09:36Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La madre de todas las lenguas",
-"u": "https://www.lavanguardia.com/cultura/20261121/11689692/madre-todas-lenguas.html"
-},
-{
 "d": "2026-11-20T23:08:15Z",
 "s": "il manifesto",
 "l": "it",
@@ -145,17 +431,6 @@ window.CALCO = {
 ],
 "h": "Austerità e riarmo, in Gran Bretagna la protesta dei «Socialist Students»",
 "u": "https://ilmanifesto.it/austerita-e-riarmo-in-gran-bretagna-la-protesta-dei-socialist-students"
-},
-{
-"d": "2026-11-20T23:07:15Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "The Look-at-Me Spectacle of Actors Playing Actors in “Elsinore” and “I Play Rocky”",
-"u": "https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky"
 },
 {
 "d": "2026-11-20T23:01:00Z",
@@ -169,6 +444,17 @@ window.CALCO = {
 "u": "https://www.lamarea.com/2026/11/21/manuel-delgado-entrevista/"
 },
 {
+"d": "2026-11-20T23:00:59Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Entretien avec Vincent Pélissier : les exigences de Fario",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-vincent-pelissier-des-editions-fario/"
+},
+{
 "d": "2026-11-20T23:00:54Z",
 "s": "En attendant Nadeau",
 "l": "fr",
@@ -176,7 +462,7 @@ window.CALCO = {
 "europa",
 "letras"
 ],
-"h": "Entretien avec Christian Robert, des éditions Au vent des îles",
+"h": "Entretien avec Christian Robert : Au vent des îles",
 "u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-christian-robert-des-editions-au-vent-des-iles/"
 },
 {
@@ -235,6 +521,17 @@ window.CALCO = {
 "u": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
 },
 {
+"d": "2026-11-20T20:35:10Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "ORA PRO NOBIS, PRIMERA EXPOSICIÓN INDIVIDUAL DE PAULO NAZARETH EN ESPAÑA",
+"u": "https://artishockrevista.com/2026/11/20/paulo-nazareth-en-espana/"
+},
+{
 "d": "2026-11-20T20:12:51Z",
 "s": "404 Media",
 "l": "en",
@@ -244,28 +541,6 @@ window.CALCO = {
 ],
 "h": "Podcast: I Spoke to an AI Fraud Kingpin",
 "u": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/"
-},
-{
-"d": "2026-11-20T19:53:40Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Curro Romero, ingresado de nuevo en un hospital de Sevilla por una infección respiratoria",
-"u": "https://www.elmundo.es/cultura/toros/2026/11/20/6b00a2f1fc6c83ef568b459b.html"
-},
-{
-"d": "2026-11-20T19:24:41Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Une information judiciaire ouverte contre Gérard Depardieu et Michel Houellebecq, accusés de viol en réunion et d’agressions sexuelles lors d’un tournage",
-"u": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html"
 },
 {
 "d": "2026-11-20T19:09:57Z",
@@ -290,17 +565,6 @@ window.CALCO = {
 "u": "https://taz.de/Film-von-Florentina-Holzinger-im-Kino/!6223590/"
 },
 {
-"d": "2026-11-20T18:51:28Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Vor Präsidentschaftswahl: Frankreichs Influencer sollen sich an neue Vorschriften halten",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/frankreichs-medienaufsicht-macht-influencern-vorschriften-201702254.html"
-},
-{
 "d": "2026-11-20T18:27:00Z",
 "s": "Dazed",
 "l": "en",
@@ -320,28 +584,6 @@ window.CALCO = {
 ],
 "h": "The most misunderstood graph in AI just got a major update",
 "u": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-},
-{
-"d": "2026-11-20T18:00:11Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Comprendre le féminicide par vicariance, une manière de faire souffrir les femmes à vie en détruisant leurs proches",
-"u": "https://www.lemonde.fr/idees/article/2026/11/20/comprendre-le-feminicide-par-vicariance-une-maniere-de-faire-souffrir-les-femmes-a-vie-en-detruisant-leurs-proches_6813687_3232.html"
-},
-{
-"d": "2026-11-20T18:00:00Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Xi Jinping a-t-il rendu son pouvoir éternel ?",
-"u": "https://legrandcontinent.eu/fr/2026/11/20/xi-jinping-a-t-il-rendu-son-pouvoireternel/"
 },
 {
 "d": "2026-11-20T17:47:59Z",
@@ -366,17 +608,6 @@ window.CALCO = {
 ],
 "h": "Voy viviendo ya de tus mentiras",
 "u": "https://letraslibres.com/cultura/voy-viviendo-ya-de-tus-mentiras/20/11/2026/"
-},
-{
-"d": "2026-11-20T17:03:17Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Hans Baldung Grien, un maestro de la mirada, el cuerpo y la muerte a la sombra de Durero",
-"u": "https://elpais.com/cultura/2026-11-20/hans-baldung-grien-un-maestro-de-la-mirada-el-cuerpo-y-la-muerte-a-la-sombra-de-durero.html"
 },
 {
 "d": "2026-11-20T17:00:00Z",
@@ -434,17 +665,6 @@ window.CALCO = {
 "u": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/"
 },
 {
-"d": "2026-11-20T16:00:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
-"u": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/"
-},
-{
 "d": "2026-11-20T15:51:40Z",
 "s": "Noema",
 "l": "en",
@@ -454,17 +674,6 @@ window.CALCO = {
 ],
 "h": "The Shenzhen Summit Supplants Yalta",
 "u": "https://www.noemamag.com/the-shenzhen-summit-supplants-yalta"
-},
-{
-"d": "2026-11-20T15:30:00Z",
-"s": "Le Figaro",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "La Fierté de la famille, de Philipp Oehmke : une comédie acide dans laquelle des bien-pensants sont malmenés par des militants woke",
-"u": "https://www.lefigaro.fr/livres/la-fierte-de-la-famille-de-philipp-oehmke-une-comedie-acide-dans-laquelle-des-bien-pensants-sont-malmenes-par-des-militants-woke-20261120"
 },
 {
 "d": "2026-11-20T15:28:00Z",
@@ -477,39 +686,6 @@ window.CALCO = {
 ],
 "h": "Los brutos contra la democracia",
 "u": "https://letraslibres.com/libros/los-brutos-contra-la-democracia/20/11/2026/"
-},
-{
-"d": "2026-11-20T14:54:30Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Can British ports help deliver economic growth?",
-"u": "https://www.newstatesman.com/sponsored/economic-growth-sponsored/2026/11/can-british-ports-help-deliver-economic-growth"
-},
-{
-"d": "2026-11-20T14:39:19Z",
-"s": "Revista Crisis",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "La gran risotada del mundo",
-"u": "https://revistacrisis.com.ar/notas/la-gran-risotada-del-mundo/"
-},
-{
-"d": "2026-11-20T14:16:28Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "SRF-Moderator David Karasek im Visier: Er soll SP-Präsident Cédric Wermuth zu hart, einen Islamismuskritiker zu sanft interviewt haben",
-"u": "https://www.nzz.ch/feuilleton/medien/srf-moderator-david-karasek-im-visier-er-soll-sp-praesident-cedric-wermuth-zu-hart-einen-islamismuskritiker-zu-sanft-interviewt-haben-ld.10069784"
 },
 {
 "d": "2026-11-20T13:15:00Z",
@@ -531,61 +707,6 @@ window.CALCO = {
 ],
 "h": "Decency and Tradition: Colm Tóibín on Thomas Mann and Fatherland",
 "u": "https://www.theparisreview.org/blog/2026/11/20/fatherland-colm-toibin-on-thomas-mann/"
-},
-{
-"d": "2026-11-20T12:51:23Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Las críticas de teatro de la semana: la represión de los estudiantes no normativos, el amor filial de Gary y el mejor Cirque du Soleil",
-"u": "https://elpais.com/babelia/2026-11-20/las-criticas-de-teatro-de-la-semana-la-represion-de-los-estudiantes-no-normativos-el-amor-filial-de-gary-y-el-mejor-cirque-du-soleil.html"
-},
-{
-"d": "2026-11-20T12:48:31Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘Mantener fuera del alcance de los niños’: una venganza sin furia",
-"u": "https://elpais.com/babelia/2026-11-20/mantener-fuera-del-alcance-de-los-ninos-una-venganza-sin-furia.html"
-},
-{
-"d": "2026-11-20T12:48:14Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘La promesa de l’alba’: amor de madre",
-"u": "https://elpais.com/babelia/2026-11-20/la-promesa-de-lalba-amor-de-madre.html"
-},
-{
-"d": "2026-11-20T12:47:47Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘Kurios. Gabinete de curiosidades’: fulgor y vértigo del Cirque du Soleil",
-"u": "https://elpais.com/babelia/2026-11-20/kurios-gabinete-de-curiosidades-fulgor-y-vertigo-del-cirque-du-soleil.html"
-},
-{
-"d": "2026-11-20T12:04:08Z",
-"s": "The Common Reader",
-"l": "en",
-"t": [
-"europa",
-"letras"
-],
-"h": "Read Paradise Lost in 2027",
-"u": "https://www.commonreader.co.uk/p/read-paradise-lost-in-2027"
 },
 {
 "d": "2026-11-20T11:34:53Z",
@@ -697,72 +818,6 @@ window.CALCO = {
 "u": "https://diacritik.com/2026/11/20/virginie-poitrasson-quand-lamour-deborde-le-livre-des-debords/"
 },
 {
-"d": "2026-11-20T06:00:25Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El muy europeo arte de batirse en duelo por una rabieta",
-"u": "https://www.jotdown.es/2026/11/europeo-arte-batirse-en-duelo-rabieta/"
-},
-{
-"d": "2026-11-20T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "La Roux descubre los años noventa",
-"u": "https://elpais.com/babelia/2026-11-20/la-roux-descubre-los-anos-noventa.html"
-},
-{
-"d": "2026-11-20T04:25:00Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Almudena Grandes, escritora española: «Las personas felices son las que, en lugar de esperar a tenerlo todo, luchan por la vida que quieren y no dejan que nada les robe la alegría»",
-"u": "https://theobjective.com/lifestyle/2026-11-20/almudena-grandes-escritora-sobre-la-felicidad-no-esperes-a-tenerlo-todo-para-ser-feliz-lucha-por-la-vida-que-quieres-disfruta-de-las-pequenas-cosas-y-no-dejes-que-nada-te-robe-la-alegria/"
-},
-{
-"d": "2026-11-20T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Hayao Miyazaki si racconta",
-"u": "https://www.doppiozero.com/hayao-miyazaki-si-racconta"
-},
-{
-"d": "2026-11-20T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Tash Aw, intervista dalla Malesia",
-"u": "https://www.doppiozero.com/tash-aw-intervista-dalla-malesia"
-},
-{
-"d": "2026-11-20T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Civica: la tragedia del perdono",
-"u": "https://www.doppiozero.com/civica-la-tragedia-del-perdono"
-},
-{
 "d": "2026-11-20T01:37:44Z",
 "s": "Platformer",
 "l": "en",
@@ -826,61 +881,6 @@ window.CALCO = {
 ],
 "h": "The Rise and Fall of the Union Steward",
 "u": "https://www.nplusonemag.com/online-only/online-only/the-rise-and-fall-of-the-union-steward/"
-},
-{
-"d": "2026-11-19T17:00:42Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "La controverse Descola-Latour et l’avenir du naturalisme",
-"u": "https://aoc.media/analyse/2026/11/19/la-controverse-descola-latour-et-lavenir-du-naturalisme/"
-},
-{
-"d": "2026-11-19T17:00:11Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "La doublure du temps – sur Everytime de Sandra Wollner",
-"u": "https://aoc.media/critique/2026/11/19/la-doublure-du-temps-sur-everytime-de-sandra-wollner/"
-},
-{
-"d": "2026-11-19T16:04:28Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
-"letras"
-],
-"h": "Herramientas/Yiyi",
-"u": "https://www.revistaotraparte.com/literatura-argentina/herramientas-yiyi/?utm_source=rss&utm_medium=rss&utm_campaign=herramientas-yiyi"
-},
-{
-"d": "2026-11-19T16:03:00Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
-"letras"
-],
-"h": "República",
-"u": "https://www.revistaotraparte.com/arte/republica/?utm_source=rss&utm_medium=rss&utm_campaign=republica"
-},
-{
-"d": "2026-11-19T16:02:57Z",
-"s": "Otra Parte",
-"l": "es",
-"t": [
-"latam",
-"letras"
-],
-"h": "Historias de animales",
-"u": "https://www.revistaotraparte.com/otras-literaturas/historias-de-animales/?utm_source=rss&utm_medium=rss&utm_campaign=historias-de-animales"
 }
 ]
 };

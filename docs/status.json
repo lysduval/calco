@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 8
+  "recientes": 12
  },
  {
   "n": "El País",
@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 36,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "El País",
@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 20
+  "recientes": 21
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "Kaminker",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Jot Down",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 11
  },
  {
   "n": "ABC Cultura",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 54,
-  "recientes": 23
+  "recientes": 21
  },
  {
   "n": "El Cultural",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 42
+  "recientes": 51
  },
  {
   "n": "El Confidencial",
@@ -180,8 +180,8 @@
   "u": "https://revistacrisis.com.ar/feed/",
   "ok": true,
   "error": null,
-  "entradas": 1894,
-  "recientes": 1
+  "entradas": 1897,
+  "recientes": 4
  },
  {
   "n": "Nexos",
@@ -235,7 +235,7 @@
   "n": "Esteban Schmidt",
   "u": "https://estebanschmidt.substack.com/feed",
   "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": "HTTPError: HTTP Error 400: Bad Request",
   "entradas": 0,
   "recientes": 0
  },
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "lundimatin",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 7
  },
  {
   "n": "Le Monde",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 26
+  "recientes": 25
  },
  {
   "n": "NZZ",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "taz",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 9
+  "recientes": 6
  },
  {
   "n": "Il Post",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 27,
-  "recientes": 6
+  "recientes": 5
  },
  {
   "n": "The Guardian",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 16
+  "recientes": 15
  },
  {
   "n": "ArtReview",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 24
+  "recientes": 25
  },
  {
   "n": "The New Yorker",
@@ -698,26 +698,26 @@
  {
   "n": "Counter Craft",
   "u": "https://countercraft.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
+  "ok": true,
+  "error": null,
+  "entradas": 20,
   "recientes": 0
  },
  {
   "n": "Embedded",
   "u": "https://embedded.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 2
  },
  {
   "n": "Clone",
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 12,
-  "recientes": 8
+  "entradas": 13,
+  "recientes": 9
  },
  {
   "n": "Ars Technica",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 17
+  "recientes": 11
  }
 ]
