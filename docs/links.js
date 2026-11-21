@@ -1,31 +1,239 @@
 window.CALCO = {
-"updated": "2026-11-20T20:14:22Z",
+"updated": "2026-11-21T01:32:13Z",
 "tops": [
 {
-"d": "2026-11-20T17:47:59Z",
-"s": "Letras Libres",
+"d": "2026-11-20T23:00:59Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Entretien avec Vincent Pélissier : les exigences de Fario",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-vincent-pelissier-des-editions-fario/"
+},
+{
+"d": "2026-11-20T20:35:10Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "ORA PRO NOBIS, PRIMERA EXPOSICIÓN INDIVIDUAL DE PAULO NAZARETH EN ESPAÑA",
+"u": "https://artishockrevista.com/2026/11/20/paulo-nazareth-en-espana/"
+}
+],
+"links": [
+{
+"d": "2026-11-21T01:12:24Z",
+"s": "ABC Cultura",
 "l": "es",
 "t": [
 "es",
-"latam",
-"ideas"
+"letras"
 ],
-"h": "La apuesta haitiana de Bukele",
-"u": "https://letraslibres.com/politica/la-apuesta-haitiana-de-bukele/20/11/2026/"
+"h": "El infarto de Josep Pla, contado sin censura: «El fumar y el whisky son elementos indispensables de mi trabajo»",
+"u": "https://www.abc.es/cultura/libros/infarto-cambio-vida-josep-pla-contado-censura-20261119021223-nt.html"
 },
 {
-"d": "2026-11-20T17:00:00Z",
-"s": "AOC",
-"l": "fr",
+"d": "2026-11-21T01:00:50Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "¿Y si las máquinas eligieran morir? El artista Luis Camnitzer lleva las IAs al límite en una exposición entre la filosofía y el esoterismo",
+"u": "https://www.elespanol.com/el-cultural/arte/20261121/maquinas-eligieran-morir-artista-luis-camnitzer-lleva-ias-limite-exposicion-filosofia-esoterismo/1003744449416_0.html"
+},
+{
+"d": "2026-11-21T01:00:43Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "In a Sydney gallery, Philippe Parreno’s art is powered by a desert 17,000km away",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/21/in-a-sydney-gallery-philippe-parrenos-art-is-powered-by-a-desert-17000km-away"
+},
+{
+"d": "2026-11-21T00:34:33Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Demonstrationen: Festnahmen und fliegende Flaschen nach Jugendprotesten",
+"u": "https://www.zeit.de/news/2026-11/21/festnahmen-und-fliegende-flaschen-nach-jugendprotesten"
+},
+{
+"d": "2026-11-21T00:02:52Z",
+"s": "UnHerd",
+"l": "en",
 "t": [
 "europa",
 "ideas"
 ],
-"h": "Cy Lecerf Maulpoix : « Le fascisme, lui aussi, réclame la merde »",
-"u": "https://aoc.media/entretien/2026/11/20/cy-lecerf-maulpoix-le-fascisme-lui-aussi-reclame-la-merde/"
-}
+"h": "Why tech bros disdain humanity",
+"u": "https://unherd.com/2026/11/why-tech-bros-disdain-humanity/?edition=us"
+},
+{
+"d": "2026-11-21T00:00:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
 ],
-"links": [
+"h": "Fernando Fernán Gómez, actor: \"En una compañía de teatro, dos o tres serían homosexuales. Se vivía en un régimen de amor libre y de moral, no digamos progresista, sino auténtica\"",
+"u": "https://www.elconfidencial.com/cultura/2026-11-21/fernando-fernan-gomez-compania-teatro-amor-homosexual-1qrt_4468534/"
+},
+{
+"d": "2026-11-20T23:51:17Z",
+"s": "Hyperallergic",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Is GTA VI the Art Miami Deserves?",
+"u": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/"
+},
+{
+"d": "2026-11-20T23:45:25Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "A salute to healthy growing",
+"u": "https://thecritic.co.uk/issues/november-2026/a-salute-to-healthy-growing/"
+},
+{
+"d": "2026-11-20T23:11:03Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "21 de noviembre de 1936: En el frente de Aravaca",
+"u": "https://www.zendalibros.com/21-de-noviembre-de-1936-en-el-frente-de-aravaca/"
+},
+{
+"d": "2026-11-20T23:09:36Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La madre de todas las lenguas",
+"u": "https://www.lavanguardia.com/cultura/20261121/11689692/madre-todas-lenguas.html"
+},
+{
+"d": "2026-11-20T23:08:15Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Austerità e riarmo, in Gran Bretagna la protesta dei «Socialist Students»",
+"u": "https://ilmanifesto.it/austerita-e-riarmo-in-gran-bretagna-la-protesta-dei-socialist-students"
+},
+{
+"d": "2026-11-20T23:07:15Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "The Look-at-Me Spectacle of Actors Playing Actors in “Elsinore” and “I Play Rocky”",
+"u": "https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky"
+},
+{
+"d": "2026-11-20T23:01:00Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Manuel Delgado: “Si es posible acabar con el capitalismo, a mí ya me haría ilusión”",
+"u": "https://www.lamarea.com/2026/11/21/manuel-delgado-entrevista/"
+},
+{
+"d": "2026-11-20T23:00:54Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Entretien avec Christian Robert, des éditions Au vent des îles",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-christian-robert-des-editions-au-vent-des-iles/"
+},
+{
+"d": "2026-11-20T23:00:17Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Fario, trois auteurs",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/21/fario-trois-auteurs/"
+},
+{
+"d": "2026-11-20T22:28:24Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Trump FCC declares California isn't allowed to enforce phone service rules",
+"u": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+},
+{
+"d": "2026-11-20T22:18:37Z",
+"s": "Artforum",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "European Countries Demand Russia’s Exclusion from Venice Architecture Biennale",
+"u": "https://www.artforum.com/news/no-russian-venice-architecture-biennale-1234763974/"
+},
+{
+"d": "2026-11-20T21:14:56Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Amazon Is Ratcheting Up Its Fight With NYC Delivery Drivers",
+"u": "https://jacobin.com/2026/11/amazon-dsps-drivers-nyc-council"
+},
+{
+"d": "2026-11-20T20:43:52Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+"u": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+},
 {
 "d": "2026-11-20T20:12:51Z",
 "s": "404 Media",
@@ -38,59 +246,15 @@ window.CALCO = {
 "u": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/"
 },
 {
-"d": "2026-11-20T19:55:10Z",
-"s": "Die Zeit",
-"l": "de",
+"d": "2026-11-20T19:53:40Z",
+"s": "El Mundo",
+"l": "es",
 "t": [
-"europa",
+"es",
 "arte"
 ],
-"h": "Demonstrationen: Proteste bleiben friedlich - Weniger Teilnehmer als erwartet",
-"u": "https://www.zeit.de/news/2026-11/20/proteste-bleiben-friedlich-weniger-teilnehmer-als-erwartet"
-},
-{
-"d": "2026-11-20T19:52:59Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-"u": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
-},
-{
-"d": "2026-11-20T19:42:28Z",
-"s": "Hyperallergic",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
-"u": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/"
-},
-{
-"d": "2026-11-20T19:35:27Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "The week around the world in 20 pictures",
-"u": "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/the-week-around-the-world-in-20-pictures"
-},
-{
-"d": "2026-11-20T19:31:05Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "The Jensen Huang Scandal: A Gift to China Hawks and AI Giants",
-"u": "https://jacobin.com/2026/11/huang-scandal-tech-ai-china-hawks"
+"h": "Curro Romero, ingresado de nuevo en un hospital de Sevilla por una infección respiratoria",
+"u": "https://www.elmundo.es/cultura/toros/2026/11/20/6b00a2f1fc6c83ef568b459b.html"
 },
 {
 "d": "2026-11-20T19:24:41Z",
@@ -104,28 +268,6 @@ window.CALCO = {
 "u": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html"
 },
 {
-"d": "2026-11-20T19:20:14Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Una lezione di meraviglia",
-"u": "https://ilmanifesto.it/una-lezione-di-meraviglia"
-},
-{
-"d": "2026-11-20T19:15:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-"u": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale"
-},
-{
 "d": "2026-11-20T19:09:57Z",
 "s": "Stratechery",
 "l": "en",
@@ -135,17 +277,6 @@ window.CALCO = {
 ],
 "h": "2026.47: Down in DC",
 "u": "https://stratechery.com/2026/down-in-dc/"
-},
-{
-"d": "2026-11-20T19:00:00Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "A Meeting with Venezuela’s Delcy Rodríguez",
-"u": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/a-meeting-with-venezuelas-delcy-rodriguez"
 },
 {
 "d": "2026-11-20T18:54:00Z",
@@ -213,6 +344,18 @@ window.CALCO = {
 "u": "https://legrandcontinent.eu/fr/2026/11/20/xi-jinping-a-t-il-rendu-son-pouvoireternel/"
 },
 {
+"d": "2026-11-20T17:47:59Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "La apuesta haitiana de Bukele",
+"u": "https://letraslibres.com/politica/la-apuesta-haitiana-de-bukele/20/11/2026/"
+},
+{
 "d": "2026-11-20T17:07:00Z",
 "s": "Letras Libres",
 "l": "es",
@@ -236,26 +379,15 @@ window.CALCO = {
 "u": "https://elpais.com/cultura/2026-11-20/hans-baldung-grien-un-maestro-de-la-mirada-el-cuerpo-y-la-muerte-a-la-sombra-de-durero.html"
 },
 {
-"d": "2026-11-20T17:00:22Z",
-"s": "ABC Cultura",
-"l": "es",
+"d": "2026-11-20T17:00:00Z",
+"s": "AOC",
+"l": "fr",
 "t": [
-"es",
-"letras"
+"europa",
+"ideas"
 ],
-"h": "Andrea Proenza y el deseo robado: «Idealizamos el amor de nuestros abuelos sin preguntarnos cómo era de verdad»",
-"u": "https://www.abc.es/cultura/libros/andrea-proenza-deseo-robado-idealizamos-amor-abuelos-20261113180022-nt.html"
-},
-{
-"d": "2026-11-20T16:49:33Z",
-"s": "Artforum",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "San Diego Announces New Contemporary Art Museum, The Strauss",
-"u": "https://www.artforum.com/news/san-diego-announces-new-contemporary-art-museum-1234763958/"
+"h": "Cy Lecerf Maulpoix : « Le fascisme, lui aussi, réclame la merde »",
+"u": "https://aoc.media/entretien/2026/11/20/cy-lecerf-maulpoix-le-fascisme-lui-aussi-reclame-la-merde/"
 },
 {
 "d": "2026-11-20T16:46:43Z",
@@ -278,17 +410,6 @@ window.CALCO = {
 ],
 "h": "Gérard Depardieu e Michel Houellebecq sono stati accusati da un’attrice di violenza sessuale sul set di un film del 2018",
 "u": "https://www.ilpost.it/2026/11/20/gerard-depardieu-michel-houellebecq-accuse-stupro-di-gruppo-attrice-francia-indagini/"
-},
-{
-"d": "2026-11-20T16:14:25Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Mary Halvorson Canis Major (★★★✩✩), estrella refulgente",
-"u": "https://www.lavanguardia.com/cultura/20261120/11689367/mary-halvorson-canis-major-estrella-refulgente.html"
 },
 {
 "d": "2026-11-20T16:10:36Z",
@@ -356,28 +477,6 @@ window.CALCO = {
 ],
 "h": "Los brutos contra la democracia",
 "u": "https://letraslibres.com/libros/los-brutos-contra-la-democracia/20/11/2026/"
-},
-{
-"d": "2026-11-20T15:22:03Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Who controls China?",
-"u": "https://thecritic.co.uk/who-controls-china/"
-},
-{
-"d": "2026-11-20T14:58:50Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Movilización ante el vértigo de datos: la publicación de un Real Decreto mínimo pero vital",
-"u": "https://www.lamarea.com/2026/11/20/real-decreto-minimo-pero-vital/"
 },
 {
 "d": "2026-11-20T14:54:30Z",
@@ -521,17 +620,6 @@ window.CALCO = {
 "u": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
 },
 {
-"d": "2026-11-20T10:39:54Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "La RAE viaja a la Mezquita-Catedral de Córdoba para homenajear a Góngora y la historia literaria de la ciudad",
-"u": "https://www.elespanol.com/el-cultural/letras/20261120/rae-viaja-mezquita-catedral-cordoba-homenajear-gongora-historia-literaria-ciudad/1003744465919_0.html"
-},
-{
 "d": "2026-11-20T10:11:08Z",
 "s": "Eurozine",
 "l": "en",
@@ -587,17 +675,6 @@ window.CALCO = {
 "u": "https://engelsbergideas.com/essays/the-place-of-beauty/"
 },
 {
-"d": "2026-11-20T08:24:46Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Los libros de los amigos se compran, pero no se leen",
-"u": "https://www.elmundo.es/cultura/2026/11/20/6afda9c0fc6c8351708b458d.html"
-},
-{
 "d": "2026-11-20T06:00:59Z",
 "s": "Diacritik",
 "l": "fr",
@@ -640,17 +717,6 @@ window.CALCO = {
 ],
 "h": "La Roux descubre los años noventa",
 "u": "https://elpais.com/babelia/2026-11-20/la-roux-descubre-los-anos-noventa.html"
-},
-{
-"d": "2026-11-20T04:25:17Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Mariana Enriquez: “Leer es mi ocupación favorita”",
-"u": "https://www.zendalibros.com/mariana-enriquez-leer-es-mi-ocupacion-favorita/"
 },
 {
 "d": "2026-11-20T04:25:00Z",
@@ -719,17 +785,6 @@ window.CALCO = {
 "u": "https://artishockrevista.com/2026/11/19/erik-tlaseca-y-wynnie-mynerva-entranas/"
 },
 {
-"d": "2026-11-20T00:04:41Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Effective Altruism’s big payday",
-"u": "https://unherd.com/2026/11/here-come-the-anthropic-billionaires/?edition=us"
-},
-{
 "d": "2026-11-20T00:00:00Z",
 "s": "Sidecar (New Left Review)",
 "l": "en",
@@ -760,17 +815,6 @@ window.CALCO = {
 ],
 "h": "The Geography of the Imagination",
 "u": "https://www.equator.org/articles/the-geography-of-the-imagination-anedda"
-},
-{
-"d": "2026-11-19T23:00:00Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Les broderies de l’écriture",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/20/les-broderies-de-lecriture/"
 },
 {
 "d": "2026-11-19T17:32:56Z",
@@ -837,49 +881,6 @@ window.CALCO = {
 ],
 "h": "Historias de animales",
 "u": "https://www.revistaotraparte.com/otras-literaturas/historias-de-animales/?utm_source=rss&utm_medium=rss&utm_campaign=historias-de-animales"
-},
-{
-"d": "2026-11-19T14:09:41Z",
-"s": "Eurozine",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "A political system’s violent death throes",
-"u": "https://www.eurozine.com/a-political-systems-violent-death-throes/?utm_source=rss&utm_medium=rss&utm_campaign=a-political-systems-violent-death-throes"
-},
-{
-"d": "2026-11-19T11:00:00Z",
-"s": "Rest of World",
-"l": "en",
-"t": [
-"tech"
-],
-"h": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
-"u": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-},
-{
-"d": "2026-11-19T06:01:32Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "Farméame ésta",
-"u": "https://cultura.nexos.com.mx/farmeame-esta/"
-},
-{
-"d": "2026-11-19T06:00:25Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Lénaïg Cariou : « un jour les mots / se sont écoulés d’un coup sans / prévenir » (Les dires)",
-"u": "https://diacritik.com/2026/11/19/lenaig-cariou-un-jour-les-mots-se-sont-ecoules-dun-coup-sans-prevenir-les-dires/"
 }
 ]
 };

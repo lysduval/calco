@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 21
+  "recientes": 20
  },
  {
   "n": "El País",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 53,
-  "recientes": 17
+  "entradas": 54,
+  "recientes": 23
  },
  {
   "n": "El Cultural",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 40
+  "recientes": 42
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 15
  },
  {
   "n": "Seúl",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Revista Crisis",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 2
+  "recientes": 4
  },
  {
   "n": "Diacritik",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 47,
-  "recientes": 28
+  "recientes": 26
  },
  {
   "n": "NZZ",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 15
  },
  {
   "n": "taz",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 11
+  "recientes": 13
  },
  {
   "n": "New Statesman",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Eurozine",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "The Critic",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 23
+  "recientes": 24
  },
  {
   "n": "The New Yorker",
@@ -716,7 +716,7 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 15,
+  "entradas": 12,
   "recientes": 8
  },
  {
