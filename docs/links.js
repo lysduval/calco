@@ -1,6 +1,239 @@
 window.CALCO = {
-"updated": "2026-11-21T17:29:27Z",
+"updated": "2026-11-21T23:13:10Z",
 "tops": [
+{
+"d": "2026-11-21T20:57:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Pampa de l’Argentin Eduardo F. Varela.",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/21/pampa-de-largentin-eduardo-f-varela/"
+},
+{
+"d": "2026-11-21T17:42:32Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "CONSTANZA HERMOSILLA: SISTEMA PÚBLICO DE FLUIDOS. CUERPOS QUE SE ENSAMBLAN PARA IMAGINAR",
+"u": "https://artishockrevista.com/2026/11/21/constanza-hermosilla-sistema-publico-de-fluidos/"
+}
+],
+"links": [
+{
+"d": "2026-11-21T23:11:58Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "22 de noviembre de 1936: El entierro de Durruti",
+"u": "https://www.zendalibros.com/22-de-noviembre-de-1936-el-entierro-de-durruti/"
+},
+{
+"d": "2026-11-21T23:08:28Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Regierungsbildung in Israel: Gadi Eisenkot sondiert Koalition mit rechter Likud-Partei",
+"u": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu"
+},
+{
+"d": "2026-11-21T23:06:59Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "De Gennaro, vita e morte dello sbirro che divenne squalo",
+"u": "https://ilmanifesto.it/de-gennaro-vita-e-morte-dello-sbirro-che-divenne-squalo"
+},
+{
+"d": "2026-11-21T23:00:00Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Algoritmos: luego diremos que no sabíamos nada",
+"u": "https://www.lavanguardia.com/cultura/20261122/11689894/candy-crush-joana-moll-santa-monica-cookies-arte-anthropic.html"
+},
+{
+"d": "2026-11-21T22:12:41Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+"u": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+},
+{
+"d": "2026-11-21T22:10:20Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Raphael suspende un concierto en La Coruña por una indisposición a minutos de comenzar",
+"u": "https://www.abc.es/cultura/musica/raphael-suspende-concierto-coruna-indisposicion-minutos-comenzar-20261121221410-nt.html"
+},
+{
+"d": "2026-11-21T22:00:22Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El Teatro Real se corona como mejor teatro de ópera del mundo en los International Opera Awards 2026",
+"u": "https://www.elmundo.es/cultura/musica/2026/11/21/6b019003fdddff36768b456d.html"
+},
+{
+"d": "2026-11-21T21:59:31Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Amazon is complaining about NYC Council on shipping labels, too",
+"u": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+},
+{
+"d": "2026-11-21T21:46:34Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Raphael suspende un concierto en A Coruña a última hora por una indisposición",
+"u": "https://elpais.com/cultura/2026-11-21/raphael-suspende-un-concierto-en-a-coruna-a-ultima-hora-por-una-indisposicion.html"
+},
+{
+"d": "2026-11-21T21:18:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Raphael suspende su concierto en A Coruña a 30 minutos del inicio tras sufrir una subida de tensión y taquicardias",
+"u": "https://www.elconfidencial.com/cultura/2026-11-21/raphael-suspende-concierto-coruna-hospital-1tps_4469978/"
+},
+{
+"d": "2026-11-21T19:19:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Neuer Roman von Daniel Kehlmann: Diesseits von Afrika",
+"u": "https://taz.de/Neuer-Roman-von-Daniel-Kehlmann/!6223530/"
+},
+{
+"d": "2026-11-21T19:00:02Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "« Même si les démocrates américains enquêtent sur les malversations de Trump et ses proches, il ne se passera rien »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/21/meme-si-les-democrates-americains-enquetent-sur-les-malversations-de-trump-et-ses-proches-il-ne-se-passera-rien_6814061_3232.html"
+},
+{
+"d": "2026-11-21T18:59:10Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Wirtschaftsgeschichte: Kaum einer wollte den Kapitalismus – trotzdem setzte er sich durch",
+"u": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-die-welt-zur-ware-wurde-trevor-jackson-zur-geschichte-des-kapitalismus-201314097.html"
+},
+{
+"d": "2026-11-21T18:54:58Z",
+"s": "The Honest Broker",
+"l": "en",
+"t": [
+"eeuu",
+"arte"
+],
+"h": "Nine Lessons Hollywood Can Learn from Studio Ghibli",
+"u": "https://www.honest-broker.com/p/nine-lessons-hollywood-can-learn"
+},
+{
+"d": "2026-11-21T18:46:49Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "David Dinkins Wasn’t Loud Enough for New York City",
+"u": "https://jacobin.com/2026/11/review-dinkins-mayoralty-police-reform"
+},
+{
+"d": "2026-11-21T18:00:02Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle",
+"u": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html"
+},
+{
+"d": "2026-11-21T17:48:32Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Tres patas, o la extraña costumbre de decidir quién merece vivir",
+"u": "https://www.jotdown.es/2026/11/tres-patas-o-la-extrana-costumbre-de-decidir-quien-merece-vivir/"
+},
+{
+"d": "2026-11-21T17:30:00Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "The wreckage of cut-price Britain",
+"u": "https://www.newstatesman.com/podcasts/sketch-podcast/2026/11/the-wreckage-of-cut-price-britain"
+},
+{
+"d": "2026-11-21T17:26:36Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "MELDUNGEN KULTUR - Kunstsammler «Mick» Flick ist tot",
+"u": "https://www.nzz.ch/feuilleton/sandra-hueller-doppelt-fuer-europaeischen-filmpreis-nominiert-ld.10064027"
+},
 {
 "d": "2026-11-21T17:00:00Z",
 "s": "AOC",
@@ -11,52 +244,6 @@ window.CALCO = {
 ],
 "h": "Quelqu’un pleure",
 "u": "https://aoc.media/fiction/2026/11/21/quelquun-pleure/"
-},
-{
-"d": "2026-11-21T07:00:29Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "1996 / 2026 / 2056",
-"u": "https://seul.ar/1996-2026-2056/"
-}
-],
-"links": [
-{
-"d": "2026-11-21T17:18:21Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Bundesliga, 10. Spieltag – Samstag: Dortmund zieht an Tabellenspitze, Leipzig gewinnt torreich in Berlin",
-"u": "https://www.zeit.de/sport/2026-11/bundesliga-10-spieltag-bayer-leverkusen-paderborn-frankfurt-hoffenheim-union-berlin-leipzig-moenchengladbach-dortmund-elversberg-freiburg-schalke-stuttgart"
-},
-{
-"d": "2026-11-21T17:00:09Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Dans « Somnole » et « Muette », le chorégraphe Boris Charmatz met son corps à l’épreuve",
-"u": "https://www.lemonde.fr/culture/article/2026/11/21/dans-somnole-et-muette-le-choregraphe-boris-charmatz-met-son-corps-a-l-epreuve_6814048_3246.html"
-},
-{
-"d": "2026-11-21T16:59:56Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Neu im Kino: Mit John Turturro durch New York",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/john-turturro-spielt-the-only-pickpocket-in-new-yorck-accg-201637702.html"
 },
 {
 "d": "2026-11-21T16:57:28Z",
@@ -81,72 +268,6 @@ window.CALCO = {
 "u": "https://legrandcontinent.eu/fr/2026/11/21/la-russie-peut-elle-survivre-a-poutine/"
 },
 {
-"d": "2026-11-21T16:29:53Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Sulle manifestazioni a Praga per i media pubblici",
-"u": "https://ilmanifesto.it/sulle-manifestazioni-a-praga-per-i-media-pubblici"
-},
-{
-"d": "2026-11-21T16:23:44Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Inflation Is About Resources — and Power",
-"u": "https://jacobin.com/2026/11/inflation-austerity-oil-class-sweden"
-},
-{
-"d": "2026-11-21T16:00:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-"u": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview"
-},
-{
-"d": "2026-11-21T15:59:40Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Una productora teatral denuncia al Ayuntamiento de Pinto (PP) por cancelar “por motivos ideológicos” una obra inspirada en Lorca y otros cuatro montajes",
-"u": "https://elpais.com/cultura/2026-11-21/una-productora-teatral-denuncia-al-ayuntamiento-de-pinto-pp-de-cancelar-por-motivos-ideologicos-una-obra-inspirada-en-lorca-y-otros-cuatro-montajes.html"
-},
-{
-"d": "2026-11-21T15:25:22Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Carlos Hipólito, medio siglo sobre las tablas: «El escenario siempre te será fiel; la cámara, no»",
-"u": "https://www.abc.es/cultura/teatros/carlos-hipolito-das-pide-escenario-siempre-fiel-20261120144205-nt.html"
-},
-{
-"d": "2026-11-21T15:02:37Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Aquelarre 'Xirgu' (★★★★✩), en el Espai Lliure",
-"u": "https://www.lavanguardia.com/cultura/20261121/11689925/aquelarre-xirgu-espai-lliure.html"
-},
-{
 "d": "2026-11-21T15:00:00Z",
 "s": "Le Figaro",
 "l": "fr",
@@ -156,50 +277,6 @@ window.CALCO = {
 ],
 "h": "« Une maison sans chat est une maison morte » : l’académicien Frédéric Vitoux et l’art d’écrire avec des pattes de velours",
 "u": "https://www.lefigaro.fr/livres/une-maison-sans-chat-est-une-maison-morte-l-academicien-frederic-vitoux-et-l-art-d-ecrire-avec-des-pattes-de-velours-20261121"
-},
-{
-"d": "2026-11-21T14:43:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Por qué no paras de ver a los mismos actores en todas las películas, aunque no quieras",
-"u": "https://www.elconfidencial.com/cultura/2026-11-21/robert-pattinson-zendaya-florence-pugh_4467434/"
-},
-{
-"d": "2026-11-21T12:42:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Nachruf auf Detlef Kuhlbrodt: Der Feuilletonist des Alltags",
-"u": "https://taz.de/Nachruf-auf-Detlef-Kuhbrodt/!6232154/"
-},
-{
-"d": "2026-11-21T12:14:08Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "El PNV reabre la batalla para llevar el 'Guernica' a Bilbao en plena campaña para el 29-N: \"Debería estar ya en Euskadi en casa\"",
-"u": "https://www.elmundo.es/cultura/arte/2026/11/21/6b0186f0e85ece10568b4579.html"
-},
-{
-"d": "2026-11-21T12:01:13Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "“Race realism” isn’t realistic—and it isn’t good science",
-"u": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
 },
 {
 "d": "2026-11-21T12:00:00Z",
@@ -246,6 +323,17 @@ window.CALCO = {
 "u": "https://hyperallergic.com/hail-to-the-squash-king/"
 },
 {
+"d": "2026-11-21T10:29:46Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Milioni di persone stanno giocando a GTA VI, altri milioni le stanno guardando",
+"u": "https://www.ilpost.it/2026/11/21/gta-vi-dirette-gameplay/"
+},
+{
 "d": "2026-11-21T09:38:15Z",
 "s": "The Critic",
 "l": "en",
@@ -268,26 +356,15 @@ window.CALCO = {
 "u": "https://www.commonreader.co.uk/p/cs-lewis-as-a-great-reader"
 },
 {
-"d": "2026-11-21T07:00:47Z",
-"s": "Jot Down",
+"d": "2026-11-21T07:00:29Z",
+"s": "Seúl",
 "l": "es",
 "t": [
-"es",
+"latam",
 "ideas"
 ],
-"h": "La segunda vida de los animales perdidos",
-"u": "https://www.jotdown.es/2026/11/la-segunda-vida-de-los-animales-perdidos/"
-},
-{
-"d": "2026-11-21T06:30:00Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Nigel Farage’s tantrums won’t rescue Brexit",
-"u": "https://www.newstatesman.com/politics/brexit/2026/11/nigel-farages-tantrums-wont-rescue-brexit"
+"h": "1996 / 2026 / 2056",
+"u": "https://seul.ar/1996-2026-2056/"
 },
 {
 "d": "2026-11-21T06:01:19Z",
@@ -299,28 +376,6 @@ window.CALCO = {
 ],
 "h": "La vida al final",
 "u": "https://cultura.nexos.com.mx/la-vida-al-final/"
-},
-{
-"d": "2026-11-21T06:00:22Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Carlo Ossola, philologue : « Nous sommes des petits hommes sur les épaules de nos devanciers »",
-"u": "https://www.lemonde.fr/livres/article/2026/11/21/carlo-ossola-philologue-nous-sommes-des-petits-hommes-sur-les-epaules-de-nos-devanciers_6813949_3260.html"
-},
-{
-"d": "2026-11-21T06:00:09Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Javier Castillo: “Hoy cada estímulo es una distracción que nos aleja de la lectura”",
-"u": "https://www.zendalibros.com/javier-castillo-hoy-cada-estimulo-es-una-distraccion-que-nos-aleja-de-la-lectura/"
 },
 {
 "d": "2026-11-21T04:55:20Z",
@@ -409,17 +464,6 @@ window.CALCO = {
 ],
 "h": "40 años de la Feria del Libro de Guadalajara: de García Márquez a Richard Gere pasando por España como invitada de honor",
 "u": "https://elpais.com/babelia/2026-11-21/40-anos-de-la-feria-del-libro-de-guadalajara-de-garcia-marquez-a-richard-gere-pasando-por-espana-como-invitada-de-honor.html"
-},
-{
-"d": "2026-11-21T04:30:00Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Neben van Gogh triumphierte Modigliani auf den New Yorker Herbstauktionen",
-"u": "https://www.nzz.ch/feuilleton/kunst_architektur/neben-van-gogh-triumphierte-modigliani-auf-den-new-yorker-herbstauktionen-ld.10070357"
 },
 {
 "d": "2026-11-21T04:25:00Z",
@@ -542,17 +586,6 @@ window.CALCO = {
 "u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-christian-robert-des-editions-au-vent-des-iles/"
 },
 {
-"d": "2026-11-20T23:00:17Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Fario, trois auteurs",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/21/fario-trois-auteurs/"
-},
-{
 "d": "2026-11-20T22:18:37Z",
 "s": "Artforum",
 "l": "en",
@@ -651,17 +684,6 @@ window.CALCO = {
 ],
 "h": "Manifesto, de Julian Rosefeldt",
 "u": "https://cultura.nexos.com.mx/manifesto-de-julian-rosefeldt/"
-},
-{
-"d": "2026-11-20T16:42:11Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Gérard Depardieu e Michel Houellebecq sono stati accusati da un’attrice di violenza sessuale sul set di un film del 2018",
-"u": "https://www.ilpost.it/2026/11/20/gerard-depardieu-michel-houellebecq-accuse-stupro-di-gruppo-attrice-francia-indagini/"
 },
 {
 "d": "2026-11-20T16:10:36Z",
@@ -859,27 +881,6 @@ window.CALCO = {
 ],
 "h": "Gabriel Hetland: “Open Plunder”",
 "u": "https://newleftreview.org/sidecar/posts/open-plunder"
-},
-{
-"d": "2026-11-20T00:00:00Z",
-"s": "Sidecar (New Left Review)",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Raymond Geuss: “Staying True”",
-"u": "https://newleftreview.org/sidecar/posts/staying-true"
-},
-{
-"d": "2026-11-20T00:00:00Z",
-"s": "Equator",
-"l": "en",
-"t": [
-"ideas"
-],
-"h": "The Geography of the Imagination",
-"u": "https://www.equator.org/articles/the-geography-of-the-imagination-anedda"
 }
 ]
 };
