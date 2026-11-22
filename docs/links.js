@@ -1,5 +1,5 @@
 window.CALCO = {
-"updated": "2026-11-21T23:13:10Z",
+"updated": "2026-11-22T03:10:12Z",
 "tops": [
 {
 "d": "2026-11-21T20:57:00Z",
@@ -26,6 +26,83 @@ window.CALCO = {
 ],
 "links": [
 {
+"d": "2026-11-22T03:03:33Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Unfall in Parkanlage: Lebensgefährlich verletzt: Rollerfahrer rammt Absperrpfosten",
+"u": "https://www.zeit.de/news/2026-11/22/lebensgefaehrlich-verletzt-rollerfahrer-rammt-absperrpfosten"
+},
+{
+"d": "2026-11-22T02:10:11Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Descifran la enigmática pintura de Hans Baldung Grien, el 'perro verde' del Prado",
+"u": "https://www.abc.es/cultura/arte/descifran-enigmatica-pintura-hans-baldung-grien-perro-20261122015151-nt.html"
+},
+{
+"d": "2026-11-22T02:00:57Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Rubio’s debt to Greece",
+"u": "https://thecritic.co.uk/rubios-debt-to-greece/"
+},
+{
+"d": "2026-11-22T01:15:19Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "'Luces lejos', de Juan Manuel Bonet: poesía destinada a permanecer en el tiempo",
+"u": "https://www.elespanol.com/el-cultural/letras/20261122/luces-lejos-juan-manuel-bonet-poesia-destinada-permanecer-tiempo/1003744463662_0.html"
+},
+{
+"d": "2026-11-22T01:00:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Arnold Schwarzenegger aprendió a conducir un tanque de 50 toneladas con solo 18 años: casi seis décadas después, lo recuperó para una sorprendente escena de Netflix",
+"u": "https://www.elconfidencial.com/cultura/2026-11-22/arnold-schwarzenegger-tanque-anuncio-netflix-1qrt_4468441/"
+},
+{
+"d": "2026-11-22T00:19:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Army delays detonating “catastrophically hazardous” lead azide amid fear, anger",
+"u": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+},
+{
+"d": "2026-11-21T23:19:16Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Coreografías en el metro",
+"u": "https://www.lavanguardia.com/cultura/20261122/11690234/coreografias-metro.html"
+},
+{
 "d": "2026-11-21T23:11:58Z",
 "s": "Zenda",
 "l": "es",
@@ -35,17 +112,6 @@ window.CALCO = {
 ],
 "h": "22 de noviembre de 1936: El entierro de Durruti",
 "u": "https://www.zendalibros.com/22-de-noviembre-de-1936-el-entierro-de-durruti/"
-},
-{
-"d": "2026-11-21T23:08:28Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Regierungsbildung in Israel: Gadi Eisenkot sondiert Koalition mit rechter Likud-Partei",
-"u": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu"
 },
 {
 "d": "2026-11-21T23:06:59Z",
@@ -59,17 +125,6 @@ window.CALCO = {
 "u": "https://ilmanifesto.it/de-gennaro-vita-e-morte-dello-sbirro-che-divenne-squalo"
 },
 {
-"d": "2026-11-21T23:00:00Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Algoritmos: luego diremos que no sabíamos nada",
-"u": "https://www.lavanguardia.com/cultura/20261122/11689894/candy-crush-joana-moll-santa-monica-cookies-arte-anthropic.html"
-},
-{
 "d": "2026-11-21T22:12:41Z",
 "s": "Ars Technica",
 "l": "en",
@@ -79,17 +134,6 @@ window.CALCO = {
 ],
 "h": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
 "u": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
-},
-{
-"d": "2026-11-21T22:10:20Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Raphael suspende un concierto en La Coruña por una indisposición a minutos de comenzar",
-"u": "https://www.abc.es/cultura/musica/raphael-suspende-concierto-coruna-indisposicion-minutos-comenzar-20261121221410-nt.html"
 },
 {
 "d": "2026-11-21T22:00:22Z",
@@ -123,17 +167,6 @@ window.CALCO = {
 ],
 "h": "Raphael suspende un concierto en A Coruña a última hora por una indisposición",
 "u": "https://elpais.com/cultura/2026-11-21/raphael-suspende-un-concierto-en-a-coruna-a-ultima-hora-por-una-indisposicion.html"
-},
-{
-"d": "2026-11-21T21:18:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Raphael suspende su concierto en A Coruña a 30 minutos del inicio tras sufrir una subida de tensión y taquicardias",
-"u": "https://www.elconfidencial.com/cultura/2026-11-21/raphael-suspende-concierto-coruna-hospital-1tps_4469978/"
 },
 {
 "d": "2026-11-21T19:19:00Z",
@@ -334,17 +367,6 @@ window.CALCO = {
 "u": "https://www.ilpost.it/2026/11/21/gta-vi-dirette-gameplay/"
 },
 {
-"d": "2026-11-21T09:38:15Z",
-"s": "The Critic",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "The course of Empire",
-"u": "https://thecritic.co.uk/the-course-of-empire/"
-},
-{
 "d": "2026-11-21T08:56:53Z",
 "s": "The Common Reader",
 "l": "en",
@@ -508,28 +530,6 @@ window.CALCO = {
 ],
 "h": "Sinisgalli: un poeta ingegnere e il cane a sei zampe",
 "u": "https://www.doppiozero.com/sinisgalli-un-poeta-ingegnere-e-il-cane-sei-zampe"
-},
-{
-"d": "2026-11-21T01:54:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Meet the Teenage Engineering EP/BC-1 CD player",
-"u": "https://www.wallpaper.com/tech/compact-disc-gets-the-te-treatment-meet-the-teenage-engineering-ep-bc-1-cd-player"
-},
-{
-"d": "2026-11-21T01:00:50Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "¿Y si las máquinas eligieran morir? El artista Luis Camnitzer lleva las IAs al límite en una exposición entre la filosofía y el esoterismo",
-"u": "https://www.elespanol.com/el-cultural/arte/20261121/maquinas-eligieran-morir-artista-luis-camnitzer-lleva-ias-limite-exposicion-filosofia-esoterismo/1003744449416_0.html"
 },
 {
 "d": "2026-11-21T00:03:09Z",
@@ -848,39 +848,6 @@ window.CALCO = {
 ],
 "h": "Virginie Poitrasson : Quand l’amour déborde (Le Livre des débords)",
 "u": "https://diacritik.com/2026/11/20/virginie-poitrasson-quand-lamour-deborde-le-livre-des-debords/"
-},
-{
-"d": "2026-11-20T01:37:44Z",
-"s": "Platformer",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Anthropic goes public",
-"u": "https://www.platformer.news/anthropic-goes-public/"
-},
-{
-"d": "2026-11-20T00:16:14Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "ERIK TLASECA Y WYNNIE MYNERVA: ENTRAÑAS",
-"u": "https://artishockrevista.com/2026/11/19/erik-tlaseca-y-wynnie-mynerva-entranas/"
-},
-{
-"d": "2026-11-20T00:00:00Z",
-"s": "Sidecar (New Left Review)",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Gabriel Hetland: “Open Plunder”",
-"u": "https://newleftreview.org/sidecar/posts/open-plunder"
 }
 ]
 };

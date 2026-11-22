@@ -21,7 +21,7 @@
   "ok": true,
   "error": null,
   "entradas": 26,
-  "recientes": 21
+  "recientes": 20
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "Kaminker",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 15
+  "recientes": 11
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 39
+  "recientes": 41
  },
  {
   "n": "El Confidencial",
@@ -205,7 +205,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Gatopardo",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "taz",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 6
+  "recientes": 3
  },
  {
   "n": "Il Foglio",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Eurozine",
@@ -445,7 +445,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Engelsberg Ideas",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 7
+  "recientes": 3
  },
  {
   "n": "The Critic",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 15
+  "recientes": 13
  },
  {
   "n": "ArtReview",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 20
+  "recientes": 18
  },
  {
   "n": "The New Yorker",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 13,
-  "recientes": 4
+  "recientes": 6
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "404 Media",
@@ -765,7 +765,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Stratechery",
