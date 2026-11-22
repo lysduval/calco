@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 12
+  "recientes": 10
  },
  {
   "n": "El País",
@@ -13,14 +13,14 @@
   "ok": true,
   "error": null,
   "entradas": 36,
-  "recientes": 16
+  "recientes": 15
  },
  {
   "n": "El País",
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada",
   "ok": true,
   "error": null,
-  "entradas": 26,
+  "entradas": 25,
   "recientes": 20
  },
  {
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 2
+  "recientes": 7
  },
  {
   "n": "Kaminker",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 6
+  "recientes": 4
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "The Objective",
@@ -101,7 +101,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 25
+  "recientes": 18
  },
  {
   "n": "El Mundo",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 54,
-  "recientes": 20
+  "recientes": 15
  },
  {
   "n": "El Cultural",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 41
+  "recientes": 46
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 11
  },
  {
   "n": "Seúl",
@@ -157,7 +157,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 5
  },
  {
   "n": "Panamá Revista",
@@ -173,7 +173,7 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Revista Crisis",
@@ -235,7 +235,7 @@
   "n": "Esteban Schmidt",
   "u": "https://estebanschmidt.substack.com/feed",
   "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": "HTTPError: HTTP Error 400: Bad Request",
   "entradas": 0,
   "recientes": 0
  },
@@ -245,7 +245,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "AOC",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "lundimatin",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "Le Monde",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 19
+  "recientes": 15
  },
  {
   "n": "Le Monde",
@@ -324,7 +324,7 @@
   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
   "ok": true,
   "error": null,
-  "entradas": 46,
+  "entradas": 45,
   "recientes": 27
  },
  {
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 12
+  "recientes": 16
  },
  {
   "n": "Die Zeit",
@@ -341,7 +341,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "taz",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 10
+  "recientes": 8
  },
  {
   "n": "Doppiozero",
@@ -365,7 +365,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 6
  },
  {
   "n": "Il Foglio",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 27,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "The Guardian",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "New Statesman",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 2
+  "recientes": 0
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "UnHerd",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 3
+  "recientes": 5
  },
  {
   "n": "The Critic",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "032c",
@@ -629,7 +629,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 11
+  "recientes": 9
  },
  {
   "n": "Artforum",
@@ -645,7 +645,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 10
+  "recientes": 2
  },
  {
   "n": "Dirt",
@@ -677,7 +677,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The Honest Broker",
@@ -698,18 +698,18 @@
  {
   "n": "Counter Craft",
   "u": "https://countercraft.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
+  "ok": true,
+  "error": null,
+  "entradas": 20,
   "recientes": 0
  },
  {
   "n": "Embedded",
   "u": "https://embedded.substack.com/feed",
-  "ok": false,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
-  "entradas": 0,
-  "recientes": 0
+  "ok": true,
+  "error": null,
+  "entradas": 20,
+  "recientes": 2
  },
  {
   "n": "Clone",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 13,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Ars Technica",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 9
+  "recientes": 3
  }
 ]
