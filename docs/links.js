@@ -1,6 +1,17 @@
 window.CALCO = {
-"updated": "2026-11-22T19:36:53Z",
+"updated": "2026-11-23T00:50:48Z",
 "tops": [
+{
+"d": "2026-11-22T23:00:12Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Brecht, la Bible et la morale (communiste)",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/23/brecht-la-bible-et-la-morale-communiste/"
+},
 {
 "d": "2026-11-22T17:00:00Z",
 "s": "AOC",
@@ -11,22 +22,121 @@ window.CALCO = {
 ],
 "h": "La glorification de Brünnhilde – sur le Ring de Richard Wagner",
 "u": "https://aoc.media/critique/2026/11/22/la-glorification-de-brunnhilde-sur-le-ring-de-richard-wagner/"
-},
-{
-"d": "2026-11-22T13:44:37Z",
-"s": "Revista Anfibia",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "El salón de belleza, último refugio de la identidad trans en Nicaragua",
-"u": "https://www.revistaanfibia.com/el-salon-de-belleza-ultimo-refugio-de-la-identidad-trans-en-nicaragua/"
 }
 ],
 "links": [
 {
-"d": "2026-11-22T19:30:05Z",
+"d": "2026-11-23T00:41:20Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Zwischenwahlen in den USA: US-Demokraten im Repräsentantenhaus so stark wie zuletzt 1992",
+"u": "https://www.zeit.de/politik/ausland/2026-11/demokraten-mehrheit-repraesentantenhaus-kongresswahlen-usa-chuck-hubbard"
+},
+{
+"d": "2026-11-23T00:30:18Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Saoia Hernández debuta en el MET: «Me acerqué a Dios por el canto»",
+"u": "https://www.abc.es/cultura/musica/saoia-hernandez-debuta-met-super-bowl-opera-20261122013018-nt.html"
+},
+{
+"d": "2026-11-23T00:03:54Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Andy Burnham’s EU delusion",
+"u": "https://unherd.com/2026/11/andy-burnhams-rejoin-delusion/?edition=us"
+},
+{
+"d": "2026-11-23T00:01:41Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london"
+},
+{
+"d": "2026-11-22T23:11:41Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "23 de noviembre de 1936: En la Facultad de Filosofía y Letras",
+"u": "https://www.zendalibros.com/23-de-noviembre-de-1936-en-la-facultad-de-filosofia-y-letras/"
+},
+{
+"d": "2026-11-22T22:48:02Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "We haven’t seen the last of the major tech outages",
+"u": "https://www.theverge.com/tech/1039851/major-tech-outages"
+},
+{
+"d": "2026-11-22T21:28:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife",
+"u": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/"
+},
+{
+"d": "2026-11-22T20:46:00Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Pilze und Korallen: Ist die Natur nicht selbst eine Künstlerin?",
+"u": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/pilze-korallen-bakterien-auch-die-natur-kann-kunst-sein-201614718.html"
+},
+{
+"d": "2026-11-22T20:30:25Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Lo de los videojuegos",
+"u": "https://www.elmundo.es/papel/cultura/2026/11/22/6b0311aae4d4d873258b457c.html"
+},
+{
+"d": "2026-11-22T19:34:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "KI-Filme in China: Angriff der Superintelligenz auf die Bilder",
+"u": "https://taz.de/KI-Filme-in-China/!6230433/"
+},
+{
+"d": "2026-11-22T19:30:04Z",
 "s": "Le Monde",
 "l": "fr",
 "t": [
@@ -35,39 +145,6 @@ window.CALCO = {
 ],
 "h": "Au festival Entrevues, à Belfort, le docufiction « I Plant My Hand in the Garden » récompensé par le Grand Prix Janine Bazin",
 "u": "https://www.lemonde.fr/culture/article/2026/11/22/au-festival-entrevues-a-belfort-le-docufiction-i-plant-my-hand-in-the-garden-recompense-par-le-grand-prix-janine-bazin_6814244_3246.html"
-},
-{
-"d": "2026-11-22T19:28:09Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "ATP Finals: Alexander Zverev verpasst dritten Titel bei ATP Finals",
-"u": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin"
-},
-{
-"d": "2026-11-22T19:20:35Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Javier Bardem debuta en el teatro entre el humor y la melancolía de Chéjov",
-"u": "https://www.abc.es/cultura/teatros/javier-bardem-debuta-teatro-humor-melancolia-chejov-20261122130802-nt.html"
-},
-{
-"d": "2026-11-22T18:13:19Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Kulturabbau: Gefahr für die Kultur geht nicht nur von der AfD aus",
-"u": "https://www.faz.net/aktuell/feuilleton/debatten/gehen-opernhaeuser-und-orchester-reihenweise-pleite-201666939.html"
 },
 {
 "d": "2026-11-22T18:03:00Z",
@@ -79,39 +156,6 @@ window.CALCO = {
 ],
 "h": "Música para sobrevivir al proceso electoral",
 "u": "https://www.elconfidencial.com/cultura/2026-11-22/elecciones-musica-canciones-politicas-1hms_4469651/"
-},
-{
-"d": "2026-11-22T17:47:04Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Peter Fluck obituary",
-"u": "https://www.theguardian.com/tv-and-radio/2026/nov/22/peter-fluck-obituary"
-},
-{
-"d": "2026-11-22T17:46:44Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Delta flights in and out of Atlanta delayed due to system outage",
-"u": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
-},
-{
-"d": "2026-11-22T17:16:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Zum Tod von Kunstsammler F. C. Flick: Die Kunst des Weißwaschens",
-"u": "https://taz.de/Zum-Tod-von-Kunstsammler-F-C-Flick/!6232245/"
 },
 {
 "d": "2026-11-22T17:00:00Z",
@@ -189,6 +233,17 @@ window.CALCO = {
 ],
 "h": "Los Angeles Socialists Won Big in the Blue Electoral Wave",
 "u": "https://jacobin.com/2026/11/dsa-la-elections-raman-roy"
+},
+{
+"d": "2026-11-22T13:44:37Z",
+"s": "Revista Anfibia",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "El salón de belleza, último refugio de la identidad trans en Nicaragua",
+"u": "https://www.revistaanfibia.com/el-salon-de-belleza-ultimo-refugio-de-la-identidad-trans-en-nicaragua/"
 },
 {
 "d": "2026-11-22T12:30:00Z",
@@ -334,17 +389,6 @@ window.CALCO = {
 "u": "https://legrandcontinent.eu/fr/2026/11/22/en-espagne-vox-est-aux-portes-du-pouvoir/"
 },
 {
-"d": "2026-11-22T04:00:41Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "John Belushi, que prefirió arder antes que desvanecerse",
-"u": "https://www.zendalibros.com/john-belushi-que-prefirio-arder-antes-que-desvanecerse/"
-},
-{
 "d": "2026-11-22T02:10:00Z",
 "s": "Doppiozero",
 "l": "it",
@@ -378,17 +422,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/bookcity-2026-rodari-e-ariosto"
 },
 {
-"d": "2026-11-22T00:19:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Army delays detonating “catastrophically hazardous” lead azide amid fear, anger",
-"u": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
-},
-{
 "d": "2026-11-21T23:06:59Z",
 "s": "il manifesto",
 "l": "it",
@@ -398,17 +431,6 @@ window.CALCO = {
 ],
 "h": "De Gennaro, vita e morte dello sbirro che divenne squalo",
 "u": "https://ilmanifesto.it/de-gennaro-vita-e-morte-dello-sbirro-che-divenne-squalo"
-},
-{
-"d": "2026-11-21T22:00:22Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "El Teatro Real se corona como mejor teatro de ópera del mundo en los International Opera Awards 2026",
-"u": "https://www.elmundo.es/cultura/musica/2026/11/21/6b019003fdddff36768b456d.html"
 },
 {
 "d": "2026-11-21T20:57:00Z",
@@ -596,71 +618,6 @@ window.CALCO = {
 ],
 "h": "40 años de la Feria del Libro de Guadalajara: de García Márquez a Richard Gere pasando por España como invitada de honor",
 "u": "https://elpais.com/babelia/2026-11-21/40-anos-de-la-feria-del-libro-de-guadalajara-de-garcia-marquez-a-richard-gere-pasando-por-espana-como-invitada-de-honor.html"
-},
-{
-"d": "2026-11-21T00:06:04Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The first hockey-sex classic",
-"u": "https://unherd.com/2026/11/the-first-hockey-sex-classic/?edition=us"
-},
-{
-"d": "2026-11-21T00:00:00Z",
-"s": "Equator",
-"l": "en",
-"t": [
-"ideas"
-],
-"h": "Rivals",
-"u": "https://www.equator.org/articles/jensen-huang-nvidia-iza-ding"
-},
-{
-"d": "2026-11-20T23:00:59Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Entretien avec Vincent Pélissier : les exigences de Fario",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-vincent-pelissier-des-editions-fario/"
-},
-{
-"d": "2026-11-20T23:00:54Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Entretien avec Christian Robert : Au vent des îles",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/21/entretien-avec-christian-robert-des-editions-au-vent-des-iles/"
-},
-{
-"d": "2026-11-20T22:18:37Z",
-"s": "Artforum",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "European Countries Demand Russia’s Exclusion from Venice Architecture Biennale",
-"u": "https://www.artforum.com/news/no-russian-venice-architecture-biennale-1234763974/"
-},
-{
-"d": "2026-11-20T20:35:10Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "ORA PRO NOBIS, PRIMERA EXPOSICIÓN INDIVIDUAL DE PAULO NAZARETH EN ESPAÑA",
-"u": "https://artishockrevista.com/2026/11/20/paulo-nazareth-en-espana/"
 }
 ]
 };
