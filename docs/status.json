@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 1
+  "recientes": 3
  },
  {
   "n": "El País",
@@ -13,15 +13,15 @@
   "ok": true,
   "error": null,
   "entradas": 38,
-  "recientes": 16
+  "recientes": 15
  },
  {
   "n": "El País",
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada",
   "ok": true,
   "error": null,
-  "entradas": 25,
-  "recientes": 21
+  "entradas": 26,
+  "recientes": 22
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 5
+  "recientes": 1
  },
  {
   "n": "Kaminker",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 12
  },
  {
   "n": "ABC Cultura",
@@ -101,15 +101,15 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 22
+  "recientes": 25
  },
  {
   "n": "El Mundo",
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 53,
-  "recientes": 5
+  "entradas": 54,
+  "recientes": 10
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 35
+  "recientes": 24
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "Seúl",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Nexos",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Diacritik",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 12
  },
  {
   "n": "Le Figaro",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 12
+  "recientes": 9
  },
  {
   "n": "Die Zeit",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "Doppiozero",
@@ -381,7 +381,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 49
+  "recientes": 37
  },
  {
   "n": "London Review of Books",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 4
+  "recientes": 8
  },
  {
   "n": "The Critic",
@@ -469,7 +469,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 20
+  "recientes": 19
  },
  {
   "n": "ArtReview",
@@ -597,7 +597,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The New Yorker",
@@ -605,7 +605,7 @@
   "ok": true,
   "error": null,
   "entradas": 50,
-  "recientes": 24
+  "recientes": 25
  },
  {
   "n": "The New Yorker",
@@ -626,10 +626,10 @@
  {
   "n": "Hyperallergic",
   "u": "https://hyperallergic.com/feed/",
-  "ok": true,
-  "error": null,
-  "entradas": 15,
-  "recientes": 6
+  "ok": false,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "Artforum",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Literary Hub",
@@ -716,8 +716,8 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 14,
-  "recientes": 10
+  "entradas": 12,
+  "recientes": 6
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "404 Media",
@@ -757,7 +757,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Platformer",
@@ -765,7 +765,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Stratechery",
