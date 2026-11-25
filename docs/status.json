@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 39,
-  "recientes": 19
+  "recientes": 17
  },
  {
   "n": "El País",
@@ -69,7 +69,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 9
+  "recientes": 0
  },
  {
   "n": "Letras Libres",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 11
  },
  {
   "n": "Jot Down",
@@ -108,8 +108,8 @@
   "u": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
   "ok": true,
   "error": null,
-  "entradas": 55,
-  "recientes": 13
+  "entradas": 56,
+  "recientes": 19
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 27
+  "recientes": 25
  },
  {
   "n": "El Confidencial",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Artishock",
@@ -261,7 +261,7 @@
   "ok": true,
   "error": null,
   "entradas": 1000,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Diacritik",
@@ -277,7 +277,7 @@
   "ok": true,
   "error": null,
   "entradas": 13,
-  "recientes": 12
+  "recientes": 6
  },
  {
   "n": "Le Monde des livres",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Le Monde",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 4
  },
  {
   "n": "Perlentaucher",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 32
+  "recientes": 31
  },
  {
   "n": "NZZ",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 13
+  "recientes": 8
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 7
  },
  {
   "n": "Doppiozero",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 8
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -437,7 +437,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 0
+  "recientes": 4
  },
  {
   "n": "Equator",
@@ -453,7 +453,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 4
+  "recientes": 5
  },
  {
   "n": "UnHerd",
@@ -466,10 +466,10 @@
  {
   "n": "The Critic",
   "u": "https://thecritic.co.uk/feed/",
-  "ok": true,
-  "error": null,
-  "entradas": 100,
-  "recientes": 16
+  "ok": false,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "entradas": 0,
+  "recientes": 0
  },
  {
   "n": "ArtReview",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 13
  },
  {
   "n": "032c",
@@ -565,7 +565,7 @@
   "ok": true,
   "error": null,
   "entradas": 18,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "The Drift",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "Hyperallergic",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 9
+  "recientes": 3
  },
  {
   "n": "Literary Hub",
@@ -685,7 +685,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "The Common Reader",
@@ -693,7 +693,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 1
+  "recientes": 2
  },
  {
   "n": "Counter Craft",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Rest of World",
@@ -757,7 +757,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Platformer",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 11
+  "recientes": 10
  }
 ]
