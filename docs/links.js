@@ -1,6 +1,371 @@
 window.CALCO = {
-"updated": "2026-11-24T17:40:58Z",
+"updated": "2026-11-25T02:25:17Z",
 "tops": [
+{
+"d": "2026-11-25T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Marco Martinelli: il romanzo di Borromini;",
+"u": "https://www.doppiozero.com/marco-martinelli-il-romanzo-di-borromini"
+},
+{
+"d": "2026-11-24T22:52:26Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "Hernán Vanoli: “El progresismo debería centrarse más en reinventar lo humano que en protegerlo melancólicamente”",
+"u": "https://letraslibres.com/entrevistas/hernan-vanoli-el-progresismo-deberia-centrarse-mas-en-reinventar-lo-humano-que-en-protegerlo-melancolicamente/24/11/2026/"
+}
+],
+"links": [
+{
+"d": "2026-11-25T02:07:59Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "US-Zölle: USA planen offenbar neue Zölle gegen die EU und China",
+"u": "https://www.zeit.de/politik/ausland/2026-11/us-zoelle-china-eu-donald-trump-gerichtshof"
+},
+{
+"d": "2026-11-25T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Davide Tranchina, quel che c’è e quel che non c’è",
+"u": "https://www.doppiozero.com/davide-tranchina-quel-che-ce-e-quel-che-non-ce"
+},
+{
+"d": "2026-11-25T02:00:00Z",
+"s": "The Critic",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "What does Britain’s new establishment think?",
+"u": "https://thecritic.co.uk/what-does-britains-new-establishment-think/"
+},
+{
+"d": "2026-11-25T02:00:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Are the world’s top literary scholars being targeted by a Chinese spy op?",
+"u": "https://www.vanityfair.com/story/worlds-top-literary-scholars-targeted-by-chinese-spy-op?srsltid=AYCX9vKwvIP93cHZWaPjH1ZePAofo4g6eREVfqZwdcyQj0IXVMiNW4h5"
+},
+{
+"d": "2026-11-25T01:02:22Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Un día en la vida de Miguel Ángel Blanco: «Esta es la película más importante que se ha hecho sobre ETA»",
+"u": "https://www.abc.es/cultura/cine/dia-rodaje-blanco-pelicula-importante-sobre-eta-20261125020222-nt.html"
+},
+{
+"d": "2026-11-25T01:00:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "El Teatro de la Zarzuela devuelve la voz a las Trece Rosas: \"Ni querían ser santas, ni querían ser heroínas\"",
+"u": "https://www.elespanol.com/el-cultural/escenarios/20261125/teatro-zarzuela-devuelve-voz-trece-rosas-querian-santas-heroinas/1003744469045_0.html"
+},
+{
+"d": "2026-11-25T01:00:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "US financial crimes bureau discloses ‘cybersecurity incident’",
+"u": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+},
+{
+"d": "2026-11-25T00:05:22Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "My all-AI Thanksgiving",
+"u": "https://unherd.com/2026/11/my-all-ai-thanksgiving/?edition=us"
+},
+{
+"d": "2026-11-24T23:30:09Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Les films à l’affiche : « Paper Tiger », « Un bon petit soldat », « La Libertad Doble », « Merci d’être venu »…",
+"u": "https://www.lemonde.fr/culture/article/2026/11/25/les-films-a-l-affiche-paper-tiger-un-bon-petit-soldat-la-libertad-doble-merci-d-etre-venu_6814901_3246.html"
+},
+{
+"d": "2026-11-24T23:21:07Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Derechos más-que-humanos",
+"u": "https://www.lavanguardia.com/cultura/20261125/11692727/derechos-mas-humanos.html"
+},
+{
+"d": "2026-11-24T23:11:59Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "25 de noviembre de 1936: Carta a Stalin",
+"u": "https://www.zendalibros.com/25-noviembre-1936-carta-a-stalin/"
+},
+{
+"d": "2026-11-24T23:05:27Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Violenza nascosta dai numeri",
+"u": "https://ilmanifesto.it/violenza-nascosta-dai-numeri"
+},
+{
+"d": "2026-11-24T23:02:07Z",
+"s": "Simon Willison",
+"l": "en",
+"t": [
+"tech"
+],
+"h": "Three LLM inflection points in twelve months",
+"u": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+},
+{
+"d": "2026-11-24T23:02:00Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "De tu pareja al fondo buitre, de tu jefe a los recortes públicos: las múltiples caras de la violencia contra las mujeres",
+"u": "https://www.lamarea.com/2026/11/25/25-n-antifascista/"
+},
+{
+"d": "2026-11-24T22:50:11Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+"u": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+},
+{
+"d": "2026-11-24T21:41:06Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "PALOMA CONTRERAS LOMAS: DISCO INFERNO",
+"u": "https://artishockrevista.com/2026/11/24/paloma-contreras-lomas-disco-inferno/"
+},
+{
+"d": "2026-11-24T21:31:52Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Deutscher Presserat: Julia Klöckner warnt Medien vor „Wettbewerb der Empörung“",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kloeckner-warnt-vor-wettbewerb-der-empoerung-201713544.html"
+},
+{
+"d": "2026-11-24T21:00:50Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Les feintes de Nathalie Léger",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/24/les-feintes-de-nathalie-leger/"
+},
+{
+"d": "2026-11-24T20:59:40Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Vies majuscules",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/24/vies-majuscules/"
+},
+{
+"d": "2026-11-24T20:57:58Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Au cœur de la justice de l’asile",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/24/au-coeur-de-la-justice-de-lasile/"
+},
+{
+"d": "2026-11-24T20:53:53Z",
+"s": "Literary Hub",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "Why you should be reading Helen Garner (and where to start).",
+"u": "https://lithub.com/why-you-should-be-reading-helen-garner-and-where-to-start/"
+},
+{
+"d": "2026-11-24T20:32:20Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La cara repugnante de la literatura",
+"u": "https://www.elmundo.es/cultura/literatura/2026/11/24/6b05bfd3fc6c83650f8b4596.html"
+},
+{
+"d": "2026-11-24T20:00:55Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Meher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story",
+"u": "https://www.theguardian.com/books/2026/nov/24/meher-iqbal-wins-2026-4thwrite-prize-with-evocative-coming-of-age-story"
+},
+{
+"d": "2026-11-24T19:46:26Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Loles León y Serrat arropan a Sánchez en un mitin tras el apoyo de 200 artistas a Colau",
+"u": "https://theobjective.com/espana/politica/2026-11-24/loles-leon-serrat-sanchez-mitin/"
+},
+{
+"d": "2026-11-24T19:05:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Gewalt gegen Frauen: „Wir können Männer nicht in den Feminismus reinmobben“",
+"u": "https://taz.de/Bestseller-Autorin-Sophia-Fritz-Wir-koennen-Maenner-nicht-in-den-Feminismus-reinmobben/!6232793/"
+},
+{
+"d": "2026-11-24T18:57:55Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Comment Moscou exploite les manifestations de la jeunesse en Europe pour nourrir sa guerre informationnelle",
+"u": "https://legrandcontinent.eu/fr/2026/11/24/comment-moscou-exploite-les-manifestations-de-la-jeunesse-en-europe-pour-nourrir-sa-guerre-informationnelle/"
+},
+{
+"d": "2026-11-24T18:53:06Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "La única realidad tangible",
+"u": "https://letraslibres.com/libros/la-unica-realidad-tangible/24/11/2026/"
+},
+{
+"d": "2026-11-24T18:51:10Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "Amazon Workers Have Won a First North American Contract",
+"u": "https://jacobin.com/2026/11/amazon-unifor-british-columbia-first-contract"
+},
+{
+"d": "2026-11-24T18:37:06Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Kanal, mucho más que un discípulo del Centro Pompidou en el corazón de Europa",
+"u": "https://elpais.com/cultura/2026-11-24/kanal-mucho-mas-que-un-discipulo-del-centro-pompidou-en-el-corazon-de-europa.html"
+},
+{
+"d": "2026-11-24T18:00:07Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "« Economix présente l’histoire du capitalisme français », une bande dessinée ambitieuse et enthousiasmante",
+"u": "https://www.lemonde.fr/idees/article/2026/11/24/economix-presente-l-histoire-du-capitalisme-francais-une-bande-dessinee-ambitieuse-et-enthousiasmante_6814835_3232.html"
+},
+{
+"d": "2026-11-24T17:37:00Z",
+"s": "Dazed",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "New York designer Briah Artemis is spilling her guts",
+"u": "https://www.dazeddigital.com/fashion/article/71408/1/briah-artemis-taubman-ss27-new-york-designer-on-the-rise?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=new-york-designer-briah-artemis-is-spilling-her-guts"
+},
 {
 "d": "2026-11-24T17:36:48Z",
 "s": "Letras Libres",
@@ -14,41 +379,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/economia/el-mensaje-de-shenzhen-que-los-empresarios-mexicanos-no-pueden-ignorar/24/11/2026/"
 },
 {
-"d": "2026-11-24T17:00:00Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Prompter, c’est tromper ? (Ce que la poésie contemporaine peut nous dire de l’IA)",
-"u": "https://aoc.media/opinion/2026/11/24/prompter-cest-tromper-ce-que-la-poesie-contemporaine-peut-nous-dire-de-lia/"
-}
-],
-"links": [
-{
-"d": "2026-11-24T17:37:14Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Lebensmittelpreise: Butterpreis sinkt unter einen Euro",
-"u": "https://www.zeit.de/news/2026-11/24/butterpreis-sinkt-unter-einen-euro"
-},
-{
-"d": "2026-11-24T17:34:34Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Tidal will ban fully AI-generated music on December 9",
-"u": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
-},
-{
 "d": "2026-11-24T17:32:28Z",
 "s": "The Common Reader",
 "l": "en",
@@ -58,17 +388,6 @@ window.CALCO = {
 ],
 "h": "Educationists would think this was a terrible way to teach poetry; for me, it was pure magic, pure enchantment.",
 "u": "https://www.commonreader.co.uk/p/educationists-would-think-this-was"
-},
-{
-"d": "2026-11-24T17:32:23Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Rediscovering Rosa Luxemburg’s History of Ancient Rome",
-"u": "https://jacobin.com/2026/11/rosa-luxemburg-ancient-history-rome-spartacus"
 },
 {
 "d": "2026-11-24T17:32:01Z",
@@ -82,61 +401,6 @@ window.CALCO = {
 "u": "https://www.artforum.com/news/thorsten-sadowsky-director-munch-in-oslo-1234764171/"
 },
 {
-"d": "2026-11-24T17:30:03Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Avec « Un bon petit soldat », Stéphane Brizé signe son film le plus féroce sur le monde de l’entreprise",
-"u": "https://www.lemonde.fr/culture/article/2026/11/24/avec-un-bon-petit-soldat-stephane-brize-signe-son-film-le-plus-feroce-sur-le-monde-de-l-entreprise_6814830_3246.html"
-},
-{
-"d": "2026-11-24T17:30:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-"u": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026"
-},
-{
-"d": "2026-11-24T17:14:50Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Paco Cerdà gana el Premio del Libro Europeo por ‘Presentes’",
-"u": "https://elpais.com/cultura/2026-11-24/paco-cerda-gana-el-premio-del-libro-europeo-por-presentes.html"
-},
-{
-"d": "2026-11-24T17:13:54Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La música en directo lidera la actividad cultural en Catalunya con un 10,6% más de público",
-"u": "https://www.lavanguardia.com/cultura/20261124/11692435/musica-directo-analisis-cultural-catalunya-eventos-artes.html"
-},
-{
-"d": "2026-11-24T17:11:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Anime-Ausstellung in Berlin: Der Hintergrund als Hauptdarsteller",
-"u": "https://taz.de/Anime-Ausstellung-in-Berlin/!6225439/"
-},
-{
 "d": "2026-11-24T17:05:00Z",
 "s": "El Confidencial",
 "l": "es",
@@ -148,26 +412,15 @@ window.CALCO = {
 "u": "https://www.elconfidencial.com/cultura/2026-11-24/gisele-pelicot-denuncia-imagenes-intimas-1tna-1tps_4471814/"
 },
 {
-"d": "2026-11-24T17:03:35Z",
-"s": "El Cultural",
-"l": "es",
+"d": "2026-11-24T17:00:00Z",
+"s": "AOC",
+"l": "fr",
 "t": [
-"es",
-"letras"
+"europa",
+"ideas"
 ],
-"h": "El Prado dedica una exposición a Mariana de Austria, la mujer que afianzó su poder a golpe de retrato",
-"u": "https://www.elespanol.com/el-cultural/arte/20261124/prado-dedica-exposicion-mariana-austria-mujer-afianzo-poder-golpe-retrato/1003744470723_0.html"
-},
-{
-"d": "2026-11-24T17:01:53Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Urtasun aprueba el reglamento de museos a cinco días del 29N sin un plan contra los robos",
-"u": "https://www.abc.es/cultura/urtasun-aprueba-reglamento-museos-cinco-dias-29n-20261124175752-nt.html"
+"h": "Prompter, c’est tromper ? (Ce que la poésie contemporaine peut nous dire de l’IA)",
+"u": "https://aoc.media/opinion/2026/11/24/prompter-cest-tromper-ce-que-la-poesie-contemporaine-peut-nous-dire-de-lia/"
 },
 {
 "d": "2026-11-24T17:00:00Z",
@@ -192,26 +445,15 @@ window.CALCO = {
 "u": "https://aoc.media/analyse/2026/11/24/financer-le-soutien-militaire-a-lukraine/"
 },
 {
-"d": "2026-11-24T16:57:53Z",
-"s": "The Critic",
+"d": "2026-11-24T16:49:17Z",
+"s": "The Baffler",
 "l": "en",
 "t": [
-"europa",
-"arte"
+"eeuu",
+"ideas"
 ],
-"h": "Prison works — if you build them",
-"u": "https://thecritic.co.uk/prison-works-if-you-build-them/"
-},
-{
-"d": "2026-11-24T16:55:34Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Fire breathers and a stranded cargo ship: photos of the day – Tuesday",
-"u": "https://www.theguardian.com/news/gallery/2026/nov/24/fire-breathers-stranded-cargo-ship-photos-of-the-day-tuesday"
+"h": "Revolutionary Crime",
+"u": "https://thebaffler.com/latest/revolutionary-crime-osterweil?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed"
 },
 {
 "d": "2026-11-24T16:45:06Z",
@@ -225,61 +467,6 @@ window.CALCO = {
 "u": "https://www.newyorker.com/news/the-lede/long-live-the-chip-king"
 },
 {
-"d": "2026-11-24T16:43:18Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Di casa si muore",
-"u": "https://ilmanifesto.it/di-casa-si-muore"
-},
-{
-"d": "2026-11-24T16:31:18Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Hailey Bieber: Haben wir uns zu sehr an Podcastgekuschel gewöhnt?",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hailey-bieber-bei-der-new-york-times-201711868.html"
-},
-{
-"d": "2026-11-24T16:28:00Z",
-"s": "Dazed",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "The Twins are where Skrillex meets Bollywood",
-"u": "https://www.dazeddigital.com/music/article/71412/1/the-twins-are-where-skrillex-meets-bollywood-uk-ug-british-south-asian-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-twins-are-where-skrillex-meets-bollywood"
-},
-{
-"d": "2026-11-24T16:25:41Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Muere a los 98 años la actriz Delfina Guzmán, icono del cine y el teatro chilenos",
-"u": "https://www.elmundo.es/cultura/2026/11/24/6b05b9f821efa09f3b8b459d.html"
-},
-{
-"d": "2026-11-24T16:22:00Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "La cultura vive cuando se comparte",
-"u": "https://letraslibres.com/cultura/la-cultura-vive-cuando-se-comparte/06/11/2026/"
-},
-{
 "d": "2026-11-24T15:15:16Z",
 "s": "MIT Technology Review",
 "l": "en",
@@ -289,17 +476,6 @@ window.CALCO = {
 ],
 "h": "Raising the stakes for enterprise networks with AI modernization",
 "u": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
-},
-{
-"d": "2026-11-24T14:45:26Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "En Espagne, plus d’un tiers des 18-24 ans déclarent vouloir voter pour Vox",
-"u": "https://legrandcontinent.eu/fr/2026/11/24/en-espagne-plus-dun-tiers-des-18-24-ans-declarent-vouloir-voter-pour-vox/"
 },
 {
 "d": "2026-11-24T14:35:00Z",
@@ -389,17 +565,6 @@ window.CALCO = {
 "u": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/"
 },
 {
-"d": "2026-11-24T13:18:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "The inner overthinking of a designer bringing a text composer to life",
-"u": "https://www.youtube.com/watch?v=8q0pwh98qmU"
-},
-{
 "d": "2026-11-24T13:00:15Z",
 "s": "The Paris Review",
 "l": "en",
@@ -409,39 +574,6 @@ window.CALCO = {
 ],
 "h": "My Whale Poem",
 "u": "https://www.theparisreview.org/blog/2026/11/24/my-whale-poem-tao-lin/"
-},
-{
-"d": "2026-11-24T12:40:33Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The danger of criminalizing clinical therapy",
-"u": "https://unherd.com/2026/11/the-danger-of-criminalising-clinical-therapy/?edition=us"
-},
-{
-"d": "2026-11-24T11:32:29Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Beatrice Bergamín, Celso Varela y Yoel Peña, ganadores en el XX Premio Paco Rabal de periodismo cultural",
-"u": "https://www.zendalibros.com/beatrice-bergamin-celso-varela-y-yoel-pena-ganadores-en-el-xx-premio-paco-rabal-de-periodismo-cultural/"
-},
-{
-"d": "2026-11-24T11:30:02Z",
-"s": "Literary Hub",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Lit Hub Daily: November 24, 2026",
-"u": "https://lithub.com/lit-hub-daily-november-24-2026/"
 },
 {
 "d": "2026-11-24T11:00:00Z",
@@ -465,17 +597,6 @@ window.CALCO = {
 "u": "https://stratechery.com/2026/the-individual-exception/"
 },
 {
-"d": "2026-11-24T10:10:54Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "« Le Journal spirituel du pape François » dévoile trente-deux années de réflexions du Saint-Père argentin",
-"u": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/24/le-journal-spirituel-du-pape-francois-devoile-trente-deux-annees-de-reflexions-du-saint-pere-argentin_6814741_6038514.html"
-},
-{
 "d": "2026-11-24T09:44:59Z",
 "s": "lundimatin",
 "l": "fr",
@@ -485,17 +606,6 @@ window.CALCO = {
 ],
 "h": "Le solide et le vaporeux",
 "u": "https://lundi.am/Le-solide-et-le-vaporeux"
-},
-{
-"d": "2026-11-24T09:20:41Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Más allá de la mili: los sistemas de reclutamiento militar que amplían el control sobre la juventud",
-"u": "https://www.lamarea.com/2026/11/24/mas-alla-de-la-mili-delas/"
 },
 {
 "d": "2026-11-24T09:07:13Z",
@@ -518,18 +628,6 @@ window.CALCO = {
 ],
 "h": "“Por qué yo que ningún mal les he hecho”",
 "u": "https://seul.ar/por-que-yo-que-ningun-mal-les-he-hecho/"
-},
-{
-"d": "2026-11-24T06:49:14Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "Noviembre dorado, reconciliación",
-"u": "https://letraslibres.com/literatura/noviembre-dorado-reconciliacion/24/11/2026/"
 },
 {
 "d": "2026-11-24T06:01:20Z",
@@ -609,17 +707,6 @@ window.CALCO = {
 "u": "https://elpais.com/babelia/2026-11-24/no-es-una-homilia-woke-margarita-garcia-robayo-invoca-el-sufrimiento-secular-de-las-mujeres.html"
 },
 {
-"d": "2026-11-24T04:25:00Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Antoine de Saint-Exupéry, escritor de ‘El principito’, sobre la felicidad: «Una buena vida es aquella que se llena de cosas, pero no de las que cuestan, sino de las que tienen valor para ti»",
-"u": "https://theobjective.com/lifestyle/2026-11-24/antoine-de-saint-exupery-escritor-de-el-principito-sobre-la-felicidad-una-buena-vida-es-aquella-que-se-llena-de-cosas-pero-no-de-las-que-cuestan-sino-de-las-que-tienen-valor-para-ti/"
-},
-{
 "d": "2026-11-24T02:10:00Z",
 "s": "Doppiozero",
 "l": "it",
@@ -631,28 +718,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/abruzzese-diventare-meridionali"
 },
 {
-"d": "2026-11-24T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Bookcity | Gli adolescenti, lo smartphone, la luna",
-"u": "https://www.doppiozero.com/bookcity-gli-adolescenti-lo-smartphone-la-luna"
-},
-{
-"d": "2026-11-24T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Un aureliano a Firenze",
-"u": "https://www.doppiozero.com/un-aureliano-firenze"
-},
-{
 "d": "2026-11-24T01:37:29Z",
 "s": "Platformer",
 "l": "en",
@@ -662,27 +727,6 @@ window.CALCO = {
 ],
 "h": "Jensen is back",
 "u": "https://www.platformer.news/jensen-huang-returns-nvidia/"
-},
-{
-"d": "2026-11-23T23:00:48Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Le prix de la liberté",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/24/jung-chang-le-prix-de-la-liberte/"
-},
-{
-"d": "2026-11-23T21:46:35Z",
-"s": "Simon Willison",
-"l": "en",
-"t": [
-"tech"
-],
-"h": "Ladybird's first alpha release",
-"u": "https://simonwillison.net/2026/Nov/23/ladybird/"
 },
 {
 "d": "2026-11-23T20:54:20Z",
@@ -762,17 +806,6 @@ window.CALCO = {
 "u": "https://engelsbergideas.com/notebook/benjamin-brittens-outsiders-on-trial/"
 },
 {
-"d": "2026-11-23T14:31:05Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Philippe Lejeune : la passion du « je »",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/23/philippe-lejeune-la-passion-du-je-hommage/"
-},
-{
 "d": "2026-11-23T13:00:08Z",
 "s": "The Paris Review",
 "l": "en",
@@ -847,28 +880,6 @@ window.CALCO = {
 ],
 "h": "Diaty Diallo : Écrire les traces, conjurer les ébranlements (Darya & Dounya)",
 "u": "https://diacritik.com/2026/11/23/diaty-diallo-ecrire-les-traces-conjurer-les-ebranlements-darya-dounya/"
-},
-{
-"d": "2026-11-23T04:30:00Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Ángeles Lucas, periodista: “Hay niños explotados para que otros puedan maquillar sus carencias personales”",
-"u": "https://elpais.com/babelia/en-pocas-palabras/2026-11-23/angeles-lucas-periodista-hay-ninos-explotados-para-que-otros-puedan-maquillar-sus-carencias-personales.html"
-},
-{
-"d": "2026-11-22T23:00:12Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Brecht, la Bible et la morale (communiste)",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/23/brecht-la-bible-et-la-morale-communiste/"
 }
 ]
 };
