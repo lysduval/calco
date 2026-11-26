@@ -12,8 +12,8 @@
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
   "ok": true,
   "error": null,
-  "entradas": 39,
-  "recientes": 19
+  "entradas": 40,
+  "recientes": 17
  },
  {
   "n": "El País",
@@ -45,7 +45,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Caimán Cuadernos de Cine",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 11
+  "recientes": 12
  },
  {
   "n": "Jot Down",
@@ -85,7 +85,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "The Objective",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 11
  },
  {
   "n": "ABC Cultura",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 56,
-  "recientes": 18
+  "recientes": 12
  },
  {
   "n": "El Cultural",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 23
+  "recientes": 28
  },
  {
   "n": "El Confidencial",
@@ -157,7 +157,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Panamá Revista",
@@ -173,15 +173,15 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Revista Crisis",
   "u": "https://revistacrisis.com.ar/feed/",
   "ok": true,
   "error": null,
-  "entradas": 1897,
-  "recientes": 0
+  "entradas": 1898,
+  "recientes": 1
  },
  {
   "n": "Nexos",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Nexos",
@@ -276,8 +276,8 @@
   "u": "https://lundi.am/spip.php?page=backend",
   "ok": true,
   "error": null,
-  "entradas": 13,
-  "recientes": 6
+  "entradas": 10,
+  "recientes": 0
  },
  {
   "n": "Le Monde des livres",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 19
  },
  {
   "n": "Le Monde",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 4
+  "recientes": 6
  },
  {
   "n": "Perlentaucher",
@@ -325,7 +325,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 31
+  "recientes": 25
  },
  {
   "n": "NZZ",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Die Zeit",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Il Post",
@@ -357,7 +357,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 7
+  "recientes": 9
  },
  {
   "n": "Doppiozero",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 29,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "The Guardian",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 12
+  "recientes": 20
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -429,7 +429,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 0
+  "recientes": 1
  },
  {
   "n": "Eurozine",
@@ -461,7 +461,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 9
+  "recientes": 8
  },
  {
   "n": "The Critic",
@@ -517,7 +517,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 6
  },
  {
   "n": "Dazed",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 12
  },
  {
   "n": "032c",
@@ -557,7 +557,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "The Baffler",
@@ -581,7 +581,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Los Angeles Review of Books",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 9
+  "recientes": 10
  },
  {
   "n": "Hyperallergic",
@@ -677,7 +677,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "The Honest Broker",
@@ -733,7 +733,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 6
+  "recientes": 7
  },
  {
   "n": "Rest of World",
@@ -773,7 +773,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "The Verge",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 9
+  "recientes": 13
  }
 ]

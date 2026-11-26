@@ -1,6 +1,425 @@
 window.CALCO = {
-"updated": "2026-11-26T05:00:32Z",
+"updated": "2026-11-26T15:12:20Z",
 "tops": [
+{
+"d": "2026-11-26T14:19:35Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "London Museum’s emptiness",
+"u": "https://engelsbergideas.com/notebook/london-museums-emptiness/"
+},
+{
+"d": "2026-11-26T09:56:38Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "Los raros de Echerri",
+"u": "https://letraslibres.com/libros/los-raros-de-echerri/26/11/2026/"
+}
+],
+"links": [
+{
+"d": "2026-11-26T15:09:19Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Vereinte Nationen: Woran hakt es bei der Suche nach einem neuen UN-Generalsekretär?",
+"u": "https://www.zeit.de/politik/ausland/2026-07/vereinte-nationen-un-generalsekretaer-nachfolge-antonio-guterres-gxe"
+},
+{
+"d": "2026-11-26T15:00:00Z",
+"s": "Le Figaro",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Wilderness, de Rockwell Kent : le bonheur à Fox Island",
+"u": "https://www.lefigaro.fr/livres/wilderness-de-rockwell-kent-le-bonheur-a-fox-island-20261126"
+},
+{
+"d": "2026-11-26T15:00:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Pedro Almodóvar on his process",
+"u": "https://www.youtube.com/watch?v=T3cXJ5HnQiQ"
+},
+{
+"d": "2026-11-26T15:00:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Why GTA VI’s version of Florida feels so real",
+"u": "https://www.theverge.com/entertainment/1042629/gta-6-city-design"
+},
+{
+"d": "2026-11-26T14:46:00Z",
+"s": "AnOther",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "Brilliant Things to Eat and Drink This December",
+"u": "https://www.anothermag.com/design-living/17655/brilliant-things-to-eat-and-drink-this-december"
+},
+{
+"d": "2026-11-26T14:42:41Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "La Justicia francesa rechaza el recurso de Depardieu y le envia a juicio por la violación de Charlotte Arnould",
+"u": "https://www.elespanol.com/el-cultural/cine/20261126/justicia-francesa-rechaza-recurso-depardieu-enviara-juicio-violacion-charlotte-arnould/1003744473560_0.html"
+},
+{
+"d": "2026-11-26T14:42:03Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Muere Michael Giles, batería fundador de King Crimson",
+"u": "https://www.abc.es/cultura/musica/muere-michael-giles-bateria-fundador-king-crimson-20261126104406-nt.html"
+},
+{
+"d": "2026-11-26T14:29:47Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Sinister signs, suicidal shepherds and a sensational six-hour song: Ragnar Kjartansson’s art is heroically human",
+"u": "https://www.theguardian.com/artanddesign/2026/nov/26/ragnar-kjartansson-goodwood-art-foundation-review"
+},
+{
+"d": "2026-11-26T14:26:45Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Castillos, pueblos de fantasía y planes para todos en la tierra de Goya",
+"u": "https://elpais.com/cultura/2026-11-26/castillos-pueblos-de-fantasia-y-planes-para-todos-en-la-tierra-de-goya.html"
+},
+{
+"d": "2026-11-26T14:26:00Z",
+"s": "Dazed",
+"l": "en",
+"t": [
+"moda"
+],
+"h": "Listen to Thaiboy Digital and Eurohead’s mix to cure your winter blues",
+"u": "https://www.dazeddigital.com/music/article/71419/1/listen-to-thaiboy-digital-and-eurohead-s-mix-to-cure-the-winter-blues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=listen-to-thaiboy-digital-and-eurohead-s-mix-to-cure-your-winter-blues"
+},
+{
+"d": "2026-11-26T14:14:49Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "From the archive: A decade of anarchy in the UK",
+"u": "https://www.newstatesman.com/archive/2026/11/from-the-archive-a-decade-of-anarchy-in-the-uk"
+},
+{
+"d": "2026-11-26T14:13:51Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
+"u": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html"
+},
+{
+"d": "2026-11-26T14:06:56Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Muere Steven Hack, bailarín en 'Grease', protagonista en 'Cats' y secundario habitual en múltiples series",
+"u": "https://www.lavanguardia.com/cultura/cine/20261126/11694141/muere-steven-hack-bailarin-grease-protagonista-cats-secundario-habitual-multiples-series.html"
+},
+{
+"d": "2026-11-26T14:02:44Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Muere a los 68 años Steven Hack, actor de ‘American Horror Story’ y ‘Seinfeld’",
+"u": "https://theobjective.com/cultura/cine/2026-11-26/muere-steven-hack-actor/"
+},
+{
+"d": "2026-11-26T14:00:00Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "GTA VI Takes Capitalism Seriously",
+"u": "https://jacobin.com/2026/11/gta-vi-gaming-satire-capitalism-class"
+},
+{
+"d": "2026-11-26T13:57:46Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Wechsel beim Théâtre du Soleil: Dreifache Herausforderung",
+"u": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/simon-abkarian-wird-neuer-chef-des-theatre-du-soleil-201720213.html"
+},
+{
+"d": "2026-11-26T13:47:30Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "MELDUNGEN KULTUR - Der französische Schauspieler Gérard Depardieu muss sich wegen Vergewaltigungsvorwürfen vor Gericht verantworten",
+"u": "https://www.nzz.ch/feuilleton/der-franzoesische-schauspieler-gerard-depardieu-muss-sich-wegen-vergewaltigungsvorwuerfen-vor-gericht-verantworten-ld.10064027"
+},
+{
+"d": "2026-11-26T13:41:22Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Estados Unidos celebra en Alemania un taller para perseguir movimientos antifascistas",
+"u": "https://www.lamarea.com/2026/11/26/eeuu-alemania-antifascismo/"
+},
+{
+"d": "2026-11-26T13:38:12Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Cosa cambia se i grandi problemi matematici li risolve l’AI",
+"u": "https://www.ilpost.it/2026/11/26/problemi-matematica-intelligenza-artificiale/"
+},
+{
+"d": "2026-11-26T13:10:00Z",
+"s": "MIT Technology Review",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "The Download: Better bionic hands and AI’s natural-gas boom",
+"u": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+},
+{
+"d": "2026-11-26T13:01:32Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE »",
+"u": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html"
+},
+{
+"d": "2026-11-26T13:00:00Z",
+"s": "404 Media",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Grand Thanksgiving Autumn",
+"u": "https://www.404media.co/grand-thanksgiving-autumn/"
+},
+{
+"d": "2026-11-26T12:43:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "De la barra del Bar Cernégula al Palacio de los Deportes: el viaje de La M.O.D.A. tras volver a conectar con el barrio",
+"u": "https://www.elconfidencial.com/cultura/2026-11-26/la-moda-entrevista-san-felices-wegow-palacio-deportes_4472275/"
+},
+{
+"d": "2026-11-26T12:16:29Z",
+"s": "Engelsberg Ideas",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Marc Bloch’s physical and intellectual courage",
+"u": "https://engelsbergideas.com/notebook/marc-blochs-physical-and-intellectual-courage/"
+},
+{
+"d": "2026-11-26T12:15:42Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Draining peatlands is responsible for a few percent of our global warming",
+"u": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+},
+{
+"d": "2026-11-26T12:00:10Z",
+"s": "Sifted",
+"l": "en",
+"t": [
+"europa",
+"tech"
+],
+"h": "Introducing the Skinner-Shah Award for Journalism",
+"u": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/"
+},
+{
+"d": "2026-11-26T11:39:10Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040",
+"u": "https://legrandcontinent.eu/fr/2026/11/26/spacex-obtient-lautorisation-de-lancer-un-million-de-centres-de-donnees-en-orbite-dici-2040/"
+},
+{
+"d": "2026-11-26T11:22:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Psychogramm der rechten Wähler: Ostnostalgiker mit Hang zur Selbstgleichschaltung",
+"u": "https://taz.de/Psychogramm-der-rechten-Waehler/!6230644/"
+},
+{
+"d": "2026-11-26T11:01:00Z",
+"s": "Aeon",
+"l": "en",
+"t": [
+"ideas"
+],
+"h": "Lina Ghotmeh: archaeology of the future",
+"u": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal"
+},
+{
+"d": "2026-11-26T11:00:00Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "The Many Faces of Running",
+"u": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running"
+},
+{
+"d": "2026-11-26T09:28:26Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "¿Ha desaparecido el feminismo en estas elecciones del 29N?",
+"u": "https://letraslibres.com/politica/ha-desaparecido-el-feminismo-en-estas-elecciones-del-29n/26/11/2026/"
+},
+{
+"d": "2026-11-26T09:00:00Z",
+"s": "Revista Anfibia",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "Sin techo, sin tierra, sin trabajo",
+"u": "https://www.revistaanfibia.com/desalojos-en-caba-crisis-habitacional-jorge-macri/"
+},
+{
+"d": "2026-11-26T07:11:40Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "los dueños de la capital",
+"u": "https://revistacrisis.com.ar/notas/duenos-de-la-capital/"
+},
+{
+"d": "2026-11-26T07:00:26Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "El espectro del desencanto: 50 años de la película que bautizó a una época",
+"u": "https://www.jotdown.es/2026/11/el-desencanto-pelicula-epoca/"
+},
+{
+"d": "2026-11-26T06:00:46Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Stéphane Nowak Papantoniou : « Les films regardent d’autres films, les reprennent, les transforment » (On voit mieux de loin)",
+"u": "https://diacritik.com/2026/11/26/stephane-nowak-papantoniou-les-films-regardent-dautres-films-les-reprennent-les-transforment-on-voit-mieux-de-loin/"
+},
+{
+"d": "2026-11-26T06:00:18Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "L’amitié d’Amigorena (Des arbres fous)",
+"u": "https://diacritik.com/2026/11/26/lamitie-damigorena-des-arbres-fous/"
+},
 {
 "d": "2026-11-26T04:30:01Z",
 "s": "Babelia",
@@ -11,63 +430,6 @@ window.CALCO = {
 ],
 "h": "El río profundo de Seba Calfuqueo",
 "u": "https://elpais.com/babelia/2026-11-26/el-rio-profundo-de-seba-calfuqueo.html"
-},
-{
-"d": "2026-11-26T03:58:55Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Matar en democracia está mal",
-"u": "https://seul.ar/gordon-santucho/"
-}
-],
-"links": [
-{
-"d": "2026-11-26T05:00:10Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "François Héran, sociologue : « Non, Mme Le Pen, rien ne vient étayer l’idée que l’immigration serait “hors contrôle” »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/26/francois-heran-sociologue-non-mme-le-pen-rien-ne-vient-etayer-l-idee-que-l-immigration-serait-hors-controle_6815472_3232.html"
-},
-{
-"d": "2026-11-26T05:00:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Eduard Fernández, actor, 62 años: \"Comprobé que es verdad, de un mal guion no puedes hacer una buena película\"",
-"u": "https://www.elconfidencial.com/cultura/cine/2026-11-26/eduard-fernandez-mal-guion-buena-pelicula-1qrt_4472241/"
-},
-{
-"d": "2026-11-26T04:48:31Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "US-Zölle: Für seine Zölle hat Trump einen Überzeugungstäter",
-"u": "https://www.zeit.de/wirtschaft/2026-11/us-zoelle-usa-donald-trump-eu-china-demokraten"
-},
-{
-"d": "2026-11-26T04:45:01Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El Roto: por responsabilidad",
-"u": "https://elpais.com/opinion/2026-11-26/el-roto-por-responsabilidad.html"
 },
 {
 "d": "2026-11-26T04:30:01Z",
@@ -81,70 +443,26 @@ window.CALCO = {
 "u": "https://elpais.com/babelia/2026-11-26/nieves-mingueza-la-violencia-fuera-de-campo.html"
 },
 {
-"d": "2026-11-26T04:30:00Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Peter Sloterdijk: Weshalb die Moderne gewaltige Mengen von Neid und Ressentiments freisetzt",
-"u": "https://www.nzz.ch/feuilleton/buecher/peter-sloterdijk-weshalb-die-moderne-gewaltige-mengen-von-neid-und-ressentiments-freisetzt-ld.10073626"
-},
-{
-"d": "2026-11-26T04:25:00Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Manuel Toscano: el dilema de la verdad en la era de las mentiras",
-"u": "https://theobjective.com/cultura/2026-11-26/manuel-toscano-dilema-verdad-era-mentiras/"
-},
-{
-"d": "2026-11-26T04:06:29Z",
+"d": "2026-11-26T04:25:33Z",
 "s": "Zenda",
 "l": "es",
 "t": [
 "es",
 "letras"
 ],
-"h": "La última leyenda",
-"u": "https://www.zendalibros.com/perez-reverte-la-ultima-leyenda/"
+"h": "Quedarse quieto de pie en la calle",
+"u": "https://www.zendalibros.com/quedarse-quieto-de-pie-en-la-calle/"
 },
 {
-"d": "2026-11-26T03:30:09Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Notre sélection de livres cette semaine : « Lexique familial », « Sauf la frontière », « Depuis Caïn »…",
-"u": "https://www.lemonde.fr/livres/article/2026/11/26/notre-selection-de-livres-cette-semaine-lexique-familial-sauf-la-frontiere-depuis-cain_6815428_3260.html"
-},
-{
-"d": "2026-11-26T03:13:35Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "TV-Kritik Maischberger: Bitte kurz mal Pause!",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maischberger-in-der-tv-kritik-warum-man-sich-manchmal-einfach-nur-eine-pause-wuenscht-accg-201718133.html"
-},
-{
-"d": "2026-11-26T02:52:54Z",
-"s": "ABC Cultura",
+"d": "2026-11-26T03:58:55Z",
+"s": "Seúl",
 "l": "es",
 "t": [
-"es",
-"letras"
+"latam",
+"ideas"
 ],
-"h": "Hallan un papiro con el 'ritual de Apofis', usado para «maldecir a los enemigos», en un vertedero de Tebas",
-"u": "https://www.abc.es/cultura/hallan-papiro-ritual-apofis-usado-maldecir-enemigos-20261125191754-nt.html"
+"h": "Matar en democracia está mal",
+"u": "https://seul.ar/gordon-santucho/"
 },
 {
 "d": "2026-11-26T02:10:00Z",
@@ -180,28 +498,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/il-gatto-selvatico-5-i-rapporti-umani"
 },
 {
-"d": "2026-11-26T01:00:00Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "'Lar', de Bibiana Candia: una ardiente rebelión de trabajadoras con ecos de Emilia Pardo Bazán",
-"u": "https://www.elespanol.com/el-cultural/letras/20261126/lar-bibiana-candia-ardiente-rebelion-trabajadoras-ecos-emilia-pardo-bazan/1003744470195_0.html"
-},
-{
-"d": "2026-11-26T00:04:34Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-"u": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras"
-},
-{
 "d": "2026-11-26T00:04:14Z",
 "s": "UnHerd",
 "l": "en",
@@ -213,48 +509,15 @@ window.CALCO = {
 "u": "https://unherd.com/2026/11/the-reality-of-rejoin/?edition=us"
 },
 {
-"d": "2026-11-26T00:01:39Z",
-"s": "The Guardian",
+"d": "2026-11-26T00:00:00Z",
+"s": "Sidecar (New Left Review)",
 "l": "en",
 "t": [
 "europa",
-"letras"
+"ideas"
 ],
-"h": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
-"u": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year"
-},
-{
-"d": "2026-11-25T23:38:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Veruschka, the OG Supermodel and ’60s Icon, Dies at 87",
-"u": "https://sg.news.yahoo.com/veruschka-og-supermodel-60s-icon-170412101.html?guccounter=1"
-},
-{
-"d": "2026-11-25T23:31:13Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Nuestra civilización, en estado de emergencia",
-"u": "https://www.lavanguardia.com/cultura/20261126/11693639/nuestra-civilizacion-emergencia.html"
-},
-{
-"d": "2026-11-25T23:10:06Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Britain’s captains of industry realise they’re on a sinking ship",
-"u": "https://www.newstatesman.com/politics/the-sketch/2026/11/britains-captains-of-industry-realise-theyre-on-a-sinking-ship"
+"h": "Owen Hatherley: “Subtle Moves”",
+"u": "https://newleftreview.org/sidecar/posts/subtle-moves"
 },
 {
 "d": "2026-11-25T23:08:18Z",
@@ -268,17 +531,6 @@ window.CALCO = {
 "u": "https://ilmanifesto.it/la-natura-di-tutti-svenduta-a-colpi-di-fucile"
 },
 {
-"d": "2026-11-25T23:01:00Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El grupo ultra ADF se extiende: cómo convertir los litigios y la “libertad de expresión” en una estrategia global contra los derechos",
-"u": "https://www.lamarea.com/2026/11/26/grupo-ultra-adf-se-extiende/"
-},
-{
 "d": "2026-11-25T23:00:13Z",
 "s": "En attendant Nadeau",
 "l": "fr",
@@ -288,17 +540,6 @@ window.CALCO = {
 ],
 "h": "L’IA et l’Odyssée",
 "u": "https://www.en-attendant-nadeau.fr/2026/11/26/lia-et-lodyssee/"
-},
-{
-"d": "2026-11-25T22:36:45Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-"u": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
 },
 {
 "d": "2026-11-25T22:28:39Z",
@@ -334,28 +575,6 @@ window.CALCO = {
 "u": "https://www.elmundo.es/cultura/2026/11/25/6b05ae5a21efa0ca288b4595.html"
 },
 {
-"d": "2026-11-25T19:34:48Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "La loi cachée du capitalisme",
-"u": "https://legrandcontinent.eu/fr/2026/11/25/la-loi-cachee-du-capitalisme/"
-},
-{
-"d": "2026-11-25T19:00:00Z",
-"s": "404 Media",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships",
-"u": "https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/"
-},
-{
 "d": "2026-11-25T18:54:33Z",
 "s": "Literary Hub",
 "l": "en",
@@ -365,17 +584,6 @@ window.CALCO = {
 ],
 "h": "What I’m thankful for, literarily.",
 "u": "https://lithub.com/what-im-thankful-for-literarily/"
-},
-{
-"d": "2026-11-25T18:49:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Filmdebüt „Barrio Triste“: Aliens in Medellín",
-"u": "https://taz.de/Filmdebuet-Barrio-Triste-Vom-Elend-kolumbianischer-Jugendlicher-driftet-er-ins-Irreale-ab/!6232385/"
 },
 {
 "d": "2026-11-25T17:46:12Z",
@@ -399,28 +607,6 @@ window.CALCO = {
 ],
 "h": "Los jefes de la tribu",
 "u": "https://letraslibres.com/politica/los-jefes-de-la-tribu/25/11/2026/"
-},
-{
-"d": "2026-11-25T17:14:08Z",
-"s": "Le Figaro",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "« Nous serons remplacés par l’IA sur l’ensemble des métiers » : l’alerte d’Arthur Bataille, spécialiste de la cybersécurité",
-"u": "https://www.lefigaro.fr/vox/societe/arthur-bataille-tous-les-metiers-qui-consistent-a-recolter-a-trier-et-a-extraire-de-l-information-peuvent-disparaitre-dans-les-deux-ans-20261125"
-},
-{
-"d": "2026-11-25T17:04:08Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Grand Theft Auto Grew Up. America Didn’t.",
-"u": "https://jacobin.com/2026/11/gta-rockstar-morality-violence-trump"
 },
 {
 "d": "2026-11-25T17:00:00Z",
@@ -456,17 +642,6 @@ window.CALCO = {
 "u": "https://aoc.media/analyse/2026/11/25/en-corse-et-en-martinique-legalite-ne-voyage-pas-pareil/"
 },
 {
-"d": "2026-11-25T17:00:00Z",
-"s": "MIT Technology Review",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "How data centers are driving a US natural-gas boom",
-"u": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
-},
-{
 "d": "2026-11-25T16:53:33Z",
 "s": "Engelsberg Ideas",
 "l": "en",
@@ -476,40 +651,6 @@ window.CALCO = {
 ],
 "h": "The diaries that survived Theresienstadt",
 "u": "https://engelsbergideas.com/notebook/the-diaries-that-survived-theresienstadt/"
-},
-{
-"d": "2026-11-25T16:29:00Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "“Caballo Salvaje Nueve” y “DAU”: obedecer sin creer",
-"u": "https://letraslibres.com/cine-tv/caballo-salvaje-nueve-y-dau-obedecer-sin-creer/25/11/2026/"
-},
-{
-"d": "2026-11-25T16:08:44Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "GTA VI sta facendo arrabbiare la maschiosfera",
-"u": "https://www.ilpost.it/2026/11/25/gta-vi-storia-amore-trama/"
-},
-{
-"d": "2026-11-25T16:00:00Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "Aaron Sorkin on Hollywood’s Vision of American Politics",
-"u": "https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics"
 },
 {
 "d": "2026-11-25T15:57:06Z",
@@ -523,16 +664,6 @@ window.CALCO = {
 "u": "https://www.artforum.com/news/fake-wade-guyton-painting-pulled-from-sothebys-sale-1234764401/"
 },
 {
-"d": "2026-11-25T15:17:00Z",
-"s": "AnOther",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "Cartier Legends from Louis XIV to Elizabeth Taylor",
-"u": "https://www.anothermag.com/fashion-beauty/17654/cartier-looks-forwards-and-backwards-another-magazine-autumn-winter-2026"
-},
-{
 "d": "2026-11-25T15:09:38Z",
 "s": "Eurozine",
 "l": "en",
@@ -544,28 +675,6 @@ window.CALCO = {
 "u": "https://www.eurozine.com/subculture/?utm_source=rss&utm_medium=rss&utm_campaign=subculture"
 },
 {
-"d": "2026-11-25T15:00:17Z",
-"s": "Sifted",
-"l": "en",
-"t": [
-"europa",
-"tech"
-],
-"h": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
-"u": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/"
-},
-{
-"d": "2026-11-25T14:58:24Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The rise and fall of the ‘Byzantine’ Empire",
-"u": "https://engelsbergideas.com/essays/the-rise-and-fall-of-the-byzantine-empire/"
-},
-{
 "d": "2026-11-25T14:30:44Z",
 "s": "Eurozine",
 "l": "en",
@@ -575,16 +684,6 @@ window.CALCO = {
 ],
 "h": "Rebellion",
 "u": "https://www.eurozine.com/rebellion/?utm_source=rss&utm_medium=rss&utm_campaign=rebellion"
-},
-{
-"d": "2026-11-25T14:00:00Z",
-"s": "Dazed",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "Esmé Creed-Miles: The Austen heroine turned vampire seductress",
-"u": "https://www.dazeddigital.com/film-tv/article/71366/1/esme-creed-miles-winter-issue-2026-cover-sense-sensability-flesh-gods?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=esme-creed-miles-the-austen-heroine-turned-vampire-seductress"
 },
 {
 "d": "2026-11-25T13:03:18Z",
@@ -631,27 +730,6 @@ window.CALCO = {
 "u": "https://www.caimanediciones.es/un-destino-comun/"
 },
 {
-"d": "2026-11-25T11:49:16Z",
-"s": "Engelsberg Ideas",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The KGB’s phantom plot to kill the pope",
-"u": "https://engelsbergideas.com/reviews/the-kgbs-phantom-plot-to-kill-the-pope/"
-},
-{
-"d": "2026-11-25T11:01:00Z",
-"s": "Aeon",
-"l": "en",
-"t": [
-"ideas"
-],
-"h": "The passing",
-"u": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog"
-},
-{
 "d": "2026-11-25T11:00:00Z",
 "s": "Revista Anfibia",
 "l": "es",
@@ -671,18 +749,6 @@ window.CALCO = {
 ],
 "h": "How foreign AI romance apps are reshaping youth intimacy in Africa",
 "u": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-},
-{
-"d": "2026-11-25T10:25:53Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "España ante la geopolítica del “apaño” | Con Ana Palacio",
-"u": "https://letraslibres.com/politica/espana-ante-la-geopolitica-del-apano-con-ana-palacio/25/11/2026/"
 },
 {
 "d": "2026-11-25T10:00:59Z",
@@ -705,17 +771,6 @@ window.CALCO = {
 ],
 "h": "Un hilo invisible une a las mujeres de América Latina",
 "u": "https://www.revistaanfibia.com/un-hilo-invisible-une-a-las-mujeres-de-america-latina/"
-},
-{
-"d": "2026-11-25T07:00:58Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Matías Battistón: «Muchas editoriales pretenden que los derechos de la traducción se den a perpetuidad, con lo cual los traductores perdemos cualquier tipo de control sobre nuestra obra»",
-"u": "https://www.jotdown.es/2026/11/matias-battiston-entrevista/"
 },
 {
 "d": "2026-11-25T06:01:49Z",
@@ -749,17 +804,6 @@ window.CALCO = {
 ],
 "h": "Tu écoutes cette chanson encore",
 "u": "https://diacritik.com/2026/11/25/tu-ecoutes-cette-chanson-encore/"
-},
-{
-"d": "2026-11-25T06:00:36Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Deux écrivains parmi les ombres (Jean-Benoît Puech, L’Été des ombres)",
-"u": "https://diacritik.com/2026/11/25/deux-ecrivains-parmi-les-ombres-jean-benoit-puech-lete-des-ombres/"
 },
 {
 "d": "2026-11-25T04:30:01Z",
@@ -825,61 +869,6 @@ window.CALCO = {
 ],
 "h": "Revolutionary Crime",
 "u": "https://thebaffler.com/latest/revolutionary-crime-osterweil?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed"
-},
-{
-"d": "2026-11-24T14:00:47Z",
-"s": "The Point",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Mommy Magic Show",
-"u": "https://thepointmag.com/examined-life/mommy-magic-show/"
-},
-{
-"d": "2026-11-24T13:00:15Z",
-"s": "The Paris Review",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "My Whale Poem",
-"u": "https://www.theparisreview.org/blog/2026/11/24/my-whale-poem-tao-lin/"
-},
-{
-"d": "2026-11-24T11:00:00Z",
-"s": "Stratechery",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "The Individual Exception",
-"u": "https://stratechery.com/2026/the-individual-exception/"
-},
-{
-"d": "2026-11-24T09:44:59Z",
-"s": "lundimatin",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Le solide et le vaporeux",
-"u": "https://lundi.am/Le-solide-et-le-vaporeux"
-},
-{
-"d": "2026-11-24T07:00:18Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "“Por qué yo que ningún mal les he hecho”",
-"u": "https://seul.ar/por-que-yo-que-ningun-mal-les-he-hecho/"
 }
 ]
 };
