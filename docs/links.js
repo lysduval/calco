@@ -1,19 +1,120 @@
 window.CALCO = {
-"updated": "2026-11-26T15:12:20Z",
+"updated": "2026-11-26T23:51:01Z",
 "tops": [
 {
-"d": "2026-11-26T14:19:35Z",
-"s": "Engelsberg Ideas",
-"l": "en",
+"d": "2026-11-26T23:00:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
 "t": [
 "europa",
-"ideas"
+"letras"
 ],
-"h": "London Museum’s emptiness",
-"u": "https://engelsbergideas.com/notebook/london-museums-emptiness/"
+"h": "Jean Sénac ou le mouvement perpétuel",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/27/jean-senac-ou-le-mouvement-perpetuel/"
 },
 {
-"d": "2026-11-26T09:56:38Z",
+"d": "2026-11-26T21:55:46Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "ANANTA ANANDA. LA ESPIRITUALIDAD EN ERNESTO NETO",
+"u": "https://artishockrevista.com/2026/11/26/ananta-ananda-la-espiritualidad-en-ernesto-neto/"
+}
+],
+"links": [
+{
+"d": "2026-11-26T23:36:16Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Un capote «blanco Vaticano y oro» para el Papa: el toreo llega a San Pedro",
+"u": "https://www.abc.es/cultura/toros/capote-blanco-vaticano-oro-papa-toreo-llega-20261126215327-nt.html"
+},
+{
+"d": "2026-11-26T23:30:04Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Frankreich: Krokodil verschluckt sich an Knochen - Feuerwehreinsatz",
+"u": "https://www.zeit.de/news/2026-11/27/krokodil-verschluckt-sich-an-knochen-feuerwehreinsatz"
+},
+{
+"d": "2026-11-26T23:22:30Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "El debate de los vicepresidentes",
+"u": "https://elpais.com/opinion/2026-11-26/el-debate-de-los-vicepresidentes.html"
+},
+{
+"d": "2026-11-26T23:11:41Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "27 de noviembre de 1936: Habla Simone Weil",
+"u": "https://www.zendalibros.com/27-de-noviembre-de-1936-habla-simone-weil/"
+},
+{
+"d": "2026-11-26T23:04:44Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Dl cortei, la proposta Delmastro imbarazza anche i meloniani",
+"u": "https://ilmanifesto.it/dl-cortei-la-proposta-delmastro-imbarazza-anche-i-meloniani"
+},
+{
+"d": "2026-11-26T21:28:44Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La Oreja de Van Gogh transforma el Sant Jordi en un gran karaoke contra el odio",
+"u": "https://www.lavanguardia.com/cultura/musica/20261126/11692541/oreja-gogh-transforma-sant-jordi-gran-karaoke-odio.html"
+},
+{
+"d": "2026-11-26T21:00:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Netflix’s coziest show has made a very quiet return",
+"u": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3"
+},
+{
+"d": "2026-11-26T20:29:41Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Un señor mayor jugando al GTA VI",
+"u": "https://www.elmundo.es/cultura/2026/11/26/6b080b67e85eceec538b45b7.html"
+},
+{
+"d": "2026-11-26T19:56:59Z",
 "s": "Letras Libres",
 "l": "es",
 "t": [
@@ -21,54 +122,272 @@ window.CALCO = {
 "latam",
 "ideas"
 ],
-"h": "Los raros de Echerri",
-"u": "https://letraslibres.com/libros/los-raros-de-echerri/26/11/2026/"
-}
-],
-"links": [
+"h": "¿Genio político?",
+"u": "https://letraslibres.com/libros/genio-politico/26/11/2026/"
+},
 {
-"d": "2026-11-26T15:09:19Z",
-"s": "Die Zeit",
-"l": "de",
+"d": "2026-11-26T19:30:26Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "The Strokes y Tame Impala encabezan el primer avance del cartel del Mad Cool by Zurich 2027",
+"u": "https://www.elespanol.com/el-cultural/escenarios/musica/20261126/the-strokes-tame-impala-encabezan-primer-avance-cartel-mad-cool-by-zurich/1003744474108_0.html"
+},
+{
+"d": "2026-11-26T19:00:42Z",
+"s": "The Guardian",
+"l": "en",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Vereinte Nationen: Woran hakt es bei der Suche nach einem neuen UN-Generalsekretär?",
-"u": "https://www.zeit.de/politik/ausland/2026-07/vereinte-nationen-un-generalsekretaer-nachfolge-antonio-guterres-gxe"
+"h": "Art Mania by Kitty Hauser review – the gripping story of the man behind the Western Desert art movement",
+"u": "https://www.theguardian.com/books/2026/nov/27/art-mania-geoffrey-bardon-biography-kitty-hauser-review"
 },
 {
-"d": "2026-11-26T15:00:00Z",
+"d": "2026-11-26T19:00:09Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Zoé Carle, spécialiste de l’analyse du discours : « Les slogans politiques ont parfaitement le droit d’être outranciers »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/26/zoe-carle-specialiste-de-l-analyse-du-discours-les-slogans-politiques-ont-parfaitement-le-droit-d-etre-outranciers_6815593_3232.html"
+},
+{
+"d": "2026-11-26T18:57:32Z",
 "s": "Le Figaro",
 "l": "fr",
 "t": [
 "europa",
 "letras"
 ],
-"h": "Wilderness, de Rockwell Kent : le bonheur à Fox Island",
-"u": "https://www.lefigaro.fr/livres/wilderness-de-rockwell-kent-le-bonheur-a-fox-island-20261126"
+"h": "Lilia Hassaine, Goncourt des lycéens : «Des jeunes filles de 15, 16 ans, viennent vous dire qu’elles se sont reconnues»",
+"u": "https://www.lefigaro.fr/livres/lilia-hassaine-goncourt-des-lyceens-des-jeunes-filles-de-15-16-ans-viennent-vous-dire-qu-elles-se-sont-reconnues-20261126"
 },
 {
-"d": "2026-11-26T15:00:00Z",
+"d": "2026-11-26T18:56:50Z",
+"s": "Nexos",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "Kneecap y la lengua como resistencia",
+"u": "https://cultura.nexos.com.mx/kneecap-y-la-lengua-como-resistencia/"
+},
+{
+"d": "2026-11-26T18:22:24Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "En la lucha final",
+"u": "https://www.lamarea.com/2026/11/26/en-la-lucha-final/"
+},
+{
+"d": "2026-11-26T18:14:20Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "in europäische Hand: Weimer sieht viel Unterstützung für seinen Tiktok-Plan",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html"
+},
+{
+"d": "2026-11-26T18:00:29Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Ford unveils the GT41 as it hopes to win Le Mans again",
+"u": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
+},
+{
+"d": "2026-11-26T18:00:19Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Dans « Culture : alerte rouge ! », Jérôme Clément veut relancer le combat pour la politique culturelle",
+"u": "https://www.lemonde.fr/idees/article/2026/11/26/dans-culture-alerte-rouge-jerome-clement-veut-relancer-le-combat-pour-la-politique-culturelle_6815589_3232.html"
+},
+{
+"d": "2026-11-26T18:00:00Z",
 "s": "Clone",
 "l": "en",
 "t": [
 "eeuu",
-"tech"
+"letras"
 ],
-"h": "Pedro Almodóvar on his process",
-"u": "https://www.youtube.com/watch?v=T3cXJ5HnQiQ"
+"h": "the next night we ate whale",
+"u": "https://www.theparisreview.org/blog/2026/11/24/my-whale-poem-tao-lin/"
 },
 {
-"d": "2026-11-26T15:00:00Z",
-"s": "The Verge",
+"d": "2026-11-26T17:37:58Z",
+"s": "lundimatin",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Arts et politiques de la désertion",
+"u": "https://lundi.am/Arts-et-politiques-de-la-desertion-7928"
+},
+{
+"d": "2026-11-26T17:33:36Z",
+"s": "Letras Libres",
+"l": "es",
+"t": [
+"es",
+"latam",
+"ideas"
+],
+"h": "“La reina en el mar”: la vida sigue",
+"u": "https://letraslibres.com/cine-tv/la-reina-en-el-mar-la-vida-sigue/26/11/2026/"
+},
+{
+"d": "2026-11-26T17:25:33Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "«Deutschlands erstes Topmodel» ist tot. Veruschka ist im Alter von 87 Jahren gestorben",
+"u": "https://www.nzz.ch/feuilleton/deutschlands-erstes-topmodel-ist-tot-veruschka-ist-im-alter-von-87-jahren-gestorben-ld.10074835"
+},
+{
+"d": "2026-11-26T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Le rugby, TF1 et la mêlée des mots",
+"u": "https://aoc.media/opinion/2026/11/26/le-rugby-tf1-et-la-melee-des-mots/"
+},
+{
+"d": "2026-11-26T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Les péripéties d’un écrivain – sur Minotaure de Boris Bergmann",
+"u": "https://aoc.media/critique/2026/11/26/les-peripeties-dun-ecrivain-sur-minotaure-de-boris-bergmann/"
+},
+{
+"d": "2026-11-26T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Nécro-économie",
+"u": "https://aoc.media/analyse/2026/11/26/necro-economie/"
+},
+{
+"d": "2026-11-26T17:00:00Z",
+"s": "Dazed",
 "l": "en",
 "t": [
-"eeuu",
-"tech"
+"moda"
 ],
-"h": "Why GTA VI’s version of Florida feels so real",
-"u": "https://www.theverge.com/entertainment/1042629/gta-6-city-design"
+"h": "2026: The year underscores, Ninajirachi and Jane Remover changed pop",
+"u": "https://www.dazeddigital.com/music/article/71358/1/underscores-ninajirachi-jane-remover-interview-coachella-2026-breakthrough-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=2026-the-year-underscores-ninajirachi-and-jane-remover-changed-pop"
+},
+{
+"d": "2026-11-26T16:46:36Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi",
+"u": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/"
+},
+{
+"d": "2026-11-26T16:36:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Volksbühnen-Permiere von Brasch: Was das Ganze soll?",
+"u": "https://taz.de/Volksbuehnen-Permiere-von-Brasch/!6233501/"
+},
+{
+"d": "2026-11-26T16:35:43Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "L’Ukraine a détruit pour la première fois un drone à réaction avec une arme laser",
+"u": "https://legrandcontinent.eu/fr/2026/11/26/lukraine-a-detruit-pour-la-premiere-fois-un-drone-a-reaction-avec-une-arme-laser/"
+},
+{
+"d": "2026-11-26T16:04:01Z",
+"s": "Otra Parte",
+"l": "es",
+"t": [
+"latam",
+"letras"
+],
+"h": "Gordon y el mal de la banalidad",
+"u": "https://www.revistaotraparte.com/discusion/gordon-y-el-mal-de-la-banalidad/?utm_source=rss&utm_medium=rss&utm_campaign=gordon-y-el-mal-de-la-banalidad"
+},
+{
+"d": "2026-11-26T16:03:44Z",
+"s": "Otra Parte",
+"l": "es",
+"t": [
+"latam",
+"letras"
+],
+"h": "Servicios secretos",
+"u": "https://www.revistaotraparte.com/arte/servicios-secretos/?utm_source=rss&utm_medium=rss&utm_campaign=servicios-secretos"
+},
+{
+"d": "2026-11-26T16:02:42Z",
+"s": "Otra Parte",
+"l": "es",
+"t": [
+"latam",
+"letras"
+],
+"h": "Una belleza insoportable",
+"u": "https://www.revistaotraparte.com/otras-literaturas/una-belleza-insoportable/?utm_source=rss&utm_medium=rss&utm_campaign=una-belleza-insoportable"
+},
+{
+"d": "2026-11-26T15:21:10Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "David Cameron’s immigration dream comes true",
+"u": "https://www.newstatesman.com/politics/2026/11/david-camerons-immigration-dream-comes-true"
 },
 {
 "d": "2026-11-26T14:46:00Z",
@@ -81,91 +400,15 @@ window.CALCO = {
 "u": "https://www.anothermag.com/design-living/17655/brilliant-things-to-eat-and-drink-this-december"
 },
 {
-"d": "2026-11-26T14:42:41Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "La Justicia francesa rechaza el recurso de Depardieu y le envia a juicio por la violación de Charlotte Arnould",
-"u": "https://www.elespanol.com/el-cultural/cine/20261126/justicia-francesa-rechaza-recurso-depardieu-enviara-juicio-violacion-charlotte-arnould/1003744473560_0.html"
-},
-{
-"d": "2026-11-26T14:42:03Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Muere Michael Giles, batería fundador de King Crimson",
-"u": "https://www.abc.es/cultura/musica/muere-michael-giles-bateria-fundador-king-crimson-20261126104406-nt.html"
-},
-{
-"d": "2026-11-26T14:29:47Z",
-"s": "The Guardian",
+"d": "2026-11-26T14:19:35Z",
+"s": "Engelsberg Ideas",
 "l": "en",
 "t": [
 "europa",
-"arte"
+"ideas"
 ],
-"h": "Sinister signs, suicidal shepherds and a sensational six-hour song: Ragnar Kjartansson’s art is heroically human",
-"u": "https://www.theguardian.com/artanddesign/2026/nov/26/ragnar-kjartansson-goodwood-art-foundation-review"
-},
-{
-"d": "2026-11-26T14:26:45Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Castillos, pueblos de fantasía y planes para todos en la tierra de Goya",
-"u": "https://elpais.com/cultura/2026-11-26/castillos-pueblos-de-fantasia-y-planes-para-todos-en-la-tierra-de-goya.html"
-},
-{
-"d": "2026-11-26T14:26:00Z",
-"s": "Dazed",
-"l": "en",
-"t": [
-"moda"
-],
-"h": "Listen to Thaiboy Digital and Eurohead’s mix to cure your winter blues",
-"u": "https://www.dazeddigital.com/music/article/71419/1/listen-to-thaiboy-digital-and-eurohead-s-mix-to-cure-the-winter-blues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=listen-to-thaiboy-digital-and-eurohead-s-mix-to-cure-your-winter-blues"
-},
-{
-"d": "2026-11-26T14:14:49Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "From the archive: A decade of anarchy in the UK",
-"u": "https://www.newstatesman.com/archive/2026/11/from-the-archive-a-decade-of-anarchy-in-the-uk"
-},
-{
-"d": "2026-11-26T14:13:51Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"arte"
-],
-"h": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
-"u": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html"
-},
-{
-"d": "2026-11-26T14:06:56Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Muere Steven Hack, bailarín en 'Grease', protagonista en 'Cats' y secundario habitual en múltiples series",
-"u": "https://www.lavanguardia.com/cultura/cine/20261126/11694141/muere-steven-hack-bailarin-grease-protagonista-cats-secundario-habitual-multiples-series.html"
+"h": "London Museum’s emptiness",
+"u": "https://engelsbergideas.com/notebook/london-museums-emptiness/"
 },
 {
 "d": "2026-11-26T14:02:44Z",
@@ -175,7 +418,7 @@ window.CALCO = {
 "es",
 "letras"
 ],
-"h": "Muere a los 68 años Steven Hack, actor de ‘American Horror Story’ y ‘Seinfeld’",
+"h": "Muere Steven Hack, actor de ‘American Horror Story’ y ‘Seinfeld’, a los 68 años",
 "u": "https://theobjective.com/cultura/cine/2026-11-26/muere-steven-hack-actor/"
 },
 {
@@ -190,50 +433,6 @@ window.CALCO = {
 "u": "https://jacobin.com/2026/11/gta-vi-gaming-satire-capitalism-class"
 },
 {
-"d": "2026-11-26T13:57:46Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Wechsel beim Théâtre du Soleil: Dreifache Herausforderung",
-"u": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/simon-abkarian-wird-neuer-chef-des-theatre-du-soleil-201720213.html"
-},
-{
-"d": "2026-11-26T13:47:30Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "MELDUNGEN KULTUR - Der französische Schauspieler Gérard Depardieu muss sich wegen Vergewaltigungsvorwürfen vor Gericht verantworten",
-"u": "https://www.nzz.ch/feuilleton/der-franzoesische-schauspieler-gerard-depardieu-muss-sich-wegen-vergewaltigungsvorwuerfen-vor-gericht-verantworten-ld.10064027"
-},
-{
-"d": "2026-11-26T13:41:22Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "Estados Unidos celebra en Alemania un taller para perseguir movimientos antifascistas",
-"u": "https://www.lamarea.com/2026/11/26/eeuu-alemania-antifascismo/"
-},
-{
-"d": "2026-11-26T13:38:12Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Cosa cambia se i grandi problemi matematici li risolve l’AI",
-"u": "https://www.ilpost.it/2026/11/26/problemi-matematica-intelligenza-artificiale/"
-},
-{
 "d": "2026-11-26T13:10:00Z",
 "s": "MIT Technology Review",
 "l": "en",
@@ -243,17 +442,6 @@ window.CALCO = {
 ],
 "h": "The Download: Better bionic hands and AI’s natural-gas boom",
 "u": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
-},
-{
-"d": "2026-11-26T13:01:32Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE »",
-"u": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html"
 },
 {
 "d": "2026-11-26T13:00:00Z",
@@ -289,17 +477,6 @@ window.CALCO = {
 "u": "https://engelsbergideas.com/notebook/marc-blochs-physical-and-intellectual-courage/"
 },
 {
-"d": "2026-11-26T12:15:42Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Draining peatlands is responsible for a few percent of our global warming",
-"u": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
-},
-{
 "d": "2026-11-26T12:00:10Z",
 "s": "Sifted",
 "l": "en",
@@ -309,28 +486,6 @@ window.CALCO = {
 ],
 "h": "Introducing the Skinner-Shah Award for Journalism",
 "u": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/"
-},
-{
-"d": "2026-11-26T11:39:10Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040",
-"u": "https://legrandcontinent.eu/fr/2026/11/26/spacex-obtient-lautorisation-de-lancer-un-million-de-centres-de-donnees-en-orbite-dici-2040/"
-},
-{
-"d": "2026-11-26T11:22:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Psychogramm der rechten Wähler: Ostnostalgiker mit Hang zur Selbstgleichschaltung",
-"u": "https://taz.de/Psychogramm-der-rechten-Waehler/!6230644/"
 },
 {
 "d": "2026-11-26T11:01:00Z",
@@ -354,7 +509,7 @@ window.CALCO = {
 "u": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running"
 },
 {
-"d": "2026-11-26T09:28:26Z",
+"d": "2026-11-26T09:56:38Z",
 "s": "Letras Libres",
 "l": "es",
 "t": [
@@ -362,8 +517,8 @@ window.CALCO = {
 "latam",
 "ideas"
 ],
-"h": "¿Ha desaparecido el feminismo en estas elecciones del 29N?",
-"u": "https://letraslibres.com/politica/ha-desaparecido-el-feminismo-en-estas-elecciones-del-29n/26/11/2026/"
+"h": "Los raros de Echerri",
+"u": "https://letraslibres.com/libros/los-raros-de-echerri/26/11/2026/"
 },
 {
 "d": "2026-11-26T09:00:00Z",
@@ -443,17 +598,6 @@ window.CALCO = {
 "u": "https://elpais.com/babelia/2026-11-26/nieves-mingueza-la-violencia-fuera-de-campo.html"
 },
 {
-"d": "2026-11-26T04:25:33Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Quedarse quieto de pie en la calle",
-"u": "https://www.zendalibros.com/quedarse-quieto-de-pie-en-la-calle/"
-},
-{
 "d": "2026-11-26T03:58:55Z",
 "s": "Seúl",
 "l": "es",
@@ -520,17 +664,6 @@ window.CALCO = {
 "u": "https://newleftreview.org/sidecar/posts/subtle-moves"
 },
 {
-"d": "2026-11-25T23:08:18Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La natura di tutti svenduta a colpi di fucile",
-"u": "https://ilmanifesto.it/la-natura-di-tutti-svenduta-a-colpi-di-fucile"
-},
-{
 "d": "2026-11-25T23:00:13Z",
 "s": "En attendant Nadeau",
 "l": "fr",
@@ -564,17 +697,6 @@ window.CALCO = {
 "u": "https://www.honest-broker.com/p/are-these-the-100-best-songs-of-all"
 },
 {
-"d": "2026-11-25T20:35:09Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Sánchez y el truco viral de la pediatra: ¿qué rostro mostrará en el debate a cuatro?",
-"u": "https://www.elmundo.es/cultura/2026/11/25/6b05ae5a21efa0ca288b4595.html"
-},
-{
 "d": "2026-11-25T18:54:33Z",
 "s": "Literary Hub",
 "l": "en",
@@ -595,51 +717,6 @@ window.CALCO = {
 ],
 "h": "I tell them to study the classics",
 "u": "https://www.commonreader.co.uk/p/i-tell-them-to-study-the-classics"
-},
-{
-"d": "2026-11-25T17:29:07Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "Los jefes de la tribu",
-"u": "https://letraslibres.com/politica/los-jefes-de-la-tribu/25/11/2026/"
-},
-{
-"d": "2026-11-25T17:00:00Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "IVG versus l’IVV (interruption volontaire de vieillesse)",
-"u": "https://aoc.media/opinion/2026/11/25/ivg-versus-livv-interruption-volontaire-de-vieillesse/"
-},
-{
-"d": "2026-11-25T17:00:00Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Restituer, réactiver – sur « Le Temps des récoltes » d’Ibrahim Mahama",
-"u": "https://aoc.media/critique/2026/11/25/restituer-reactiver-sur-le-temps-des-recoltes-dibrahim-mahama/"
-},
-{
-"d": "2026-11-25T17:00:00Z",
-"s": "AOC",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "En Corse et en Martinique, l’égalité ne voyage pas pareil",
-"u": "https://aoc.media/analyse/2026/11/25/en-corse-et-en-martinique-legalite-ne-voyage-pas-pareil/"
 },
 {
 "d": "2026-11-25T16:53:33Z",
@@ -804,71 +881,6 @@ window.CALCO = {
 ],
 "h": "Tu écoutes cette chanson encore",
 "u": "https://diacritik.com/2026/11/25/tu-ecoutes-cette-chanson-encore/"
-},
-{
-"d": "2026-11-25T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Gramática electoral",
-"u": "https://elpais.com/babelia/2026-11-25/gramatica-electoral.html"
-},
-{
-"d": "2026-11-24T23:02:07Z",
-"s": "Simon Willison",
-"l": "en",
-"t": [
-"tech"
-],
-"h": "Three LLM inflection points in twelve months",
-"u": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
-},
-{
-"d": "2026-11-24T21:41:06Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "PALOMA CONTRERAS LOMAS: DISCO INFERNO",
-"u": "https://artishockrevista.com/2026/11/24/paloma-contreras-lomas-disco-inferno/"
-},
-{
-"d": "2026-11-24T21:00:50Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Les feintes de Nathalie Léger",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/24/les-feintes-de-nathalie-leger/"
-},
-{
-"d": "2026-11-24T20:59:40Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Vies majuscules",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/24/vies-majuscules/"
-},
-{
-"d": "2026-11-24T16:49:17Z",
-"s": "The Baffler",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "Revolutionary Crime",
-"u": "https://thebaffler.com/latest/revolutionary-crime-osterweil?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed"
 }
 ]
 };
