@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 39,
-  "recientes": 17
+  "recientes": 19
  },
  {
   "n": "El País",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 12
+  "recientes": 10
  },
  {
   "n": "ABC Cultura",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 56,
-  "recientes": 19
+  "recientes": 18
  },
  {
   "n": "El Cultural",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 14
+  "recientes": 13
  },
  {
   "n": "La Marea",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 25
+  "recientes": 23
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 15
+  "recientes": 14
  },
  {
   "n": "Seúl",
@@ -157,7 +157,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Panamá Revista",
@@ -189,7 +189,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Nexos",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 12
  },
  {
   "n": "Le Monde",
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 14
+  "recientes": 13
  },
  {
   "n": "New Statesman",
@@ -421,7 +421,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 12
  },
  {
   "n": "Sidecar (New Left Review)",
@@ -716,7 +716,7 @@
   "u": "https://clone.fyi/rss.xml",
   "ok": true,
   "error": null,
-  "entradas": 11,
+  "entradas": 12,
   "recientes": 8
  },
  {
@@ -765,7 +765,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 1
+  "recientes": 0
  },
  {
   "n": "Stratechery",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 10
+  "recientes": 9
  }
 ]
