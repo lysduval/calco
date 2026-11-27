@@ -1,6 +1,349 @@
 window.CALCO = {
-"updated": "2026-11-26T23:51:01Z",
+"updated": "2026-11-27T08:26:50Z",
 "tops": [
+{
+"d": "2026-11-27T06:01:40Z",
+"s": "Nexos",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "Historia mínima del rock mexicano en 150 rolas (100-51)",
+"u": "https://cultura.nexos.com.mx/__trashed/"
+},
+{
+"d": "2026-11-27T06:00:47Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Conversation sur le temps avec Carlo Ossola",
+"u": "https://diacritik.com/2026/11/27/conversation-sur-le-temps-avec-carlo-ossola/"
+}
+],
+"links": [
+{
+"d": "2026-11-27T08:18:58Z",
+"s": "Die Zeit",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Scott McClanahan: »Kochen Emotionen hoch, ist man lächerlich. Aber auch am lebendigsten«",
+"u": "https://www.zeit.de/zeit-magazin/leben/2026-11/scott-mcclanahan-streit-liebe-familie-autor"
+},
+{
+"d": "2026-11-27T08:09:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Film über den Architekten Peter Zumthor: Verneigung vor der Einfachheit",
+"u": "https://taz.de/Film-ueber-den-Architekten-Peter-Zumthor/!6232661/"
+},
+{
+"d": "2026-11-27T08:06:49Z",
+"s": "Il Post",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Gonfiabili a New York",
+"u": "https://www.ilpost.it/2026/11/27/gonfiabili-a-new-york/"
+},
+{
+"d": "2026-11-27T08:03:54Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Toros y política: los partidos deciden no vestirse de luces (y mejor que no lo hagan)",
+"u": "https://elpais.com/cultura/el-toro-por-los-cuernos/2026-11-27/toros-y-politica-los-partidos-deciden-no-vestirse-de-luces-y-mejor-que-no-lo-hagan.html"
+},
+{
+"d": "2026-11-27T08:00:58Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+"u": "https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-revenge"
+},
+{
+"d": "2026-11-27T08:00:53Z",
+"s": "Ars Technica",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+"u": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/"
+},
+{
+"d": "2026-11-27T08:00:05Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Iran : « L’alternative aux bombardements n’est pas nécessairement l’indifférence »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/27/iran-l-alternative-aux-bombardements-n-est-pas-necessairement-l-indifference_6815815_3232.html"
+},
+{
+"d": "2026-11-27T07:53:00Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Pornofizierung: „Pornhub weiß mehr über uns, als wir über uns selbst wissen“",
+"u": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/patricia-nilsson-pornhub-weiss-mehr-ueber-uns-als-wir-ueber-uns-selbst-wissen-accg-201687915.html"
+},
+{
+"d": "2026-11-27T07:40:00Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "Stop worrying about young people’s sex lives",
+"u": "https://www.newstatesman.com/culture/life/2026/11/stop-worrying-about-young-peoples-sex-lives"
+},
+{
+"d": "2026-11-27T07:11:45Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Dios era de carbono",
+"u": "https://www.jotdown.es/2026/11/dios-era-de-carbono/"
+},
+{
+"d": "2026-11-27T06:00:04Z",
+"s": "Diacritik",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "La bonne pointure (Saleh Diab)",
+"u": "https://diacritik.com/2026/11/27/__trashed-6/"
+},
+{
+"d": "2026-11-27T05:56:13Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "El Mago Pop compra el teatro Regina y cuenta ya con tres salas en Barcelona",
+"u": "https://www.lavanguardia.com/cultura/20261127/11694617/mago-pop-compra-teatro-regina-cuenta-tres-salas-barcelona.html"
+},
+{
+"d": "2026-11-27T05:30:10Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "« Il faut un prix qui célèbre l’excellence de la littérature jeunesse francophone »",
+"u": "https://www.lemonde.fr/idees/article/2026/11/27/il-faut-un-prix-qui-celebre-l-excellence-de-la-litterature-jeunesse-francophone_6815808_3232.html"
+},
+{
+"d": "2026-11-27T05:30:00Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Plus d’un an après l’imposition de sanctions, les États-Unis concluent un accord pour les actifs de Lukoil",
+"u": "https://legrandcontinent.eu/fr/2026/11/27/plus-dun-an-apres-limposition-de-sanctions-les-etats-unis-concluent-un-accord-pour-les-actifs-de-lukoil/"
+},
+{
+"d": "2026-11-27T05:00:58Z",
+"s": "Sifted",
+"l": "en",
+"t": [
+"europa",
+"tech"
+],
+"h": "'Never say never': US fintech giant Ramp on more European acquisitions",
+"u": "https://sifted.eu/articles/ramp-europe-expansion-interview/"
+},
+{
+"d": "2026-11-27T05:00:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Brad Pitt, actor de 'Las nuevas desventuras de Cliff Booth': \"Entiendo el suicidio, en el sentido de que es simplemente un alivio. Es simplemente buscar alivio del dolor\"",
+"u": "https://www.elconfidencial.com/cultura/cine/2026-11-27/brad-pitt-cliff-booth-entiendo-suicidio-alivio-1qrt_4472288/"
+},
+{
+"d": "2026-11-27T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Los futuros que no se han presentado a las elecciones",
+"u": "https://elpais.com/babelia/2026-11-27/los-futuros-que-no-se-han-presentado-a-las-elecciones.html"
+},
+{
+"d": "2026-11-27T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Cómo ser Elizabeth Holmes",
+"u": "https://elpais.com/babelia/2026-11-27/como-ser-elizabeth-holmes.html"
+},
+{
+"d": "2026-11-27T04:30:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Verpanzerung gegen die Zumutungen der Welt: Man sollte sich wieder mit Helmut Lethen beschäftigen",
+"u": "https://www.nzz.ch/feuilleton/verpanzerung-gegen-die-zumutungen-der-welt-man-sollte-sich-wieder-mit-helmut-lethen-beschaeftigen-ld.10075343"
+},
+{
+"d": "2026-11-27T04:25:00Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Almudena Grandes, escritora española: «Las personas felices son las que, además de ser optimistas, persiguen los sueños sabiendo que al hacerlo pueden fracasar»",
+"u": "https://theobjective.com/lifestyle/2026-11-27/almudena-grandes-escritora-espanola-sobre-la-buena-vida-la-clave-de-la-felicidad-pasa-por-ser-optimista-perseguir-tus-propios-suenos-y-sobre-todo-saber-que-al-hacerlo-puedes-fracasar/"
+},
+{
+"d": "2026-11-27T04:00:54Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "5 poetas contemporáneos de la costa de Ecuador (II)",
+"u": "https://www.zendalibros.com/5-poetas-contemporaneos-de-la-costa-de-ecuador-ii/"
+},
+{
+"d": "2026-11-27T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Lorenzo Kamel, provincializzare l'Europa",
+"u": "https://www.doppiozero.com/lorenzo-kamel-provincializzare-leuropa"
+},
+{
+"d": "2026-11-27T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La cucina horror di The Lamb",
+"u": "https://www.doppiozero.com/la-cucina-horror-di-lamb"
+},
+{
+"d": "2026-11-27T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "La pace non fa spettacolo",
+"u": "https://www.doppiozero.com/la-pace-non-fa-spettacolo"
+},
+{
+"d": "2026-11-27T01:26:35Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Crítica de teatro 'La promesa de 'L'alba' (****): Flotats, Gary y la obra del amor",
+"u": "https://www.abc.es/cultura/teatros/critica-teatro-promesa-alba-flotats-gary-obra-20261126022635-nt.html"
+},
+{
+"d": "2026-11-27T01:02:48Z",
+"s": "La Marea",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Ada Colau marca el camino",
+"u": "https://www.lamarea.com/2026/11/27/ada-colau-debate-a-cuatro/"
+},
+{
+"d": "2026-11-27T01:00:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "'La Punzión', una atrevida y original propuesta escénica sobre la maternidad tardía y el bloque artístico",
+"u": "https://www.elespanol.com/el-cultural/escenarios/teatro/20261127/punzion-atravida-original-propuesta-escenica-maternidad-tardia-bloque-artistico/1003744473257_0.html"
+},
+{
+"d": "2026-11-27T00:04:19Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Britain is stuck in a Richard Curtis movie",
+"u": "https://unherd.com/2026/11/britain-is-stuck-in-a-richard-curtis-movie/?edition=us"
+},
+{
+"d": "2026-11-26T23:04:44Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Dl cortei, la proposta Delmastro imbarazza anche i meloniani",
+"u": "https://ilmanifesto.it/dl-cortei-la-proposta-delmastro-imbarazza-anche-i-meloniani"
+},
 {
 "d": "2026-11-26T23:00:00Z",
 "s": "En attendant Nadeau",
@@ -22,74 +365,6 @@ window.CALCO = {
 ],
 "h": "ANANTA ANANDA. LA ESPIRITUALIDAD EN ERNESTO NETO",
 "u": "https://artishockrevista.com/2026/11/26/ananta-ananda-la-espiritualidad-en-ernesto-neto/"
-}
-],
-"links": [
-{
-"d": "2026-11-26T23:36:16Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Un capote «blanco Vaticano y oro» para el Papa: el toreo llega a San Pedro",
-"u": "https://www.abc.es/cultura/toros/capote-blanco-vaticano-oro-papa-toreo-llega-20261126215327-nt.html"
-},
-{
-"d": "2026-11-26T23:30:04Z",
-"s": "Die Zeit",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Frankreich: Krokodil verschluckt sich an Knochen - Feuerwehreinsatz",
-"u": "https://www.zeit.de/news/2026-11/27/krokodil-verschluckt-sich-an-knochen-feuerwehreinsatz"
-},
-{
-"d": "2026-11-26T23:22:30Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El debate de los vicepresidentes",
-"u": "https://elpais.com/opinion/2026-11-26/el-debate-de-los-vicepresidentes.html"
-},
-{
-"d": "2026-11-26T23:11:41Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "27 de noviembre de 1936: Habla Simone Weil",
-"u": "https://www.zendalibros.com/27-de-noviembre-de-1936-habla-simone-weil/"
-},
-{
-"d": "2026-11-26T23:04:44Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Dl cortei, la proposta Delmastro imbarazza anche i meloniani",
-"u": "https://ilmanifesto.it/dl-cortei-la-proposta-delmastro-imbarazza-anche-i-meloniani"
-},
-{
-"d": "2026-11-26T21:28:44Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "La Oreja de Van Gogh transforma el Sant Jordi en un gran karaoke contra el odio",
-"u": "https://www.lavanguardia.com/cultura/musica/20261126/11692541/oreja-gogh-transforma-sant-jordi-gran-karaoke-odio.html"
 },
 {
 "d": "2026-11-26T21:00:00Z",
@@ -126,39 +401,6 @@ window.CALCO = {
 "u": "https://letraslibres.com/libros/genio-politico/26/11/2026/"
 },
 {
-"d": "2026-11-26T19:30:26Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "The Strokes y Tame Impala encabezan el primer avance del cartel del Mad Cool by Zurich 2027",
-"u": "https://www.elespanol.com/el-cultural/escenarios/musica/20261126/the-strokes-tame-impala-encabezan-primer-avance-cartel-mad-cool-by-zurich/1003744474108_0.html"
-},
-{
-"d": "2026-11-26T19:00:42Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Art Mania by Kitty Hauser review – the gripping story of the man behind the Western Desert art movement",
-"u": "https://www.theguardian.com/books/2026/nov/27/art-mania-geoffrey-bardon-biography-kitty-hauser-review"
-},
-{
-"d": "2026-11-26T19:00:09Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Zoé Carle, spécialiste de l’analyse du discours : « Les slogans politiques ont parfaitement le droit d’être outranciers »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/26/zoe-carle-specialiste-de-l-analyse-du-discours-les-slogans-politiques-ont-parfaitement-le-droit-d-etre-outranciers_6815593_3232.html"
-},
-{
 "d": "2026-11-26T18:57:32Z",
 "s": "Le Figaro",
 "l": "fr",
@@ -179,50 +421,6 @@ window.CALCO = {
 ],
 "h": "Kneecap y la lengua como resistencia",
 "u": "https://cultura.nexos.com.mx/kneecap-y-la-lengua-como-resistencia/"
-},
-{
-"d": "2026-11-26T18:22:24Z",
-"s": "La Marea",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "En la lucha final",
-"u": "https://www.lamarea.com/2026/11/26/en-la-lucha-final/"
-},
-{
-"d": "2026-11-26T18:14:20Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "in europäische Hand: Weimer sieht viel Unterstützung für seinen Tiktok-Plan",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html"
-},
-{
-"d": "2026-11-26T18:00:29Z",
-"s": "Ars Technica",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Ford unveils the GT41 as it hopes to win Le Mans again",
-"u": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
-},
-{
-"d": "2026-11-26T18:00:19Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Dans « Culture : alerte rouge ! », Jérôme Clément veut relancer le combat pour la politique culturelle",
-"u": "https://www.lemonde.fr/idees/article/2026/11/26/dans-culture-alerte-rouge-jerome-clement-veut-relancer-le-combat-pour-la-politique-culturelle_6815589_3232.html"
 },
 {
 "d": "2026-11-26T18:00:00Z",
@@ -257,17 +455,6 @@ window.CALCO = {
 ],
 "h": "“La reina en el mar”: la vida sigue",
 "u": "https://letraslibres.com/cine-tv/la-reina-en-el-mar-la-vida-sigue/26/11/2026/"
-},
-{
-"d": "2026-11-26T17:25:33Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "«Deutschlands erstes Topmodel» ist tot. Veruschka ist im Alter von 87 Jahren gestorben",
-"u": "https://www.nzz.ch/feuilleton/deutschlands-erstes-topmodel-ist-tot-veruschka-ist-im-alter-von-87-jahren-gestorben-ld.10074835"
 },
 {
 "d": "2026-11-26T17:00:00Z",
@@ -313,39 +500,6 @@ window.CALCO = {
 "u": "https://www.dazeddigital.com/music/article/71358/1/underscores-ninajirachi-jane-remover-interview-coachella-2026-breakthrough-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=2026-the-year-underscores-ninajirachi-and-jane-remover-changed-pop"
 },
 {
-"d": "2026-11-26T16:46:36Z",
-"s": "Il Post",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi",
-"u": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/"
-},
-{
-"d": "2026-11-26T16:36:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Volksbühnen-Permiere von Brasch: Was das Ganze soll?",
-"u": "https://taz.de/Volksbuehnen-Permiere-von-Brasch/!6233501/"
-},
-{
-"d": "2026-11-26T16:35:43Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "L’Ukraine a détruit pour la première fois un drone à réaction avec une arme laser",
-"u": "https://legrandcontinent.eu/fr/2026/11/26/lukraine-a-detruit-pour-la-premiere-fois-un-drone-a-reaction-avec-une-arme-laser/"
-},
-{
 "d": "2026-11-26T16:04:01Z",
 "s": "Otra Parte",
 "l": "es",
@@ -379,17 +533,6 @@ window.CALCO = {
 "u": "https://www.revistaotraparte.com/otras-literaturas/una-belleza-insoportable/?utm_source=rss&utm_medium=rss&utm_campaign=una-belleza-insoportable"
 },
 {
-"d": "2026-11-26T15:21:10Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "David Cameron’s immigration dream comes true",
-"u": "https://www.newstatesman.com/politics/2026/11/david-camerons-immigration-dream-comes-true"
-},
-{
 "d": "2026-11-26T14:46:00Z",
 "s": "AnOther",
 "l": "en",
@@ -409,17 +552,6 @@ window.CALCO = {
 ],
 "h": "London Museum’s emptiness",
 "u": "https://engelsbergideas.com/notebook/london-museums-emptiness/"
-},
-{
-"d": "2026-11-26T14:02:44Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Muere Steven Hack, actor de ‘American Horror Story’ y ‘Seinfeld’, a los 68 años",
-"u": "https://theobjective.com/cultura/cine/2026-11-26/muere-steven-hack-actor/"
 },
 {
 "d": "2026-11-26T14:00:00Z",
@@ -455,17 +587,6 @@ window.CALCO = {
 "u": "https://www.404media.co/grand-thanksgiving-autumn/"
 },
 {
-"d": "2026-11-26T12:43:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "De la barra del Bar Cernégula al Palacio de los Deportes: el viaje de La M.O.D.A. tras volver a conectar con el barrio",
-"u": "https://www.elconfidencial.com/cultura/2026-11-26/la-moda-entrevista-san-felices-wegow-palacio-deportes_4472275/"
-},
-{
 "d": "2026-11-26T12:16:29Z",
 "s": "Engelsberg Ideas",
 "l": "en",
@@ -475,17 +596,6 @@ window.CALCO = {
 ],
 "h": "Marc Bloch’s physical and intellectual courage",
 "u": "https://engelsbergideas.com/notebook/marc-blochs-physical-and-intellectual-courage/"
-},
-{
-"d": "2026-11-26T12:00:10Z",
-"s": "Sifted",
-"l": "en",
-"t": [
-"europa",
-"tech"
-],
-"h": "Introducing the Skinner-Shah Award for Journalism",
-"u": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/"
 },
 {
 "d": "2026-11-26T11:01:00Z",
@@ -509,7 +619,7 @@ window.CALCO = {
 "u": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running"
 },
 {
-"d": "2026-11-26T09:56:38Z",
+"d": "2026-11-26T09:28:26Z",
 "s": "Letras Libres",
 "l": "es",
 "t": [
@@ -517,8 +627,8 @@ window.CALCO = {
 "latam",
 "ideas"
 ],
-"h": "Los raros de Echerri",
-"u": "https://letraslibres.com/libros/los-raros-de-echerri/26/11/2026/"
+"h": "¿Ha desaparecido el feminismo en estas elecciones del 29N?",
+"u": "https://letraslibres.com/politica/ha-desaparecido-el-feminismo-en-estas-elecciones-del-29n/26/11/2026/"
 },
 {
 "d": "2026-11-26T09:00:00Z",
@@ -543,17 +653,6 @@ window.CALCO = {
 "u": "https://revistacrisis.com.ar/notas/duenos-de-la-capital/"
 },
 {
-"d": "2026-11-26T07:00:26Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El espectro del desencanto: 50 años de la película que bautizó a una época",
-"u": "https://www.jotdown.es/2026/11/el-desencanto-pelicula-epoca/"
-},
-{
 "d": "2026-11-26T06:00:46Z",
 "s": "Diacritik",
 "l": "fr",
@@ -563,17 +662,6 @@ window.CALCO = {
 ],
 "h": "Stéphane Nowak Papantoniou : « Les films regardent d’autres films, les reprennent, les transforment » (On voit mieux de loin)",
 "u": "https://diacritik.com/2026/11/26/stephane-nowak-papantoniou-les-films-regardent-dautres-films-les-reprennent-les-transforment-on-voit-mieux-de-loin/"
-},
-{
-"d": "2026-11-26T06:00:18Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "L’amitié d’Amigorena (Des arbres fous)",
-"u": "https://diacritik.com/2026/11/26/lamitie-damigorena-des-arbres-fous/"
 },
 {
 "d": "2026-11-26T04:30:01Z",
@@ -607,50 +695,6 @@ window.CALCO = {
 ],
 "h": "Matar en democracia está mal",
 "u": "https://seul.ar/gordon-santucho/"
-},
-{
-"d": "2026-11-26T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La parola irriverente",
-"u": "https://www.doppiozero.com/la-parola-irriverente"
-},
-{
-"d": "2026-11-26T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Wild Horse Nine: l’assurdo e la fine della Storia",
-"u": "https://www.doppiozero.com/wild-horse-nine-lassurdo-e-la-fine-della-storia"
-},
-{
-"d": "2026-11-26T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Il Gatto Selvatico 5. I rapporti umani",
-"u": "https://www.doppiozero.com/il-gatto-selvatico-5-i-rapporti-umani"
-},
-{
-"d": "2026-11-26T00:04:14Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "The reality of Rejoin",
-"u": "https://unherd.com/2026/11/the-reality-of-rejoin/?edition=us"
 },
 {
 "d": "2026-11-26T00:00:00Z",
@@ -837,50 +881,6 @@ window.CALCO = {
 ],
 "h": "Christian Ferrer (1960-2026)",
 "u": "https://seul.ar/christian-ferrer-1960-2026/"
-},
-{
-"d": "2026-11-25T10:00:00Z",
-"s": "Revista Anfibia",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Un hilo invisible une a las mujeres de América Latina",
-"u": "https://www.revistaanfibia.com/un-hilo-invisible-une-a-las-mujeres-de-america-latina/"
-},
-{
-"d": "2026-11-25T06:01:49Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "You Can See Everything: con F de falso Fielder",
-"u": "https://cultura.nexos.com.mx/you-can-see-everything-con-f-de-falso-fielder/"
-},
-{
-"d": "2026-11-25T06:01:02Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "You Can See Everything, la construcción de lo real",
-"u": "https://cultura.nexos.com.mx/you-can-see-everything-la-construccion-de-lo-real/"
-},
-{
-"d": "2026-11-25T06:00:48Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Tu écoutes cette chanson encore",
-"u": "https://diacritik.com/2026/11/25/tu-ecoutes-cette-chanson-encore/"
 }
 ]
 };

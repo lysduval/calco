@@ -5,7 +5,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 3
+  "recientes": 4
  },
  {
   "n": "El País",
@@ -13,7 +13,7 @@
   "ok": true,
   "error": null,
   "entradas": 40,
-  "recientes": 17
+  "recientes": 18
  },
  {
   "n": "El País",
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 1
+  "recientes": 3
  },
  {
   "n": "Kaminker",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "Jot Down",
@@ -93,7 +93,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "ABC Cultura",
@@ -117,7 +117,7 @@
   "ok": true,
   "error": null,
   "entradas": 30,
-  "recientes": 13
+  "recientes": 17
  },
  {
   "n": "La Marea",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 6
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 26
+  "recientes": 37
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 12
+  "recientes": 13
  },
  {
   "n": "Seúl",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 3
+  "recientes": 2
  },
  {
   "n": "Artishock",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 12
  },
  {
   "n": "Le Monde",
@@ -293,7 +293,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "Le Monde",
@@ -333,7 +333,7 @@
   "ok": true,
   "error": null,
   "entradas": 59,
-  "recientes": 12
+  "recientes": 11
  },
  {
   "n": "Die Zeit",
@@ -349,7 +349,7 @@
   "ok": true,
   "error": null,
   "entradas": 48,
-  "recientes": 7
+  "recientes": 8
  },
  {
   "n": "Il Post",
@@ -405,7 +405,7 @@
   "ok": true,
   "error": null,
   "entradas": 28,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "The Guardian",
@@ -621,7 +621,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 7
+  "recientes": 6
  },
  {
   "n": "Hyperallergic",
@@ -637,7 +637,7 @@
   "ok": true,
   "error": null,
   "entradas": 12,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Literary Hub",
@@ -645,7 +645,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 10
+  "recientes": 6
  },
  {
   "n": "Dirt",
@@ -717,7 +717,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 11
+  "recientes": 10
  },
  {
   "n": "Ars Technica",
@@ -725,7 +725,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "404 Media",
