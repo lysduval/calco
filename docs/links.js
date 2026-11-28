@@ -1,44 +1,208 @@
 window.CALCO = {
-"updated": "2026-11-27T18:56:52Z",
+"updated": "2026-11-28T01:58:01Z",
 "tops": [
 {
-"d": "2026-11-27T17:00:00Z",
-"s": "AOC",
+"d": "2026-11-27T23:32:40Z",
+"s": "Artishock",
+"l": "es",
+"t": [
+"latam",
+"arte"
+],
+"h": "AMÉFRICA: CONEXIONES DIASPÓRICAS ENTRE ÁFRICA Y AMÉRICA",
+"u": "https://artishockrevista.com/2026/11/27/amefrica-conexiones-diasporicas-entre-africa-y-america/"
+},
+{
+"d": "2026-11-27T23:00:00Z",
+"s": "En attendant Nadeau",
 "l": "fr",
 "t": [
 "europa",
-"ideas"
+"letras"
 ],
-"h": "Lisandro Alonso : « Contrairement à ce que dit Milei, la liberté n’avance pas en Argentine »",
-"u": "https://aoc.media/entretien/2026/11/27/lisandro-alonso-contrairement-a-ce-que-dit-milei-la-liberte-navance-pas-en-argentine/"
-},
-{
-"d": "2026-11-27T16:00:41Z",
-"s": "Letras Libres",
-"l": "es",
-"t": [
-"es",
-"latam",
-"ideas"
-],
-"h": "Reaparece el fantasma de Pasolini",
-"u": "https://letraslibres.com/cultura/reaparece-el-fantasma-de-pasolini/27/11/2026/"
+"h": "Un week-end à Cracovie",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/28/un-week-end-a-cracovie/"
 }
 ],
 "links": [
 {
-"d": "2026-11-27T18:45:06Z",
+"d": "2026-11-28T01:31:13Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Cuenta atrás en la RAE: los académicos se ordenan a una semana de elegir director",
+"u": "https://www.abc.es/cultura/cuenta-atras-rae-academicos-ordenan-semana-elegir-20261128023113-nt.html"
+},
+{
+"d": "2026-11-28T01:30:48Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Volleyball-Bundesliga: Schwerin baut gegen Borken Siegesserie aus",
-"u": "https://www.zeit.de/news/2026-11/27/schwerin-baut-gegen-borken-siegesserie-aus"
+"h": "Rhein: Umweltminister setzt sich für Umbau des Rheins ein",
+"u": "https://www.zeit.de/politik/deutschland/2026-11/rhein-umbau-klimawandel-gueterverkehr-carsten-schneider"
 },
 {
-"d": "2026-11-27T18:31:31Z",
+"d": "2026-11-28T01:30:00Z",
+"s": "The Verge",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "We found 60-odd Black Friday deals we love for $100 or less",
+"u": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"
+},
+{
+"d": "2026-11-28T00:55:00Z",
+"s": "El Cultural",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "'Blade Runner 2099': ¿sueñan las plataformas de 'streaming' con series idénticas?",
+"u": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20261128/blade-runner-suenan-plataformas-streaming-series-identicas/1003744474891_12.html"
+},
+{
+"d": "2026-11-28T00:03:16Z",
+"s": "UnHerd",
+"l": "en",
+"t": [
+"europa",
+"ideas"
+],
+"h": "In defense of Man City",
+"u": "https://unherd.com/2026/11/in-defence-of-man-city/?edition=us"
+},
+{
+"d": "2026-11-27T23:11:12Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "28 de noviembre de 1936: Hablando con Companys (IV)",
+"u": "https://www.zendalibros.com/28-de-noviembre-de-1936-hablando-con-companys-iv/"
+},
+{
+"d": "2026-11-27T23:08:30Z",
+"s": "il manifesto",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Affinità e divergenze tra Rita Pavone e noi",
+"u": "https://ilmanifesto.it/affinita-e-divergenze-tra-rita-pavone-e-noi"
+},
+{
+"d": "2026-11-27T23:00:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Entretien avec Jacek Dukaj : « J’aime ce genre d’énigmes ontologiques »",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/28/entretien-avec-jacek-dukaj-jaime-ce-genre-denigmes-ontologiques/"
+},
+{
+"d": "2026-11-27T22:59:34Z",
+"s": "Jacobin",
+"l": "en",
+"t": [
+"eeuu",
+"ideas"
+],
+"h": "In Europe, Too, Amazon’s Warehouses Are a Dystopia",
+"u": "https://jacobin.com/2026/11/amazon-warehouses-europe-worker-surveillance"
+},
+{
+"d": "2026-11-27T21:53:49Z",
+"s": "Nexos",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "México: Mentiras mayores",
+"u": "https://www.nexos.com.mx/mexico-mentiras-mayores-2/"
+},
+{
+"d": "2026-11-27T21:00:00Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Votad, votad, malditos",
+"u": "https://www.lavanguardia.com/cultura/20261127/11695032/david-ucles-votad-votad-malditos-elecciones.html"
+},
+{
+"d": "2026-11-27T20:37:47Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Afd und Erinnerungskultur: Ist die Schoa-Erinnerung zur nationalen Selbstentlastung geworden?",
+"u": "https://www.faz.net/aktuell/feuilleton/debatten/zukunft-der-deutschen-erinnerungskultur-und-die-afd-201717274.html"
+},
+{
+"d": "2026-11-27T20:28:12Z",
+"s": "El Mundo",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Pornografía, propaganda y pagafantismo",
+"u": "https://www.elmundo.es/cultura/2026/11/27/6b09ac70fdddff3e058b4585.html"
+},
+{
+"d": "2026-11-27T19:58:00Z",
+"s": "Clone",
+"l": "en",
+"t": [
+"eeuu",
+"tech"
+],
+"h": "“Do we actually fuck with failure? Are we willing to see it through?”",
+"u": "https://dirt.fyi/article/2026/11/endurance-art"
+},
+{
+"d": "2026-11-27T19:30:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Buch über Ketchup: Time to catch up!",
+"u": "https://taz.de/Buch-ueber-den-oft-gering-geschaetzten-Ketchup-Ein-Tasting-zusammen-mit-den-Autoren/!6227908/"
+},
+{
+"d": "2026-11-27T19:00:00Z",
+"s": "The New Yorker",
+"l": "en",
+"t": [
+"eeuu",
+"letras"
+],
+"h": "John Goodman on “Roseanne,” the Coen Brothers, and “Digger”",
+"u": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/john-goodman-on-roseanne-the-coen-brothers-and-digger"
+},
+{
+"d": "2026-11-27T18:53:32Z",
 "s": "The Guardian",
 "l": "en",
 "t": [
@@ -60,17 +224,6 @@ window.CALCO = {
 "u": "https://www.lemonde.fr/idees/article/2026/11/27/l-appel-de-lanceurs-d-alerte-face-au-laisser-faire-de-l-etat-en-france-le-courage-civique-a-un-prix-et-nous-le-payons-encore_6815923_3232.html"
 },
 {
-"d": "2026-11-27T18:30:00Z",
-"s": "The Verge",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
-"u": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale"
-},
-{
 "d": "2026-11-27T18:26:30Z",
 "s": "Le Grand Continent",
 "l": "fr",
@@ -80,17 +233,6 @@ window.CALCO = {
 ],
 "h": "Une défaite de Sánchez en Espagne laisserait seulement deux dirigeants de gauche au Conseil européen",
 "u": "https://legrandcontinent.eu/fr/2026/11/27/une-defaite-de-sanchez-en-espagne-laisserait-seulement-deux-dirigeants-de-gauche-au-conseil-europeen/"
-},
-{
-"d": "2026-11-27T18:03:14Z",
-"s": "El Cultural",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Muere Gerald R. Molen, productor de 'La lista de Schindler' y mano derecha de Spielberg, a los 91 años",
-"u": "https://www.elespanol.com/el-cultural/cine/20261127/muere-gerald-molen-productor-lista-schindler-mano-derecha-spielberg-anos/1003744475602_0.html"
 },
 {
 "d": "2026-11-27T18:00:15Z",
@@ -104,28 +246,6 @@ window.CALCO = {
 "u": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html"
 },
 {
-"d": "2026-11-27T17:42:51Z",
-"s": "El Mundo",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Lances de Futuro plantea al PP la misma deducción fiscal para los toros de otros espectáculos culturales",
-"u": "https://www.elmundo.es/cultura/toros/2026/11/27/6b09c03be85ececc4b8b4592.html"
-},
-{
-"d": "2026-11-27T17:40:44Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Lances de Futuro propone extender a los espectáculos taurinos la deducción fiscal del 20%",
-"u": "https://www.abc.es/cultura/toros/sevilla/lances-futuro-propone-extender-espectaculos-taurinos-deduccion-20261127184044-nts.html"
-},
-{
 "d": "2026-11-27T17:05:37Z",
 "s": "Ars Technica",
 "l": "en",
@@ -135,6 +255,17 @@ window.CALCO = {
 ],
 "h": "The best Black Friday deals Ars could find",
 "u": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+},
+{
+"d": "2026-11-27T17:00:00Z",
+"s": "AOC",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Lisandro Alonso : « Contrairement à ce que dit Milei, la liberté n’avance pas en Argentine »",
+"u": "https://aoc.media/entretien/2026/11/27/lisandro-alonso-contrairement-a-ce-que-dit-milei-la-liberte-navance-pas-en-argentine/"
 },
 {
 "d": "2026-11-27T16:57:12Z",
@@ -148,26 +279,16 @@ window.CALCO = {
 "u": "https://elpais.com/cultura/2026-11-27/morante-firma-ante-el-coliseo-de-roma-que-estara-tres-tardes-en-las-ventas-en-2027.html"
 },
 {
-"d": "2026-11-27T16:51:08Z",
-"s": "La Vanguardia",
+"d": "2026-11-27T16:00:41Z",
+"s": "Letras Libres",
 "l": "es",
 "t": [
 "es",
-"arte"
+"latam",
+"ideas"
 ],
-"h": "Muere el editor Manuel Ramírez",
-"u": "https://www.lavanguardia.com/cultura/20261127/11695261/muere-editor-manuel-ramirez.html"
-},
-{
-"d": "2026-11-27T16:45:40Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Serie „Die Notaufnahme“: In Oslo überlebt man, in Berlin nicht",
-"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/norwegische-tv-serie-die-notaufnahme-ist-bestechend-201712103.html"
+"h": "Reaparece el fantasma de Pasolini",
+"u": "https://letraslibres.com/cultura/reaparece-el-fantasma-de-pasolini/27/11/2026/"
 },
 {
 "d": "2026-11-27T16:00:00Z",
@@ -214,17 +335,6 @@ window.CALCO = {
 ],
 "h": "Il film di Quentin Tarantino e David Fincher",
 "u": "https://www.ilpost.it/2026/11/27/tarantino-fincher-disavventure-cliff-booth/"
-},
-{
-"d": "2026-11-27T15:25:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Buch über Zeitschrift in Palästina: Der „Orient“, den es nicht geben durfte",
-"u": "https://taz.de/Buch-ueber-Zeitschrift-in-Palaestina/!6230815/"
 },
 {
 "d": "2026-11-27T15:22:00Z",
@@ -303,28 +413,6 @@ window.CALCO = {
 "u": "https://elpais.com/babelia/2026-11-27/museo-de-los-relampagos-oligor-microscopia-y-el-alma-de-los-objetos.html"
 },
 {
-"d": "2026-11-27T14:19:00Z",
-"s": "Clone",
-"l": "en",
-"t": [
-"eeuu",
-"tech"
-],
-"h": "The FCC has authorized SpaceX to deploy 1 million satellites",
-"u": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-},
-{
-"d": "2026-11-27T14:00:00Z",
-"s": "Jacobin",
-"l": "en",
-"t": [
-"eeuu",
-"ideas"
-],
-"h": "The Left Needs a 21st-Century Popular Front Strategy",
-"u": "https://jacobin.com/2026/11/popular-front-coalition-socialists-communists-liberals"
-},
-{
 "d": "2026-11-27T13:54:00Z",
 "s": "AnOther",
 "l": "en",
@@ -357,17 +445,6 @@ window.CALCO = {
 "u": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
 },
 {
-"d": "2026-11-27T11:18:12Z",
-"s": "Zenda",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Ganador y finalistas del concurso de relatos #conexioneshumanas",
-"u": "https://www.zendalibros.com/ganador-y-finalistas-del-concurso-de-relatos-conexioneshumanas/"
-},
-{
 "d": "2026-11-27T11:00:00Z",
 "s": "New Statesman",
 "l": "en",
@@ -377,17 +454,6 @@ window.CALCO = {
 ],
 "h": "Rewiring the state from the regions up",
 "u": "https://www.newstatesman.com/uncategorized/2026/11/rewiring-the-state-from-the-regions-up"
-},
-{
-"d": "2026-11-27T11:00:00Z",
-"s": "The New Yorker",
-"l": "en",
-"t": [
-"eeuu",
-"letras"
-],
-"h": "A Shadow History of Independent Cinema",
-"u": "https://www.newyorker.com/culture/the-front-row/a-shadow-history-of-independent-cinema"
 },
 {
 "d": "2026-11-27T11:00:00Z",
@@ -554,17 +620,6 @@ window.CALCO = {
 "u": "https://www.doppiozero.com/la-pace-non-fa-spettacolo"
 },
 {
-"d": "2026-11-27T00:04:19Z",
-"s": "UnHerd",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Britain is stuck in a Richard Curtis movie",
-"u": "https://unherd.com/2026/11/britain-is-stuck-in-a-richard-curtis-movie/?edition=us"
-},
-{
 "d": "2026-11-27T00:00:00Z",
 "s": "Sidecar (New Left Review)",
 "l": "en",
@@ -595,17 +650,6 @@ window.CALCO = {
 ],
 "h": "News From Home",
 "u": "https://www.equator.org/articles/news-from-home-rohingya-genocide-hague"
-},
-{
-"d": "2026-11-26T23:04:44Z",
-"s": "il manifesto",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Dl cortei, la proposta Delmastro imbarazza anche i meloniani",
-"u": "https://ilmanifesto.it/dl-cortei-la-proposta-delmastro-imbarazza-anche-i-meloniani"
 },
 {
 "d": "2026-11-26T23:00:00Z",
@@ -771,50 +815,6 @@ window.CALCO = {
 ],
 "h": "Matar en democracia está mal",
 "u": "https://seul.ar/gordon-santucho/"
-},
-{
-"d": "2026-11-26T00:00:00Z",
-"s": "Sidecar (New Left Review)",
-"l": "en",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Owen Hatherley: “Subtle Moves”",
-"u": "https://newleftreview.org/sidecar/posts/subtle-moves"
-},
-{
-"d": "2026-11-25T23:00:13Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "L’IA et l’Odyssée",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/26/lia-et-lodyssee/"
-},
-{
-"d": "2026-11-25T22:28:39Z",
-"s": "Artishock",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "ABRIR LAS VENTANAS Y DEJAR QUE LA LLUVIA ENTRE",
-"u": "https://artishockrevista.com/2026/11/25/abrir-las-ventanas-y-dejar-que-la-lluvia-entre/"
-},
-{
-"d": "2026-11-25T21:00:11Z",
-"s": "The Honest Broker",
-"l": "en",
-"t": [
-"eeuu",
-"arte"
-],
-"h": "Are These the 100 Best Songs of All Time? Really?",
-"u": "https://www.honest-broker.com/p/are-these-the-100-best-songs-of-all"
 }
 ]
 };
