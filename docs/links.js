@@ -1,62 +1,348 @@
 window.CALCO = {
-"updated": "2026-11-28T01:58:01Z",
+"updated": "2026-11-28T10:24:06Z",
 "tops": [
 {
-"d": "2026-11-27T23:32:40Z",
-"s": "Artishock",
+"d": "2026-11-28T07:00:06Z",
+"s": "Seúl",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "La Sole: una Argentina posible",
+"u": "https://seul.ar/la-sole-una-argentina-posible/"
+},
+{
+"d": "2026-11-28T06:01:13Z",
+"s": "Nexos",
 "l": "es",
 "t": [
 "latam",
 "arte"
 ],
-"h": "AMÉFRICA: CONEXIONES DIASPÓRICAS ENTRE ÁFRICA Y AMÉRICA",
-"u": "https://artishockrevista.com/2026/11/27/amefrica-conexiones-diasporicas-entre-africa-y-america/"
-},
-{
-"d": "2026-11-27T23:00:00Z",
-"s": "En attendant Nadeau",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Un week-end à Cracovie",
-"u": "https://www.en-attendant-nadeau.fr/2026/11/28/un-week-end-a-cracovie/"
+"h": "Los objetos en el espejo están más cerca de lo que aparentan",
+"u": "https://cultura.nexos.com.mx/los-objetos-en-el-espejo-estan-mas-cerca-de-lo-que-aparentan/"
 }
 ],
 "links": [
 {
-"d": "2026-11-28T01:31:13Z",
-"s": "ABC Cultura",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Cuenta atrás en la RAE: los académicos se ordenan a una semana de elegir director",
-"u": "https://www.abc.es/cultura/cuenta-atras-rae-academicos-ordenan-semana-elegir-20261128023113-nt.html"
-},
-{
-"d": "2026-11-28T01:30:48Z",
+"d": "2026-11-28T10:19:07Z",
 "s": "Die Zeit",
 "l": "de",
 "t": [
 "europa",
 "arte"
 ],
-"h": "Rhein: Umweltminister setzt sich für Umbau des Rheins ein",
-"u": "https://www.zeit.de/politik/deutschland/2026-11/rhein-umbau-klimawandel-gueterverkehr-carsten-schneider"
+"h": "Rentenreform: Thorsten Frei stellt Finanzierbarkeit von SPD-Rentenplänen infrage",
+"u": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-spd-rente-mit-63-cdu-thorsten-frei-gxe"
 },
 {
-"d": "2026-11-28T01:30:00Z",
+"d": "2026-11-28T10:04:23Z",
+"s": "ABC Cultura",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "José Sanchis Sinisterra: «Hace tiempo que me prohibí hacer demagogia»",
+"u": "https://www.abc.es/cultura/cultural/jose-sanchis-sinisterra-tiempo-prohibi-demagogia-20261126174145-nt.html"
+},
+{
+"d": "2026-11-28T10:00:08Z",
+"s": "Le Monde",
+"l": "fr",
+"t": [
+"europa",
+"arte"
+],
+"h": "Le lac Trasimène, en Italie, chronique en images d’une disparition annoncée",
+"u": "https://www.lemonde.fr/m-le-mag/article/2026/11/28/le-lac-trasimene-en-italie-chronique-en-images-d-une-disparition-annoncee_6816094_4500055.html"
+},
+{
+"d": "2026-11-28T10:00:00Z",
+"s": "Le Figaro",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Blake et Mortimer, Gotlib, Bourgeon : des bandes dessinées à (re)découvrir",
+"u": "https://www.lefigaro.fr/livres/blake-et-mortimer-gotlib-bourgeon-des-bandes-dessinees-a-re-decouvrir-20261128"
+},
+{
+"d": "2026-11-28T09:52:56Z",
+"s": "El País",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "Ni calladita, ni fácil: Marlene Monteiro irrumpe con exceso y talento contra todo tipo de violencia",
+"u": "https://elpais.com/cultura/2026-11-28/ni-calladita-ni-facil-marlene-monteiro-irrumpe-con-exceso-y-talento-contra-todo-tipo-de-violencia.html"
+},
+{
+"d": "2026-11-28T09:00:35Z",
+"s": "The Guardian",
+"l": "en",
+"t": [
+"europa",
+"letras"
+],
+"h": "Sly, subversive and surprisingly modern: why Agatha Christie is still making a killing",
+"u": "https://www.theguardian.com/books/2026/nov/28/sly-subversive-and-surprisingly-modern-why-agatha-christie-is-still-making-a-killing"
+},
+{
+"d": "2026-11-28T08:41:00Z",
+"s": "El Confidencial",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "La RAE celebra elecciones el 3 de diciembre sin garantía de continuidad para Santiago Muñoz Machado",
+"u": "https://www.elconfidencial.com/cultura/2026-11-28/rae-munoz-machado-tercer-mandato-1tps_4474675/"
+},
+{
+"d": "2026-11-28T08:38:54Z",
+"s": "FAZ",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "KI und ÖRR: Unser gutes Recht",
+"u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-kaempft-fuer-urheberrecht-im-ki-zeitalter-201724087.html"
+},
+{
+"d": "2026-11-28T08:29:00Z",
+"s": "taz",
+"l": "de",
+"t": [
+"europa",
+"arte"
+],
+"h": "Kulturgeschichte einer Figur: Die Tochter, eine Kopfgeburt",
+"u": "https://taz.de/Kulturgeschichte-einer-Figur/!6232882/"
+},
+{
+"d": "2026-11-28T08:00:00Z",
+"s": "La Vanguardia",
+"l": "es",
+"t": [
+"es",
+"arte"
+],
+"h": "'Castigo divino', de Sergio Ramírez",
+"u": "https://www.lavanguardia.com/cultura/20261128/11694784/castigo-divino-sergio-ramirez.html"
+},
+{
+"d": "2026-11-28T07:00:35Z",
+"s": "Jot Down",
+"l": "es",
+"t": [
+"es",
+"ideas"
+],
+"h": "Le Parolier: «Derek Bentley»",
+"u": "https://www.jotdown.es/2026/11/derek-bentley-cancion-karl-dallas/"
+},
+{
+"d": "2026-11-28T06:14:00Z",
+"s": "New Statesman",
+"l": "en",
+"t": [
+"europa",
+"arte"
+],
+"h": "The Hunger Games dream is dead",
+"u": "https://www.newstatesman.com/culture/film/2026/11/the-hunger-games-dream-is-dead"
+},
+{
+"d": "2026-11-28T06:00:24Z",
+"s": "Le Monde des livres",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Marquée par la guerre au Proche-Orient, l’écrivaine Elisa Shua Dusapin raconte comment elle a renoncé au roman pour « Sauf la frontière »",
+"u": "https://www.lemonde.fr/livres/article/2026/11/28/marquee-par-la-guerre-au-proche-orient-l-ecrivaine-elisa-shua-dusapin-raconte-comment-elle-a-renonce-au-roman-pour-sauf-la-frontiere_6816077_3260.html"
+},
+{
+"d": "2026-11-28T05:00:00Z",
+"s": "Le Grand Continent",
+"l": "fr",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Que pense vraiment Vox ?",
+"u": "https://legrandcontinent.eu/fr/2026/11/28/que-pense-vraiment-vox/"
+},
+{
+"d": "2026-11-28T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Los 12 discos de pop y rock que hay que escuchar hoy (noviembre 2026)",
+"u": "https://elpais.com/babelia/2026-11-28/los-12-discos-de-pop-y-rock-que-hay-que-escuchar-hoy-noviembre-2026.html"
+},
+{
+"d": "2026-11-28T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Trampantojo: Reflexión",
+"u": "https://elpais.com/babelia/2026-11-28/trampantojo-reflexion.html"
+},
+{
+"d": "2026-11-28T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Los mejores libros infantiles y juveniles de noviembre 2026",
+"u": "https://elpais.com/babelia/2026-11-28/los-mejores-libros-infantiles-y-juveniles-de-noviembre-2026.html"
+},
+{
+"d": "2026-11-28T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Remi Wolf se sube a la noria",
+"u": "https://elpais.com/babelia/2026-11-28/remi-wolf-se-sube-a-la-noria.html"
+},
+{
+"d": "2026-11-28T04:30:01Z",
+"s": "Babelia",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "‘Nosotras’, de Vicente Luis Mora: una sátira del mundillo literario y una fiesta para los lectores",
+"u": "https://elpais.com/babelia/2026-11-28/nosotras-de-vicente-luis-mora-una-satira-del-mundillo-literario-y-una-fiesta-para-los-lectores.html"
+},
+{
+"d": "2026-11-28T04:30:00Z",
+"s": "NZZ",
+"l": "de",
+"t": [
+"europa",
+"ideas"
+],
+"h": "Zirkuselefant erzählt Automobilgeschichte: Eine Kühlerfigur des Bugatti Royale wird in Zürich versteigert",
+"u": "https://www.nzz.ch/feuilleton/kunst_architektur/zirkus-elefant-als-rare-trophaee-eine-kuehlerfigur-des-bugatti-royale-wird-in-zuerich-versteigert-ld.10076296"
+},
+{
+"d": "2026-11-28T04:25:00Z",
+"s": "The Objective",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Mariana de Austria: la reina gobernadora",
+"u": "https://theobjective.com/cultura/2026-11-28/mariana-austria-reina-gobernadora/"
+},
+{
+"d": "2026-11-28T04:00:49Z",
+"s": "Zenda",
+"l": "es",
+"t": [
+"es",
+"letras"
+],
+"h": "Zenda recomienda: A mis mejores amigos no los he visto nunca, de Raymond Chandler",
+"u": "https://www.zendalibros.com/zenda-recomienda-a-mis-mejores-amigos-no-los-he-visto-nunca-de-raymond-chandler/"
+},
+{
+"d": "2026-11-28T03:30:00Z",
 "s": "The Verge",
 "l": "en",
 "t": [
 "eeuu",
 "tech"
 ],
-"h": "We found 60-odd Black Friday deals we love for $100 or less",
-"u": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"
+"h": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+"u": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale"
+},
+{
+"d": "2026-11-28T02:43:58Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "la tangente | gordon: cuando el monstruo tiene la última palabra",
+"u": "https://revistacrisis.com.ar/notas/la-tangente-gordon-cuando-el-monstruo-tiene-la-ultima-palabra/"
+},
+{
+"d": "2026-11-28T02:43:52Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "crisis internacional | españa al borde de la ultraderecha",
+"u": "https://revistacrisis.com.ar/notas/crisis-internacional-espana-al-borde-de-la-ultraderecha/"
+},
+{
+"d": "2026-11-28T02:43:26Z",
+"s": "Revista Crisis",
+"l": "es",
+"t": [
+"latam",
+"ideas"
+],
+"h": "crisis en el aire #271 | el homenaje a santucho se hace y la fiebre del cobre sanjuanina",
+"u": "https://revistacrisis.com.ar/notas/crisis-en-el-aire-271-el-homenaje-a-santucho-se-hace-y-la-fiebre-del-cobre-sanjuanina/"
+},
+{
+"d": "2026-11-28T02:10:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Le inquietudini di Pontormo a Roma",
+"u": "https://www.doppiozero.com/le-inquietudini-di-pontormo-roma"
+},
+{
+"d": "2026-11-28T02:05:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Simenon, il romanziere che non sapeva contare",
+"u": "https://www.doppiozero.com/simenon-il-romanziere-che-non-sapeva-contare"
+},
+{
+"d": "2026-11-28T02:00:00Z",
+"s": "Doppiozero",
+"l": "it",
+"t": [
+"europa",
+"arte"
+],
+"h": "Silvia Ballestra, Milano non è più un modello",
+"u": "https://www.doppiozero.com/silvia-ballestra-milano-non-e-piu-un-modello"
 },
 {
 "d": "2026-11-28T00:55:00Z",
@@ -81,15 +367,15 @@ window.CALCO = {
 "u": "https://unherd.com/2026/11/in-defence-of-man-city/?edition=us"
 },
 {
-"d": "2026-11-27T23:11:12Z",
-"s": "Zenda",
+"d": "2026-11-27T23:32:40Z",
+"s": "Artishock",
 "l": "es",
 "t": [
-"es",
-"letras"
+"latam",
+"arte"
 ],
-"h": "28 de noviembre de 1936: Hablando con Companys (IV)",
-"u": "https://www.zendalibros.com/28-de-noviembre-de-1936-hablando-con-companys-iv/"
+"h": "AMÉFRICA: CONEXIONES DIASPÓRICAS ENTRE ÁFRICA Y AMÉRICA",
+"u": "https://artishockrevista.com/2026/11/27/amefrica-conexiones-diasporicas-entre-africa-y-america/"
 },
 {
 "d": "2026-11-27T23:08:30Z",
@@ -101,6 +387,17 @@ window.CALCO = {
 ],
 "h": "Affinità e divergenze tra Rita Pavone e noi",
 "u": "https://ilmanifesto.it/affinita-e-divergenze-tra-rita-pavone-e-noi"
+},
+{
+"d": "2026-11-27T23:00:00Z",
+"s": "En attendant Nadeau",
+"l": "fr",
+"t": [
+"europa",
+"letras"
+],
+"h": "Un week-end à Cracovie",
+"u": "https://www.en-attendant-nadeau.fr/2026/11/28/un-week-end-a-cracovie/"
 },
 {
 "d": "2026-11-27T23:00:00Z",
@@ -136,28 +433,6 @@ window.CALCO = {
 "u": "https://www.nexos.com.mx/mexico-mentiras-mayores-2/"
 },
 {
-"d": "2026-11-27T21:00:00Z",
-"s": "La Vanguardia",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Votad, votad, malditos",
-"u": "https://www.lavanguardia.com/cultura/20261127/11695032/david-ucles-votad-votad-malditos-elecciones.html"
-},
-{
-"d": "2026-11-27T20:37:47Z",
-"s": "FAZ",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Afd und Erinnerungskultur: Ist die Schoa-Erinnerung zur nationalen Selbstentlastung geworden?",
-"u": "https://www.faz.net/aktuell/feuilleton/debatten/zukunft-der-deutschen-erinnerungskultur-und-die-afd-201717274.html"
-},
-{
 "d": "2026-11-27T20:28:12Z",
 "s": "El Mundo",
 "l": "es",
@@ -180,17 +455,6 @@ window.CALCO = {
 "u": "https://dirt.fyi/article/2026/11/endurance-art"
 },
 {
-"d": "2026-11-27T19:30:00Z",
-"s": "taz",
-"l": "de",
-"t": [
-"europa",
-"arte"
-],
-"h": "Buch über Ketchup: Time to catch up!",
-"u": "https://taz.de/Buch-ueber-den-oft-gering-geschaetzten-Ketchup-Ein-Tasting-zusammen-mit-den-Autoren/!6227908/"
-},
-{
 "d": "2026-11-27T19:00:00Z",
 "s": "The New Yorker",
 "l": "en",
@@ -200,50 +464,6 @@ window.CALCO = {
 ],
 "h": "John Goodman on “Roseanne,” the Coen Brothers, and “Digger”",
 "u": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/john-goodman-on-roseanne-the-coen-brothers-and-digger"
-},
-{
-"d": "2026-11-27T18:53:32Z",
-"s": "The Guardian",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "The week around the world in 20 pictures",
-"u": "https://www.theguardian.com/artanddesign/gallery/2026/nov/27/the-week-around-the-world-in-20-pictures"
-},
-{
-"d": "2026-11-27T18:30:06Z",
-"s": "Le Monde",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "L’appel de lanceurs d’alerte face au laisser-faire de l’Etat : « En France, le courage civique a un prix, et nous le payons encore »",
-"u": "https://www.lemonde.fr/idees/article/2026/11/27/l-appel-de-lanceurs-d-alerte-face-au-laisser-faire-de-l-etat-en-france-le-courage-civique-a-un-prix-et-nous-le-payons-encore_6815923_3232.html"
-},
-{
-"d": "2026-11-27T18:26:30Z",
-"s": "Le Grand Continent",
-"l": "fr",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Une défaite de Sánchez en Espagne laisserait seulement deux dirigeants de gauche au Conseil européen",
-"u": "https://legrandcontinent.eu/fr/2026/11/27/une-defaite-de-sanchez-en-espagne-laisserait-seulement-deux-dirigeants-de-gauche-au-conseil-europeen/"
-},
-{
-"d": "2026-11-27T18:00:15Z",
-"s": "Le Monde des livres",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Dans « L’Ecole du Sud », l’historien Onur Erdur enquête sur les expériences coloniales des intellectuels de la French Theory",
-"u": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html"
 },
 {
 "d": "2026-11-27T17:05:37Z",
@@ -266,17 +486,6 @@ window.CALCO = {
 ],
 "h": "Lisandro Alonso : « Contrairement à ce que dit Milei, la liberté n’avance pas en Argentine »",
 "u": "https://aoc.media/entretien/2026/11/27/lisandro-alonso-contrairement-a-ce-que-dit-milei-la-liberte-navance-pas-en-argentine/"
-},
-{
-"d": "2026-11-27T16:57:12Z",
-"s": "El País",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Morante firma ante el Coliseo de Roma que estará tres tardes en Las Ventas en 2027",
-"u": "https://elpais.com/cultura/2026-11-27/morante-firma-ante-el-coliseo-de-roma-que-estara-tres-tardes-en-las-ventas-en-2027.html"
 },
 {
 "d": "2026-11-27T16:00:41Z",
@@ -337,17 +546,6 @@ window.CALCO = {
 "u": "https://www.ilpost.it/2026/11/27/tarantino-fincher-disavventure-cliff-booth/"
 },
 {
-"d": "2026-11-27T15:22:00Z",
-"s": "El Confidencial",
-"l": "es",
-"t": [
-"es",
-"arte"
-],
-"h": "Pablo Messiez firma 'La forma humana', una de las obras del año con un Omar Ayuso pletórico: ¿sabemos realmente amar?",
-"u": "https://www.elconfidencial.com/cultura/2026-11-27/la-forma-humana-messiez_4473150/"
-},
-{
 "d": "2026-11-27T15:00:00Z",
 "s": "Dazed",
 "l": "en",
@@ -356,61 +554,6 @@ window.CALCO = {
 ],
 "h": "Calling all Sofia Coppola stans! You can now buy the director’s hoodie",
 "u": "https://www.dazeddigital.com/fashion/article/71424/1/sofia-coppola-stans-buy-the-director-hoodie-christmas-gift-jw-anderson-valentino?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-all-sofia-coppola-stans-you-can-now-buy-the-director-s-hoodie"
-},
-{
-"d": "2026-11-27T14:55:08Z",
-"s": "The Objective",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Muere Gerald R. Molen, histórico productor de Hollywood y mano derecha de Spielberg",
-"u": "https://theobjective.com/cultura/cine/2026-11-27/muere-gerald-r-molen-productor-spielberg/"
-},
-{
-"d": "2026-11-27T14:42:03Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Los estrenos de teatro de la semana: un monólogo para valientes, animismo eterno y una reivindicación de Margarita Xirgu",
-"u": "https://elpais.com/babelia/2026-11-27/los-estrenos-de-teatro-de-la-semana-un-monologo-para-valientes-animismo-eterno-y-una-reivindicacion-de-margarita-xirgu.html"
-},
-{
-"d": "2026-11-27T14:40:42Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘La ira de Narciso’: un laberinto dramático para valientes",
-"u": "https://elpais.com/babelia/2026-11-27/la-ira-de-narciso-un-laberinto-dramatico-para-valientes.html"
-},
-{
-"d": "2026-11-27T14:40:08Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘Xirgu’: transmisión, legado y fantasmas",
-"u": "https://elpais.com/babelia/2026-11-27/xirgu-transmision-legado-y-fantasmas.html"
-},
-{
-"d": "2026-11-27T14:39:30Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "‘Museo de los relámpagos’: Oligor, Microscopía y el alma de los objetos",
-"u": "https://elpais.com/babelia/2026-11-27/museo-de-los-relampagos-oligor-microscopia-y-el-alma-de-los-objetos.html"
 },
 {
 "d": "2026-11-27T13:54:00Z",
@@ -424,17 +567,6 @@ window.CALCO = {
 },
 {
 "d": "2026-11-27T13:00:00Z",
-"s": "Le Figaro",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "De Gaulle, Le grand dictionnaire des citations : Frédéric Turpin fait parler le Général",
-"u": "https://www.lefigaro.fr/livres/de-gaulle-le-grand-dictionnaire-des-citations-frederic-turpin-fait-parler-le-general-20261127"
-},
-{
-"d": "2026-11-27T13:00:00Z",
 "s": "MIT Technology Review",
 "l": "en",
 "t": [
@@ -443,17 +575,6 @@ window.CALCO = {
 ],
 "h": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
 "u": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
-},
-{
-"d": "2026-11-27T11:00:00Z",
-"s": "New Statesman",
-"l": "en",
-"t": [
-"europa",
-"arte"
-],
-"h": "Rewiring the state from the regions up",
-"u": "https://www.newstatesman.com/uncategorized/2026/11/rewiring-the-state-from-the-regions-up"
 },
 {
 "d": "2026-11-27T11:00:00Z",
@@ -543,17 +664,6 @@ window.CALCO = {
 "u": "https://diacritik.com/2026/11/27/conversation-sur-le-temps-avec-carlo-ossola/"
 },
 {
-"d": "2026-11-27T06:00:41Z",
-"s": "Jot Down",
-"l": "es",
-"t": [
-"es",
-"ideas"
-],
-"h": "El falso harakiri de los procuradores franquistas",
-"u": "https://www.jotdown.es/2026/11/falso-harakiri-procuradores-franquistas/"
-},
-{
 "d": "2026-11-27T06:00:04Z",
 "s": "Diacritik",
 "l": "fr",
@@ -563,61 +673,6 @@ window.CALCO = {
 ],
 "h": "La bonne pointure (Saleh Diab)",
 "u": "https://diacritik.com/2026/11/27/__trashed-6/"
-},
-{
-"d": "2026-11-27T04:30:01Z",
-"s": "Babelia",
-"l": "es",
-"t": [
-"es",
-"letras"
-],
-"h": "Los futuros que no se han presentado a las elecciones",
-"u": "https://elpais.com/babelia/2026-11-27/los-futuros-que-no-se-han-presentado-a-las-elecciones.html"
-},
-{
-"d": "2026-11-27T04:30:00Z",
-"s": "NZZ",
-"l": "de",
-"t": [
-"europa",
-"ideas"
-],
-"h": "Verpanzerung gegen die Zumutungen der Welt: Man sollte sich wieder mit Helmut Lethen beschäftigen",
-"u": "https://www.nzz.ch/feuilleton/verpanzerung-gegen-die-zumutungen-der-welt-man-sollte-sich-wieder-mit-helmut-lethen-beschaeftigen-ld.10075343"
-},
-{
-"d": "2026-11-27T02:10:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "Lorenzo Kamel, provincializzare l'Europa",
-"u": "https://www.doppiozero.com/lorenzo-kamel-provincializzare-leuropa"
-},
-{
-"d": "2026-11-27T02:05:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La cucina horror di The Lamb",
-"u": "https://www.doppiozero.com/la-cucina-horror-di-lamb"
-},
-{
-"d": "2026-11-27T02:00:00Z",
-"s": "Doppiozero",
-"l": "it",
-"t": [
-"europa",
-"arte"
-],
-"h": "La pace non fa spettacolo",
-"u": "https://www.doppiozero.com/la-pace-non-fa-spettacolo"
 },
 {
 "d": "2026-11-27T00:00:00Z",
@@ -672,17 +727,6 @@ window.CALCO = {
 ],
 "h": "ANANTA ANANDA. LA ESPIRITUALIDAD EN ERNESTO NETO",
 "u": "https://artishockrevista.com/2026/11/26/ananta-ananda-la-espiritualidad-en-ernesto-neto/"
-},
-{
-"d": "2026-11-26T18:56:50Z",
-"s": "Nexos",
-"l": "es",
-"t": [
-"latam",
-"arte"
-],
-"h": "Kneecap y la lengua como resistencia",
-"u": "https://cultura.nexos.com.mx/kneecap-y-la-lengua-como-resistencia/"
 },
 {
 "d": "2026-11-26T17:37:58Z",
@@ -771,50 +815,6 @@ window.CALCO = {
 ],
 "h": "Grand Thanksgiving Autumn",
 "u": "https://www.404media.co/grand-thanksgiving-autumn/"
-},
-{
-"d": "2026-11-26T09:00:00Z",
-"s": "Revista Anfibia",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Sin techo, sin tierra, sin trabajo",
-"u": "https://www.revistaanfibia.com/desalojos-en-caba-crisis-habitacional-jorge-macri/"
-},
-{
-"d": "2026-11-26T07:11:40Z",
-"s": "Revista Crisis",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "los dueños de la capital",
-"u": "https://revistacrisis.com.ar/notas/duenos-de-la-capital/"
-},
-{
-"d": "2026-11-26T06:00:46Z",
-"s": "Diacritik",
-"l": "fr",
-"t": [
-"europa",
-"letras"
-],
-"h": "Stéphane Nowak Papantoniou : « Les films regardent d’autres films, les reprennent, les transforment » (On voit mieux de loin)",
-"u": "https://diacritik.com/2026/11/26/stephane-nowak-papantoniou-les-films-regardent-dautres-films-les-reprennent-les-transforment-on-voit-mieux-de-loin/"
-},
-{
-"d": "2026-11-26T03:58:55Z",
-"s": "Seúl",
-"l": "es",
-"t": [
-"latam",
-"ideas"
-],
-"h": "Matar en democracia está mal",
-"u": "https://seul.ar/gordon-santucho/"
 }
 ]
 };

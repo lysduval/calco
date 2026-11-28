@@ -5,14 +5,14 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 8
+  "recientes": 12
  },
  {
   "n": "El País",
   "u": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
   "ok": true,
   "error": null,
-  "entradas": 40,
+  "entradas": 39,
   "recientes": 20
  },
  {
@@ -29,7 +29,7 @@
   "ok": true,
   "error": null,
   "entradas": 25,
-  "recientes": 3
+  "recientes": 5
  },
  {
   "n": "Kaminker",
@@ -77,7 +77,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 7
  },
  {
   "n": "Jot Down",
@@ -109,7 +109,7 @@
   "ok": true,
   "error": null,
   "entradas": 56,
-  "recientes": 29
+  "recientes": 26
  },
  {
   "n": "El Cultural",
@@ -125,7 +125,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Público",
@@ -141,7 +141,7 @@
   "ok": true,
   "error": null,
   "entradas": 100,
-  "recientes": 36
+  "recientes": 46
  },
  {
   "n": "El Confidencial",
@@ -149,7 +149,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 14
+  "recientes": 15
  },
  {
   "n": "Seúl",
@@ -173,15 +173,15 @@
   "ok": true,
   "error": null,
   "entradas": 16,
-  "recientes": 2
+  "recientes": 1
  },
  {
   "n": "Revista Crisis",
   "u": "https://revistacrisis.com.ar/feed/",
   "ok": true,
   "error": null,
-  "entradas": 1898,
-  "recientes": 1
+  "entradas": 1901,
+  "recientes": 3
  },
  {
   "n": "Nexos",
@@ -197,7 +197,7 @@
   "ok": true,
   "error": null,
   "entradas": 3,
-  "recientes": 2
+  "recientes": 3
  },
  {
   "n": "Artishock",
@@ -269,7 +269,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 4
+  "recientes": 2
  },
  {
   "n": "lundimatin",
@@ -285,7 +285,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 10
+  "recientes": 11
  },
  {
   "n": "Le Monde",
@@ -301,7 +301,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 18
+  "recientes": 17
  },
  {
   "n": "Le Figaro",
@@ -309,7 +309,7 @@
   "ok": true,
   "error": null,
   "entradas": 20,
-  "recientes": 8
+  "recientes": 9
  },
  {
   "n": "Perlentaucher",
@@ -324,7 +324,7 @@
   "u": "https://www.faz.net/rss/aktuell/feuilleton/",
   "ok": true,
   "error": null,
-  "entradas": 48,
+  "entradas": 47,
   "recientes": 25
  },
  {
@@ -413,7 +413,7 @@
   "ok": true,
   "error": null,
   "entradas": 23,
-  "recientes": 10
+  "recientes": 9
  },
  {
   "n": "New Statesman",
@@ -525,7 +525,7 @@
   "ok": true,
   "error": null,
   "entradas": 15,
-  "recientes": 13
+  "recientes": 12
  },
  {
   "n": "032c",
@@ -749,7 +749,7 @@
   "ok": true,
   "error": null,
   "entradas": 10,
-  "recientes": 5
+  "recientes": 4
  },
  {
   "n": "Simon Willison",
@@ -789,6 +789,6 @@
   "ok": true,
   "error": null,
   "entradas": 24,
-  "recientes": 11
+  "recientes": 6
  }
 ]
